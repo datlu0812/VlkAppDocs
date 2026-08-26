@@ -22,13 +22,13 @@ layout:
 
 # Chức năng Nạp dữ liệu
 
-## <mark style="color:blue;">Giới thiệu chức năng Nạp dữ liệu</mark>
+## <mark style="color:$primary;">Giới thiệu chức năng Nạp dữ liệu</mark>
 
 Chức năng **Nạp dữ liệu từ file** cho phép người dùng import dữ liệu từ các file đã chuẩn bị sẵn vào hệ thống. Người dùng có thể lựa chọn loại dữ liệu cần nạp, cấu hình thông tin import, gán các cột dữ liệu từ file với các trường thông tin tương ứng trên hệ thống, thực hiện đối chiếu dữ liệu và kiểm tra tính hợp lệ trước khi lưu dữ liệu.
 
 Chức năng hỗ trợ người dùng chuẩn hóa dữ liệu thông qua **file mẫu import**, đồng thời cho phép đính kèm file bằng thao tác kéo thả hoặc lựa chọn trực tiếp từ máy tính. Người dùng cũng có thể thực hiện các cấu hình chi tiết như thông tin chứng từ, định khoản mặc định, nguồn dữ liệu số tiền, thuế, tự động tạo sản phẩm/đối tác và các tùy chọn xác thực nâng cao.
 
-### Các chức năng chính
+## <mark style="color:$primary;">Các chức năng chính</mark>
 
 #### 1. Màn hình chức năng
 

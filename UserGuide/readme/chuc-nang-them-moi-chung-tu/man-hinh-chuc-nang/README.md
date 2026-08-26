@@ -1,6 +1,6 @@
 # Màn hình chức năng
 
-### Tổng quan màn hình nhập chứng từ mới
+### <mark style="color:$primary;">Tổng quan màn hình nhập chứng từ mới</mark>
 
 <figure><img src="../../../.gitbook/assets/màn hình nhập chứng từ.png" alt=""><figcaption></figcaption></figure>
 
@@ -9,7 +9,7 @@
 3. **Nội dung:** Hiển thị nội dung, thông tin chứng từ cần nhập vào.
 4. **Tổng hợp thông tin chứng từ:** Hiển thị thông tin tổng quan và kết quả kiểm tra của chứng từ, giúp người dùng rà soát các thông tin hạch toán và số tiền trước khi lưu chứng từ.
 
-### Combo các chức năng
+### <mark style="color:$primary;">Combo các chức năng</mark>
 
 * **Hủy (**<mark style="color:red;">**ESC**</mark>**):** Thoát khỏi màn hình nhập mới chứng từ.
 * **Lưu & Tạo tiếp** (<mark style="color:red;">**Ctrl + S**</mark>): Lưu chứng từ vừa nhập và ở lại màn hình nhập mới chứng từ để nhập tiếp một chứng từ tiếp theo.
@@ -19,7 +19,7 @@
 * **Mẹo** (<mark style="color:red;">**Phím F12**</mark>): Icon hình bóng đèn, dùng để mở bảng gợi ý phím tắt cho các chức năng.
 * **Ẩn:** Dùng để ẩn bảng tổng hợp thông tin chứng từ.
 
-### Các bảng thông tin cơ bản trong một chứng từ
+### <mark style="color:$primary;">Các bảng thông tin cơ bản trong một chứng từ</mark>
 
 Các bảng thông tin chứng từ gồm một số bảng thông tin cần thiết sau theo tùy từng loại chứng từ.
 

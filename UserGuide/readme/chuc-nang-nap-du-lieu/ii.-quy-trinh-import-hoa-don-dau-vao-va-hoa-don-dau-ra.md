@@ -10,7 +10,7 @@ description: (Hóa đơn đầu vào & Hóa đơn đầu ra)
 
 {% stepper %}
 {% step %}
-### <mark style="color:blue;">Bước 1: Chọn dữ liệu & cấu hình</mark>
+### <mark style="color:$primary;">Bước 1: Chọn dữ liệu & cấu hình</mark>
 
 **Điều kiện để nạp dữ liệu:** Chuẩn hóa dữ liệu file import.
 
@@ -104,7 +104,7 @@ Nếu người dùng muốn thay đổi file đã đính, click vào nút **“C
 {% endstep %}
 
 {% step %}
-### <mark style="color:blue;">Bước 2: Gán cột dữ liệu</mark>
+### <mark style="color:$primary;">Bước 2: Gán cột dữ liệu</mark>
 
 <figure><img src="../../.gitbook/assets/bước 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -125,7 +125,7 @@ Các chức năng:
 {% endstep %}
 
 {% step %}
-### <mark style="color:blue;">Bước 3: Đối chiếu hàng hóa</mark>
+### <mark style="color:$primary;">Bước 3: Đối chiếu hàng hóa</mark>
 
 <figure><img src="../../.gitbook/assets/bước 3.png" alt=""><figcaption></figcaption></figure>
 
@@ -189,7 +189,7 @@ Khi lựa chọn là **“Thêm mới sản phẩm”**:
 {% endstep %}
 
 {% step %}
-### <mark style="color:blue;">Bước 4: Kiểm tra & lưu</mark>
+### <mark style="color:$primary;">Bước 4: Kiểm tra & lưu</mark>
 
 <figure><img src="../../.gitbook/assets/bước 4 thành cônng.png" alt=""><figcaption></figcaption></figure>
 
@@ -200,7 +200,7 @@ Khi lựa chọn là **“Thêm mới sản phẩm”**:
 
 Nếu có dữ liệu đã tồn tại hoặc lỗi, hệ thống sẽ hiển thị cảnh báo ở mục kết quả xác thực.
 
-#### Các chức năng trên thanh công cụ
+#### <mark style="color:$primary;">Các chức năng trên thanh công cụ</mark>
 
 * **Chạy xác thực** (<mark style="color:red;">**F5**</mark>): Người dùng click chọn chức năng để thực hiện kiểm tra, rà soát lại các chứng từ nhập vào xem hợp lệ hay chưa. Nếu chưa, hệ thống sẽ cảnh báo ở bên phải màn hình, mục **“Kết quả xác thực”**.
 * **Đánh lại số chứng từ** (<mark style="color:red;">**Alt + R**</mark>): Dùng để đánh lại số chứng từ trong danh sách chứng từ import vào.

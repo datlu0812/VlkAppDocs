@@ -4,11 +4,11 @@ icon: book-bookmark
 
 # Phụ lục nghiệp vụ kế toán
 
-## Ý nghĩa
+## <mark style="color:$primary;">Ý nghĩa</mark>
 
 Phụ lục nghiệp vụ kế toán cung cấp danh sách và mô tả các nghiệp vụ kế toán phát sinh trong quá trình hoạt động của doanh nghiệp. Nội dung phụ lục giúp người dùng tra cứu mục đích, cách thực hiện và xử lý hạch toán đối với từng nghiệp vụ trên phần mềm.
 
-## Vai trò của phụ lục nghiệp vụ
+## <mark style="color:$primary;">Vai trò của phụ lục nghiệp vụ</mark>
 
 Phụ lục này đóng vai trò như một **bảng tra cứu nghiệp vụ**:
 

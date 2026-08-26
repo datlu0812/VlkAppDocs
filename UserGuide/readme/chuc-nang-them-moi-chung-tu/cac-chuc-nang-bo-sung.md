@@ -1,6 +1,6 @@
 # Các chức năng bổ sung
 
-## Chức năng thêm mới đối tác
+## <mark style="color:$primary;">Chức năng thêm mới đối tác</mark>
 
 Có 2 cách để thêm mới một đối tác.
 
@@ -93,7 +93,7 @@ Hệ thống hiển thị popup **Thêm mới đối tác**, nhập thông tin �
 * **Trạng thái:** Trạng thái hoạt động của công ty đối tác. Nếu không hoạt động sẽ không hiển thị cho chọn trong thêm mới chứng từ.
 * Sau khi nhập xong các thông tin, **Lưu** (<mark style="color:red;">**Ctrl + S**</mark>) hoặc **Hủy** (<mark style="color:red;">**ESC**</mark>).
 
-## Chức năng thêm mới hàng hóa
+## <mark style="color:$primary;">Chức năng thêm mới hàng hóa</mark>
 
 Có 2 cách để thêm mới hàng hóa.
 

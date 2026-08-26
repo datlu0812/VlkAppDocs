@@ -4,18 +4,18 @@ icon: book-medical
 
 # Chức năng thêm mới chứng từ
 
-## Tổng quan chức năng
+## <mark style="color:$primary;">Tổng quan chức năng</mark>
 
-### Giới thiệu
+### <mark style="color:blue;">Giới thiệu</mark>
 
 * Chức năng **Nhập mới chứng từ** cho phép người dùng tạo và ghi nhận một chứng từ kế toán mới vào hệ thống.
 * Người dùng có thể khai báo các thông tin chung của chứng từ, thông tin hóa đơn/chứng từ, thông tin hạch toán, thông tin hàng hóa/dịch vụ và các thông tin liên quan khác.
 
-### Đối tượng sử dụng
+### <mark style="color:blue;">Đối tượng sử dụng</mark>
 
 * Chức năng dành cho người dùng có quyền lập và nhập chứng từ kế toán trên hệ thống.
 
-### Khi nào sử dụng?
+### <mark style="color:blue;">Khi nào sử dụng?</mark>
 
 Sử dụng chức năng khi người dùng cần:
 
@@ -27,7 +27,7 @@ Sử dụng chức năng khi người dùng cần:
 * Khai báo hàng hóa, dịch vụ hoặc các thông tin chi tiết của nghiệp vụ.
 * Lưu chứng từ để tiếp tục xử lý hoặc ghi sổ theo quy trình của hệ thống.
 
-### Truy cập chức năng
+### <mark style="color:blue;">Truy cập chức năng</mark>
 
 Có 2 cách để vào màn hình nhập mới chứng từ.
 

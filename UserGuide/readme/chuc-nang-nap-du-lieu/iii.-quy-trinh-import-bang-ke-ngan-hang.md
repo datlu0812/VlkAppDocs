@@ -10,7 +10,7 @@ description: (Bảng kê ngân hàng)
 
 {% stepper %}
 {% step %}
-### <mark style="color:blue;">Bước 1: Chọn dữ liệu & cấu hình</mark>
+### <mark style="color:$primary;">Bước 1: Chọn dữ liệu & cấu hình</mark>
 
 **Điều kiện để nạp dữ liệu:** Chuẩn hóa dữ liệu file import.
 
@@ -106,7 +106,7 @@ Tick chọn **“Theo dõi hạch toán”** – trạng thái **“Đang theo d
 {% endstep %}
 
 {% step %}
-### <mark style="color:blue;">Bước 2: Gán cột dữ liệu</mark>
+### <mark style="color:$primary;">Bước 2: Gán cột dữ liệu</mark>
 
 <figure><img src="../../.gitbook/assets/bước 2 màn hình.png" alt=""><figcaption></figcaption></figure>
 
@@ -140,7 +140,7 @@ Các chức năng:
 {% endstep %}
 
 {% step %}
-### <mark style="color:blue;">Bước 3: Kiểm tra & lưu</mark>
+### <mark style="color:$primary;">Bước 3: Kiểm tra & lưu</mark>
 
 <figure><img src="../../.gitbook/assets/Bước 3 thành công.png" alt=""><figcaption></figcaption></figure>
 
