@@ -72,7 +72,7 @@ Trong quá trình thực hiện công tác kế toán, người dùng có thể 
 
 <table data-header-hidden data-search="false"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Nhóm nghiệp vụ</strong></td><td><strong>Phạm vi hỗ trợ</strong></td></tr><tr><td>Quản lý chứng từ</td><td>Chứng từ tổng hợp, phiếu thu, phiếu chi, phiếu nhập kho, phiếu xuất kho, chứng từ giá vốn và chứng từ kết chuyển.</td></tr><tr><td>Quản lý danh mục</td><td>Tài khoản kế toán, khách hàng, nhà cung cấp, đối tác, hàng hóa, sản phẩm, vật tư, đối tượng hạch toán và các danh mục liên quan.</td></tr><tr><td>Quản lý tiền</td><td>Thu tiền, chi tiền, tiền mặt, tiền gửi ngân hàng và tra cứu, đối chiếu số liệu.</td></tr><tr><td>Mua hàng</td><td>Ghi nhận mua hàng, hóa đơn đầu vào, công nợ phải trả và hàng hóa mua vào.</td></tr><tr><td>Bán hàng</td><td>Ghi nhận bán hàng, hóa đơn đầu ra, doanh thu, giá vốn và công nợ phải thu.</td></tr><tr><td>Hàng hóa và kho</td><td>Nhập kho, xuất kho, theo dõi số lượng, sản phẩm, vật tư, giá vốn và dữ liệu kho.</td></tr><tr><td>Công nợ</td><td>Theo dõi phải thu, phải trả, phát sinh công nợ, thanh toán và đối chiếu công nợ.</td></tr><tr><td>Thuế và hóa đơn</td><td>Thông tin hóa đơn đầu vào/đầu ra, thuế GTGT, thuế suất và tiền thuế.</td></tr><tr><td>Báo cáo</td><td>Báo cáo kế toán, sổ kế toán, báo cáo thuế, báo cáo tài chính và các báo cáo phục vụ quản lý, tra cứu.</td></tr></tbody></table>
 
-## <mark style="color:$success;">**6. Điểm nổi bật của ANTSoft**</mark>
+## <mark style="color:$primary;">**6. Điểm nổi bật của ANTSoft**</mark>
 
 * Quản lý dữ liệu tập trung trên một nền tảng thống nhất.
 * Hỗ trợ nhiều nhóm nghiệp vụ kế toán trong cùng hệ thống.
