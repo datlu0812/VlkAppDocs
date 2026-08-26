@@ -19,6 +19,25 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      "untitled-page",
+      {
+        "group": "sadasdasd",
+        "pages": [
+          {
+            "group": "ádsad",
+            "pages": [
+              "untitled-page-2"
+            ]
+          }
+        ]
       }
     ],
     "global": {
