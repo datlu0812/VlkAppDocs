@@ -19,7 +19,7 @@ description: (Hóa đơn đầu vào & Hóa đơn đầu ra)
 * Người dùng có thể không cần chuẩn hóa trước, vẫn có thể import, nhưng sẽ phải gán lại cột dữ liệu tương ứng ở bước **“Gán cột dữ liệu”**. Phần này sẽ mất thời gian để chọn từng loại dữ liệu phù hợp với cột dữ liệu truyền vào.
 
 {% hint style="danger" %}
-Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết kiệm thời gian và tránh sai sót thông tin khi bước vào bước **“Gán cột dữ liệu”**.
+_Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết kiệm thời gian và tránh sai sót thông tin khi bước vào bước **“Gán cột dữ liệu”**._
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/tải file mẫu 1.png" alt=""><figcaption></figcaption></figure>
