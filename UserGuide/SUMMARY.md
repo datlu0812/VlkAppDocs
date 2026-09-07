@@ -14,6 +14,7 @@
       * [Thông tin Phiếu thu](readme/chuc-nang-them-moi-chung-tu/man-hinh-chuc-nang/thong-tin-phieu-thu.md)
       * [Thông tin Phiếu chi](readme/chuc-nang-them-moi-chung-tu/man-hinh-chuc-nang/thong-tin-phieu-chi.md)
     * [Các chức năng bổ sung](readme/chuc-nang-them-moi-chung-tu/cac-chuc-nang-bo-sung.md)
+* [Chức năng Chứng từ kết chuyển](chuc-nang-chung-tu-ket-chuyen.md)
 * [Phụ lục nghiệp vụ kế toán](phu-luc-nghiep-vu-ke-toan/README.md)
   * [Tiền mặt](phu-luc-nghiep-vu-ke-toan/tien-mat.md)
   * [Tiền gửi](phu-luc-nghiep-vu-ke-toan/tien-gui.md)
