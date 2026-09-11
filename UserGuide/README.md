@@ -48,9 +48,7 @@ _<mark style="color:$danger;">Lưu ý: chứng từ trong một tháng, khi thá
 
 \+ Xem chi tiết nhanh một chứng từ (<mark style="color:red;">**Alt + Enter**</mark>): Chọn một chứng từ và mở view xem thông tin chi tiết chứng từ đó, chỉ xem không chỉnh sửa được.
 
-\+ Tick chọn hết (<mark style="color:red;">**Ctrl + A**</mark>): Đánh dấu chọn hết các chứng từ trong danh sách hiển thị.
-
-\+ Bỏ chọn hết (<mark style="color:red;">**Ctrl + Shift + A**</mark>): Bỏ chọn các chứng từ đã đánh dấu chọn
+\+ Tick chọn,bỏ chọn hết (<mark style="color:red;">**Ctrl + A**</mark>): thực hiện chọn hoặc bỏ chọn tất cả chứng từ trong danh sách
 
 #### Xử lý chứng từ: (<mark style="color:red;">**Phím F2**</mark>)
 

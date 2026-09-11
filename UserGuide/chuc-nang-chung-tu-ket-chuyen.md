@@ -69,8 +69,6 @@ icon: rotate
 
 **+ Kỳ hạch toán** (<mark style="color:red;">**Ctrl + T**</mark>): chọn thời gian hạch toán chứng từ tương ứng.
 
-**+ Tick chọn hết** (<mark style="color:red;">**Ctrl + A**</mark>): thực hiện chọn tất cả chứng từ trong danh sách
-
-**+ Bỏ chọn hết** (<mark style="color:red;">**Ctrl + Shift + A**</mark>): thực hiện bỏ chọn các chứng từ đã chọn trong danh sách
+**+ Tick chọn,bỏ chọn hết** (<mark style="color:red;">**Ctrl + A**</mark>): thực hiện chọn hoặc bỏ chọn tất cả chứng từ trong danh sách
 
 **+ Thoát về màn hình chính** (<mark style="color:red;">**ESC**</mark>)

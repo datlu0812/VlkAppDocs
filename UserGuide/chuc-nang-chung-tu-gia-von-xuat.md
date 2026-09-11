@@ -61,7 +61,7 @@ Nếu sau đó có thay đổi chứng từ nhập/xuất, giá vốn của các
 
 \- **Kỳ hạch toán** (<mark style="color:red;">**Ctrl + T**</mark>): Chọn thời gian cần hạch toán theo tháng.
 
-\- **Chọn tất cả chứng từ** (<mark style="color:red;">**Ctrl + A**</mark>): chọn toàn bộ chứng từ trong danh sách hiển thị trên màn hình. để **bỏ chọn** (<mark style="color:red;">**Ctrl + Shift + A**</mark>).
+\- **Tick chọn hoặc bỏ chọn hết** (<mark style="color:red;">**Ctrl + A**</mark>): thực hiện chọn hoặc bỏ chọn tất cả chứng từ trong danh sách.
 
-\- Thoát về màn hình chính (<mark style="color:red;">**ESC**</mark>)
+\- **Thoát về màn hình chính** (<mark style="color:red;">**ESC**</mark>)
 
