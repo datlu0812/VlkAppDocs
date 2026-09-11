@@ -20,7 +20,7 @@ icon: rotate
 
 <table data-header-hidden data-search="false"><thead><tr><th width="415" valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>Quy tắc</strong></td><td valign="top"><strong>Nợ</strong></td><td valign="top"><strong>Có</strong></td></tr><tr><td valign="top">Kết chuyển thuế gtgt được khấu trừ của hàng hóa, dịch vụ (nội địa)</td><td valign="top">13311</td><td valign="top">33311</td></tr><tr><td valign="top">Kết chuyển thuế gtgt được khấu trừ của hàng hóa, dịch vụ (nhập khẩu)</td><td valign="top">13312</td><td valign="top">33311</td></tr><tr><td valign="top">Kết chuyển doanh thu</td><td valign="top">511</td><td valign="top">911</td></tr><tr><td valign="top">Kết chuyển doanh thu tài chính</td><td valign="top">515</td><td valign="top">911</td></tr><tr><td valign="top">Kết chuyển thu nhập khác</td><td valign="top">711</td><td valign="top">911</td></tr><tr><td valign="top">Kết chuyển giá vốn</td><td valign="top">911</td><td valign="top">632</td></tr><tr><td valign="top">Kết chuyển chi phí tài chính</td><td valign="top">911</td><td valign="top">635</td></tr><tr><td valign="top">Kết chuyển chi phí bán hàng</td><td valign="top">911</td><td valign="top">641</td></tr><tr><td valign="top">Kết chuyển chi phí quản lý doanh nghiệp</td><td valign="top">911</td><td valign="top">642</td></tr><tr><td valign="top">Kết chuyển chi phí khác</td><td valign="top">911</td><td valign="top">811</td></tr><tr><td valign="top">Kết chuyển chi phí thuế thu nhập doanh nghiệp</td><td valign="top">911</td><td valign="top">821</td></tr><tr><td valign="top">Kết chuyển lãi</td><td valign="top">911</td><td valign="top">4212</td></tr><tr><td valign="top">Kết chuyển lỗ</td><td valign="top">4212</td><td valign="top">911</td></tr></tbody></table>
 
-**- Kết chuyển đầu năm** (<mark style="color:red;">**Alt + J**</mark>)**:** cho phép người dùng thực hiện chuyển số liệu từ năm tài chính trước sang năm tài chính mới hiện tại, trong đó số dư cuối kỳ của các tài khoản và các dữ liệu liên quan được sử dụng làm số liều đầu kỳ của năm mới.
+**- Kết chuyển đầu năm** (<mark style="color:red;">**Alt + J**</mark>)**:** cho phép người dùng thực hiện chuyển số liệu từ năm tài chính trước sang năm tài chính mới hiện tại, trong đó số dư cuối kỳ của các tài khoản và các dữ liệu liên quan được sử dụng làm số liệu đầu kỳ của năm mới.
 
 ⇒ Chức năng giúp đảm bảo tính liên tục của dữ liệu kế toán giữa các năm, phục vụ việc theo dõi số dư tài khoản, công nợ, hàng tồn kho, tài sản và các nghiệp vụ phát sinh trong năm hiện tại.
 
@@ -67,7 +67,7 @@ icon: rotate
 
 **+ Tìm chứng từ** (<mark style="color:red;">**Ctrl + F**</mark>): thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh chứng từ.
 
-**+ Kỳ hạch toán** (<mark style="color:red;">**Ctrl + T**</mark>): chọn thười gian hạch toán chứng từ tương ứng.
+**+ Kỳ hạch toán** (<mark style="color:red;">**Ctrl + T**</mark>): chọn thời gian hạch toán chứng từ tương ứng.
 
 **+ Tick chọn hết** (<mark style="color:red;">**Ctrl + A**</mark>): thực hiện chọn tất cả chứng từ trong danh sách
 

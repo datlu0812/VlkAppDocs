@@ -38,7 +38,7 @@ _<mark style="color:$danger;">Lưu ý: chứng từ trong một tháng, khi thá
 
 <figure><img src=".gitbook/assets/lọc.png" alt="" width="455"><figcaption></figcaption></figure>
 
-\+ Tạo bản sao chứng từ đang chọn (<mark style="color:red;">**Ctrl + Shift + C**</mark>): Chọn một chứng từ và coppy ra một bản chứng từ đã chọn.
+\+ Tạo bản sao chứng từ đang chọn (<mark style="color:red;">**Ctrl + Shift + C**</mark>): Chọn một chứng từ và copy ra một bản chứng từ đã chọn.
 
 \+ Điều chỉnh cột hiển thị (<mark style="color:red;">**Alt + D**</mark>): cho phép người dùng tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
 
