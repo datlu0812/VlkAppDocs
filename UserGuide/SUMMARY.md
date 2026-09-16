@@ -8,7 +8,6 @@
   * [Chức năng thêm mới chứng từ](readme/chuc-nang-them-moi-chung-tu/README.md)
     * [Màn hình chức năng](readme/chuc-nang-them-moi-chung-tu/man-hinh-chuc-nang/README.md)
       * [Bảng thông tin chứng từ](readme/chuc-nang-them-moi-chung-tu/man-hinh-chuc-nang/bang-thong-tin-chung-tu.md)
-      * [Copy of Bảng thông tin chứng từ](readme/chuc-nang-them-moi-chung-tu/man-hinh-chuc-nang/bang-thong-tin-chung-tu-1.md)
       * [Bảng thông tin hóa đơn](readme/chuc-nang-them-moi-chung-tu/man-hinh-chuc-nang/bang-thong-tin-hoa-don.md)
       * [Bảng kê hàng hóa](readme/chuc-nang-them-moi-chung-tu/man-hinh-chuc-nang/bang-ke-hang-hoa.md)
       * [Thông tin Phiếu nhập/xuất kho](readme/chuc-nang-them-moi-chung-tu/man-hinh-chuc-nang/thong-tin-phieu-nhap-xuat-kho.md)
