@@ -4,10 +4,10 @@
 
 <figure><img src="../../../.gitbook/assets/màn hình nhập chứng từ.png" alt=""><figcaption></figcaption></figure>
 
-1. **Đường dẫn chức năng:** Thể hiện vị trí hiện tại của người dùng trong hệ thống.
+1. **Đường dẫn chức năng:** Thể hiện vị trí hiện tại trong hệ thống.
 2. **Combo các chức năng:** Các thao tác dùng để xử lý chứng từ.
 3. **Nội dung:** Hiển thị nội dung, thông tin chứng từ cần nhập vào.
-4. **Tổng hợp thông tin chứng từ:** Hiển thị thông tin tổng quan và kết quả kiểm tra của chứng từ, giúp người dùng rà soát các thông tin hạch toán và số tiền trước khi lưu chứng từ.
+4. **Tổng hợp thông tin chứng từ:** Hiển thị thông tin tổng quan và kết quả kiểm tra của chứng từ, giúp rà soát các thông tin hạch toán và số tiền trước khi lưu chứng từ.
 
 ### <mark style="color:$primary;">Combo các chức năng</mark>
 
@@ -23,9 +23,9 @@
 
 Các bảng thông tin chứng từ gồm một số bảng thông tin cần thiết sau theo tùy từng loại chứng từ.
 
-* Bảng thông tin chứng từ
-* Bảng thông tin hóa đơn
-* Bảng kê hàng hóa
-* Thông tin Phiếu nhập/xuất
-* Thông tin Phiếu thu
-* Thông tin Phiếu chi
+* [Bảng thông tin chứng từ](bang-thong-tin-chung-tu.md)
+* [Bảng thông tin hóa đơn](bang-thong-tin-hoa-don.md)
+* [Bảng kê hàng hóa](bang-ke-hang-hoa.md)
+* [Thông tin Phiếu nhập/xuất](thong-tin-phieu-nhap-xuat-kho.md)
+* [Thông tin Phiếu thu](thong-tin-phieu-thu.md)
+* [Thông tin Phiếu chi](thong-tin-phieu-chi.md)

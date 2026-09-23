@@ -16,6 +16,8 @@
     * [Các chức năng bổ sung](readme/chuc-nang-them-moi-chung-tu/cac-chuc-nang-bo-sung.md)
 * [Chức năng Chứng từ kết chuyển](chuc-nang-chung-tu-ket-chuyen.md)
 * [Chức năng chứng từ giá vốn xuất](chuc-nang-chung-tu-gia-von-xuat.md)
+* [Danh mục](danh-muc/README.md)
+  * [Hệ thống tài khoản](danh-muc/he-thong-tai-khoan.md)
 * [Phụ lục nghiệp vụ kế toán](phu-luc-nghiep-vu-ke-toan/README.md)
   * [Tiền mặt](phu-luc-nghiep-vu-ke-toan/tien-mat.md)
   * [Tiền gửi](phu-luc-nghiep-vu-ke-toan/tien-gui.md)

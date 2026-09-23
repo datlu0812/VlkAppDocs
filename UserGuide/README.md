@@ -30,19 +30,19 @@ _<mark style="color:$danger;">Lưu ý: chứng từ trong một tháng, khi thá
 
 \+ Xóa (<mark style="color:red;">**Alt + X**</mark>): Chọn một chứng từ để xóa chứng từ đó.
 
-\+ Sắp xếp (<mark style="color:red;">**Alt + S**</mark>): Chức năng Sắp xếp cho phép người dùng thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu chứng từ.
+\+ Sắp xếp (<mark style="color:red;">**Alt + S**</mark>): Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu chứng từ.
 
 <figure><img src=".gitbook/assets/sắp xếp.png" alt="" width="410"><figcaption></figcaption></figure>
 
-\+ Lọc (<mark style="color:red;">**Alt + L**</mark>): Chức năng Lọc cho phép người dùng tìm và hiển thị các chứng từ hoặc dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
+\+ Lọc (<mark style="color:red;">**Alt + L**</mark>): Chức năng Lọc dùng để tìm và hiển thị các chứng từ hoặc dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
 
 <figure><img src=".gitbook/assets/lọc.png" alt="" width="455"><figcaption></figcaption></figure>
 
 \+ Tạo bản sao chứng từ đang chọn (<mark style="color:red;">**Ctrl + Shift + C**</mark>): Chọn một chứng từ và copy ra một bản chứng từ đã chọn.
 
-\+ Điều chỉnh cột hiển thị (<mark style="color:red;">**Alt + D**</mark>): cho phép người dùng tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
+\+ Điều chỉnh cột hiển thị (<mark style="color:red;">**Alt + D**</mark>): chức năng giúp tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
 
-\+ Chế độ xem (<mark style="color:red;">**Alt + V**</mark>): chức năng cho phép người dùng thay đổi cách hiển thị danh sách dữ liệu trên màn hình. Tùy theo nhu cầu làm việc, người dùng có thể lựa chọn hiển thị thông tin ở dạng rút gọn hoặc đầy đủ, đồng thời bật/tắt khung xem trước để theo dõi nội dung nhanh hơn.
+\+ Chế độ xem (<mark style="color:red;">**Alt + V**</mark>): chức năng dùng để thay đổi cách hiển thị danh sách dữ liệu trên màn hình. Tùy theo nhu cầu làm việc, người dùng có thể lựa chọn hiển thị thông tin ở dạng rút gọn hoặc đầy đủ, đồng thời bật/tắt khung xem trước để theo dõi nội dung nhanh hơn.
 
 <figure><img src=".gitbook/assets/chế độ xem.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,10 +54,10 @@ _<mark style="color:$danger;">Lưu ý: chứng từ trong một tháng, khi thá
 
 <figure><img src=".gitbook/assets/màn xử lý.png" alt=""><figcaption></figcaption></figure>
 
-\+ Ghi sổ/Bỏ ghi sổ: (<mark style="color:red;">**Alt + G**</mark>): Cho phép người dùng chính thức ghi nhận các chứng từ đã được kiểm tra vào hệ thống sổ kế toán. Sau khi ghi sổ, hệ thống tự động cập nhật số liệu vào các tài khoản, công nợ, kho và các báo cáo liên quan, đảm bảo số liệu kế toán được phản ánh đầy đủ và kịp thời.
+\+ Ghi sổ/Bỏ ghi sổ: (<mark style="color:red;">**Alt + G**</mark>): sử dụng để chính thức ghi nhận các chứng từ đã được kiểm tra vào hệ thống sổ kế toán. Sau khi ghi sổ, hệ thống tự động cập nhật số liệu vào các tài khoản, công nợ, kho và các báo cáo liên quan, đảm bảo số liệu kế toán được phản ánh đầy đủ và kịp thời.
 
 {% hint style="danger" %}
-_<mark style="color:$danger;">Lưu ý: là điều kiện cần để sử dụng chức năng kết chuyển toàn kỳ bên dưới, trường hợp chứng từ đã ghi sổ, người dùng thực hiện chỉnh sửa chứng từ và lưu lại, trạng thái chứng từ sẽ chuyển về thành trạng thái “NHÁP” người dùng cần thực hiện ghi sổ lại.</mark>_
+_<mark style="color:$danger;">Lưu ý: là điều kiện cần để sử dụng chức năng kết chuyển toàn kỳ bên dưới, trường hợp chứng từ đã ghi sổ,cho phép thực hiện chỉnh sửa chứng từ và lưu lại, trạng thái chứng từ sẽ chuyển về thành trạng thái “NHÁP” và cần thực hiện ghi sổ lại.</mark>_
 {% endhint %}
 
 ·   Ghi sổ (<mark style="color:red;">**Enter**</mark>)

@@ -15,8 +15,8 @@ description: (Bảng kê ngân hàng)
 **Điều kiện để nạp dữ liệu:** Chuẩn hóa dữ liệu file import.
 
 * Chọn loại dữ liệu để hiển thị ra file mẫu import phù hợp với loại import.
-* Người dùng tải file mẫu về (<mark style="color:red;">**Alt + M**</mark>), chuẩn hóa lại dữ liệu từng cột trong file dữ liệu đã chuẩn bị sẵn sang các cột tương ứng trong file mẫu đã tải.
-* Người dùng có thể không cần chuẩn hóa trước, vẫn có thể import, nhưng sẽ phải gán lại cột dữ liệu tương ứng ở bước **“Gán cột dữ liệu”**. Phần này sẽ mất thời gian để chọn từng loại dữ liệu phù hợp với cột dữ liệu truyền vào.
+* Tải file mẫu về (<mark style="color:red;">**Alt + M**</mark>), chuẩn hóa lại dữ liệu từng cột trong file dữ liệu đã chuẩn bị sẵn sang các cột tương ứng trong file mẫu đã tải.
+* Có thể không cần chuẩn hóa trước, vẫn có thể import, nhưng sẽ phải gán lại cột dữ liệu tương ứng ở bước **“Gán cột dữ liệu”**. Phần này sẽ mất thời gian để chọn từng loại dữ liệu phù hợp với cột dữ liệu truyền vào.
 
 {% hint style="danger" %}
 Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết kiệm thời gian và tránh sai sót thông tin khi bước vào bước **“Gán cột dữ liệu”**.
@@ -28,12 +28,12 @@ Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết kiệ
 
 <figure><img src="../../.gitbook/assets/cauhinhnhanh1.png" alt=""><figcaption></figcaption></figure>
 
-* Người dùng cấu hình nhanh loại dữ liệu import vào (<mark style="color:red;">**Alt + C**</mark>).
+* Cấu hình nhanh loại dữ liệu import vào (<mark style="color:red;">**Alt + C**</mark>).
 * Tùy theo loại dữ liệu import vào sẽ có mỗi quy trình khác nhau.
 
 #### Đính kèm file import
 
-Sau khi chuẩn hóa dữ liệu theo file import mẫu, người dùng có thể sử dụng các cách sau để đính kèm file:
+Sau khi chuẩn hóa dữ liệu theo file import mẫu, có thể sử dụng các cách sau để đính kèm file:
 
 * Kéo thả file vào khung import.
 * Click nút **“Chọn file”** (<mark style="color:red;">**Alt + E**</mark>) để mở hộp thoại folder, sau đó tìm đến folder chứa file và chọn file đã chuẩn hóa.
@@ -110,7 +110,7 @@ Tick chọn **“Theo dõi hạch toán”** – trạng thái **“Đang theo d
 
 <figure><img src="../../.gitbook/assets/bước 2 màn hình.png" alt=""><figcaption></figcaption></figure>
 
-Người dùng kiểm tra các cột dữ liệu để import.
+Kiểm tra các cột dữ liệu để import.
 
 Các cột thông tin hiển thị dữ liệu:
 
@@ -120,7 +120,7 @@ Các cột thông tin hiển thị dữ liệu:
 {% endstep %}
 
 {% step %}
-**Cột chứa dữ liệu:** Người dùng chọn thông tin tương ứng với thông tin của “Cột trường thông tin”; các thông tin được chọn là các cột trong file mà hệ thống kiểm tra được.
+**Cột chứa dữ liệu:** chọn thông tin tương ứng với thông tin của “Cột trường thông tin”; các thông tin được chọn là các cột trong file mà hệ thống kiểm tra được.
 {% endstep %}
 
 {% step %}
@@ -153,13 +153,13 @@ Nếu có dữ liệu đã tồn tại hoặc lỗi, hệ thống sẽ hiển th
 
 #### Các chức năng trên thanh công cụ
 
-* **Chạy xác thực** (<mark style="color:red;">**F5**</mark>): Người dùng click chọn chức năng để thực hiện kiểm tra, rà soát lại các chứng từ nhập vào xem hợp lệ hay chưa. Nếu chưa, hệ thống sẽ cảnh báo ở bên phải màn hình, mục **“Kết quả xác thực”**.
+* **Chạy xác thực** (<mark style="color:red;">**F5**</mark>): click chọn chức năng để thực hiện kiểm tra, rà soát lại các chứng từ nhập vào xem hợp lệ hay chưa. Nếu chưa, hệ thống sẽ cảnh báo ở bên phải màn hình, mục **“Kết quả xác thực”**.
 * **Đánh lại số chứng từ** (<mark style="color:red;">**Alt + R**</mark>): Dùng để đánh lại số chứng từ trong danh sách chứng từ import vào.
 * **Lọc** (<mark style="color:red;">**Alt + L**</mark>): Dùng để lọc chứng từ theo các trường hợp: hợp lệ, có lỗi, để hiển thị danh sách các chứng từ theo điều kiện.
 * **Hủy** (<mark style="color:red;">**ESC**</mark>): Dùng để thoát khỏi chức năng **“Nạp dữ liệu”**.
 * **Tìm** (<mark style="color:red;">**Ctrl + F**</mark>): Tìm chứng từ theo thông tin nhập vào.
 * **Lưu dữ liệu** (<mark style="color:red;">**Ctrl + S**</mark>): Thực hiện import danh sách chứng từ vào hệ thống.
 * **Quay về bước trước** (<mark style="color:red;">**Alt + Q**</mark>).
-* Người dùng có thể chỉnh sửa trực tiếp các thông tin chứng từ trong bảng.
+* Có thể chỉnh sửa trực tiếp các thông tin chứng từ trong bảng.
 {% endstep %}
 {% endstepper %}
