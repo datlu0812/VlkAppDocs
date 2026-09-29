@@ -4,7 +4,7 @@ description: (Danh mục hệ thống tài khoản)
 
 # Hệ thống tài khoản
 
-## <mark style="color:$primary;">Màn hình chức năng</mark>
+### <mark style="color:$primary;">Màn hình chức năng</mark>
 
 <figure><img src="../.gitbook/assets/Màn hình hệ thống tài khoản.png" alt=""><figcaption></figcaption></figure>
 
@@ -98,7 +98,7 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 
 **2. In ấn và chia sẻ (**<mark style="color:red;">**Ctrl + P**</mark>**)**
 
-\+ **In (**<mark style="color:red;">**Alt + P**</mark>**)**:
+\+ **In (**<mark style="color:red;">**Alt + P**</mark>**)**: Thực hiện in dữ liệu
 
 \+ **Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**)**: xuất danh sách dữ liệu ra file excel.
 
