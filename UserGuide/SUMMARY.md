@@ -19,6 +19,7 @@
 * [Danh mục](danh-muc/README.md)
   * [Hệ thống tài khoản](danh-muc/he-thong-tai-khoan.md)
   * [Ngân hàng](danh-muc/ngan-hang.md)
+  * [Tài khoản ngân hàng](danh-muc/tai-khoan-ngan-hang.md)
 * [Phụ lục nghiệp vụ kế toán](phu-luc-nghiep-vu-ke-toan/README.md)
   * [Tiền mặt](phu-luc-nghiep-vu-ke-toan/tien-mat.md)
   * [Tiền gửi](phu-luc-nghiep-vu-ke-toan/tien-gui.md)

@@ -81,7 +81,7 @@
 
 \+ **Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**)**: xuất danh sách dữ liệu ra file excel.
 
-### <mark style="color:$primary;">Chức năng nạp mới dữ liệu</mark>
+### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
 <figure><img src="../.gitbook/assets/tạo mới ngân hàng.png" alt=""><figcaption></figcaption></figure>
 
