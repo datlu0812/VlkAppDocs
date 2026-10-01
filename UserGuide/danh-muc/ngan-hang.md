@@ -4,8 +4,6 @@
 
 <figure><img src="../.gitbook/assets/màn hình ngân hàng.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:$primary;">Giới thiệu Danh mục ngân hàng</mark>
-
 \- Danh mục Ngân hàng là chức năng dùng để quản lý thông tin các ngân hàng được sử dụng trong phần mềm kế toán.&#x20;
 
 \- Danh mục này giúp **chuẩn hóa thông tin ngân hàng**, phục vụ việc khai báo tài khoản ngân hàng, lập và hạch toán các nghiệp vụ **thu – chi tiền gửi ngân hàng, chuyển khoản, đối soát giao dịch** và tra cứu thông tin ngân hàng.

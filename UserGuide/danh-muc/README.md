@@ -44,15 +44,15 @@ icon: bars-staggered
 
 \- Việc thiết lập đầy đủ các danh mục giúp doanh nghiệp chuẩn hóa dữ liệu đầu vào, hỗ trợ nhập liệu nhanh chóng, hạn chế sai sót và đảm bảo số liệu được tổng hợp thống nhất trên sổ sách, báo cáo.
 
-**· Hệ thống tài khoản:** Sơ đồ tài khoản theo Thông tư **99/2025/TT-BTC** — khung xương của mọi bút toán.
+**·** [**Hệ thống tài khoản**](he-thong-tai-khoan.md)**:** Sơ đồ tài khoản theo Thông tư **99/2025/TT-BTC** — khung xương của mọi bút toán.
 
-**· Ngân hàng:** Danh mục định chế ngân hàng (**VCB, ACB...**) dùng tham chiếu cho tài khoản ngân hàng.
+**·** [**Ngân hàng**](ngan-hang.md)**:** Danh mục định chế ngân hàng (**VCB, ACB...**) dùng tham chiếu cho tài khoản ngân hàng.
 
-**· Tài khoản ngân hàng:** Tài khoản tiền gửi của doanh nghiệp (**TK 112**) — chi tiết số ngân hàng & ủy nhiệm chi.
+**·** [**Tài khoản ngân hàng**](tai-khoan-ngan-hang.md)**:** Tài khoản tiền gửi của doanh nghiệp (**TK 112**) — chi tiết số ngân hàng & ủy nhiệm chi.
 
 **· Ngoại tệ:** Loại tiền và tỷ giá hạch toán cho giao dịch ngoại tệ và đánh giá lại cuối kỳ.
 
-**· Thuế suất GTGT:** Các mức thuế suất GTGT, gắn vào dòng hàng để tính thuế đầu ra/đầu vào.
+**·** [**Thuế suất GTGT**](thue-suat-gtgt.md#chuc-nang-tao-moi-du-lieu)**:** Các mức thuế suất GTGT, gắn vào dòng hàng để tính thuế đầu ra/đầu vào.
 
 **· Khoản mục chi phí:** Phân loại chi phí để lập báo cáo quản trị (**TK 154, 627, 641, 642**).
 
@@ -82,7 +82,7 @@ icon: bars-staggered
 
 \- Thông tin được khai báo trong danh mục là cơ sở để có thể thực hiện các nghiệp vụ nhập kho, xuất kho, mua hàng, bán hàng, điều chuyển kho, kiểm kê và tính giá vốn trên phần mềm.
 
-**· Vật tư, hàng hóa, thành phẩm:** Nguyên vật liệu, hàng hóa, thành phẩm, hàng gửi bán — CCDC xem ở danh mục Công cụ.
+**· Vật tư, hàng hóa, thành phẩm:** Nguyên vật liệu, hàng hóa, thành phẩm, hàng gửi bán — CCDC xem ở danh mục <mark style="background-color:$warning;">**Công cụ**</mark>.
 
 **· Nhóm vật tư, hàng hóa:** Phân nhóm hàng hóa để lọc và báo cáo nhập – xuất – tồn theo nhóm.
 
@@ -112,6 +112,6 @@ icon: bars-staggered
 
 **· Phòng ban:** Cơ cấu tổ chức để phân bổ chi phí và báo cáo theo bộ phận.
 
-**· Đối tượng tập hợp chi phí:** Đối tượng tính giá thành (**công trình, đơn hàng, sản phẩm**) -> TK 154.
+**· Đối tượng tập hợp chi phí:** Đối tượng tính giá thành (**công trình, đơn hàng, sản phẩm**) -> **TK 154**.
 
 **· Công trình, vụ việc:** Công trình, dự án, vụ việc — theo dõi doanh thu, chi phí và lãi/lỗ riêng.

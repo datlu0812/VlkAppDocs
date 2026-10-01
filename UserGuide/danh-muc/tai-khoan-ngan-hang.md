@@ -62,7 +62,7 @@
 
 **2. In ấn và chia sẻ (**<mark style="color:red;">**Ctrl + P**</mark>**)**
 
-**+ In (**<mark style="color:red;">**Alt + P**</mark>**):**
+**+ In (**<mark style="color:red;">**Alt + P**</mark>**):** Thực hiện in dữ liệu
 
 **+ Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**):** xuất danh sách dữ liệu ra file excel.
 
