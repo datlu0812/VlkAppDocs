@@ -21,6 +21,7 @@
   * [Ngân hàng](danh-muc/ngan-hang.md)
   * [Tài khoản ngân hàng](danh-muc/tai-khoan-ngan-hang.md)
   * [Thuế suất GTGT](danh-muc/thue-suat-gtgt.md)
+  * [Loại chứng từ](danh-muc/loai-chung-tu.md)
 * [Phụ lục nghiệp vụ kế toán](phu-luc-nghiep-vu-ke-toan/README.md)
   * [Tiền mặt](phu-luc-nghiep-vu-ke-toan/tien-mat.md)
   * [Tiền gửi](phu-luc-nghiep-vu-ke-toan/tien-gui.md)
