@@ -2,7 +2,7 @@
 
 ### <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../.gitbook/assets/màn hình loại chứng từ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình loại chứng từ.png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục loại chứng từ là chức năng dùng để quản lý và thiết lập các loại chứng từ được sử dụng trong phần mềm kế toán. Mỗi loại chứng từ đại diện cho một nhóm nghiệp vụ kế toán có cùng mục đích xử lý, giúp phân loại, nhận diện, nhập liệu và quản lý chứng từ một cách thống nhất.
 
@@ -92,7 +92,11 @@ Doanh nghiệp phát sinh nghiệp vụ thu tiền của khách hàng bằng ti�
 
 ### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
-<figure><img src="../.gitbook/assets/popup loại chứng từ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/popup loại chứng từ.png" alt=""><figcaption></figcaption></figure>
+
+**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
+
+**+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 
 | **Tên trường**        | **Ý nghĩa**                                                                                | **Phương thức nhập**                                  | **Ví dụ**                                             | **Quy tắc kiểm tra**                                                                                                              |
 | --------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |

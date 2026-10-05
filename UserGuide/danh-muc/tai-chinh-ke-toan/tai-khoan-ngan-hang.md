@@ -2,7 +2,7 @@
 
 ### <mark style="color:$primary;">**Màn hình chức năng**</mark>
 
-<figure><img src="../.gitbook/assets/màn hình tài khoản ngân hàng.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình tài khoản ngân hàng.png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục Tài khoản ngân hàng dùng để quản lý các tài khoản tiền gửi mà doanh nghiệp mở và sử dụng tại các ngân hàng. Mỗi tài khoản được khai báo các thông tin như ngân hàng, số tài khoản, loại tiền và tài khoản kế toán liên quan.
 
@@ -68,7 +68,11 @@
 
 ### <mark style="color:$primary;">**Chức năng tạo mới dữ liệu**</mark>
 
-<figure><img src="../.gitbook/assets/popup tạo tài khoản ngân hàng.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/popup tạo tài khoản ngân hàng.png" alt=""><figcaption></figcaption></figure>
+
+**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
+
+**+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 
 | **Tên trường**                 | **Ý nghĩa**                                                                                              | **Phương thức nhập**                                              | **Ví dụ**                            | **Quy tắc kiểm tra**                                                                                                                                                  |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

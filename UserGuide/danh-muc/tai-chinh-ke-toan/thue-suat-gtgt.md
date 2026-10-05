@@ -2,7 +2,7 @@
 
 ### <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../.gitbook/assets/màn hình danh mục thuế.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình danh mục thuế.png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục thuế suất GTGT là nơi dùng để khai báo và quản lý các mức thuế suất giá trị gia tăng (GTGT) được sử dụng trong phần mềm kế toán. Danh mục này giúp phần mềm xác định đúng tỷ lệ thuế khi thực hiện lập chứng từ mua vào, bán ra hoặc nhập các nghiệp vụ có phát sinh thuế GTGT.
 
@@ -90,7 +90,11 @@ Hệ thống có thể tự động tính tiền thuế và tổng tiền thanh 
 
 ### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
-<figure><img src="../.gitbook/assets/popup tạo mới thuế.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/popup tạo mới thuế.png" alt=""><figcaption></figcaption></figure>
+
+**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
+
+**+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 
 <table data-header-hidden><thead><tr><th></th><th></th><th></th><th width="109"></th><th></th></tr></thead><tbody><tr><td><strong>Tên trường</strong></td><td><strong>Ý nghĩa</strong></td><td><strong>Phương thức nhập</strong></td><td><strong>Ví dụ</strong></td><td><strong>Quy tắc kiểm tra</strong></td></tr><tr><td><strong>Mã thuế suất</strong></td><td>Mã dùng để định danh và phân biệt từng loại thuế suất trong hệ thống.</td><td>Nhập một mã ngắn, dễ nhận biết để sử dụng khi tra cứu hoặc chọn thuế suất trên chứng từ.</td><td>VAT10, VAT08, VAT05</td><td><p>+ Không được để trống.</p><p>+ Không được trùng với mã thuế suất đã có.</p><p>+ Không nên chứa ký tự đặc biệt không được hệ thống hỗ trợ.</p></td></tr><tr><td><strong>Tên thuế suất</strong></td><td>Tên hiển thị của loại thuế suất trong danh mục và tại các chức năng có sử dụng thuế suất.</td><td>Nhập tên mô tả loại thuế suất.</td><td>Thuế suất GTGT 10%</td><td><p>+ Không được để trống.</p><p>+ Không nên trùng tên với loại thuế suất khác nếu hệ thống yêu cầu tên duy nhất.</p></td></tr><tr><td><strong>Thuế suất (%) cho</strong></td><td>Xác định tỷ lệ phần trăm thuế GTGT áp dụng cho loại thuế suất đang khai báo.</td><td>Nhập tỷ lệ thuế theo đơn vị phần trăm.</td><td>10</td><td><p>+ Chỉ cho phép nhập số, giá trị phải nằm trong khoảng mà hệ thống cho phép.</p><p>+ Không nhập ký hiệu % mạc định hệ thống thuế đã là %.</p></td></tr><tr><td><strong>Trạng thái</strong></td><td>Xác định loại thuế suất có được phép sử dụng trong phần mềm hay không.</td><td>Bật/tắt trạng thái. Mặc định là <strong>Đang sử dụng</strong>.</td><td>Bật – <strong>Đang sử dụng</strong></td><td><p>+ Khi bật, loại thuế suất có thể được chọn trên các chứng từ/chức năng liên quan.</p><p>+ Khi tắt, không cho phép sử dụng cho giao dịch mới nhưng vẫn có thể giữ lại để tra cứu dữ liệu cũ.</p></td></tr><tr><td><strong>Hiệu lực từ</strong></td><td>Xác định ngày bắt đầu áp dụng của loại thuế suất.</td><td>Chọn ngày mà loại thuế suất bắt đầu có hiệu lực.</td><td>01/01/2027</td><td><p>+ Nếu có nhập, ngày hiệu lực từ không được lớn hơn ngày hiệu lực đến.</p><p>+ Mặc định: <strong>Không giới hạn</strong>.</p></td></tr><tr><td><strong>Hiệu lực đến</strong></td><td>Xác định ngày kết thúc áp dụng của loại thuế suất.</td><td>Chọn ngày mà loại thuế suất hết hiệu lực.</td><td>31/12/2027</td><td><p>+ Nếu có nhập, ngày hiệu lực đến không được nhỏ hơn ngày hiệu lực từ.</p><p>+ Mặc định: <strong>Không giới hạn</strong>.</p></td></tr></tbody></table>
 

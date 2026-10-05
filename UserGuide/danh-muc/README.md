@@ -44,15 +44,15 @@ icon: bars-staggered
 
 \- Việc thiết lập đầy đủ các danh mục giúp doanh nghiệp chuẩn hóa dữ liệu đầu vào, hỗ trợ nhập liệu nhanh chóng, hạn chế sai sót và đảm bảo số liệu được tổng hợp thống nhất trên sổ sách, báo cáo.
 
-**·** [**Hệ thống tài khoản**](he-thong-tai-khoan.md)**:** Sơ đồ tài khoản theo Thông tư **99/2025/TT-BTC** — khung xương của mọi bút toán.
+**·** [**Hệ thống tài khoản**](tai-chinh-ke-toan/he-thong-tai-khoan.md)**:** Sơ đồ tài khoản theo Thông tư **99/2025/TT-BTC** — khung xương của mọi bút toán.
 
-**·** [**Ngân hàng**](ngan-hang.md)**:** Danh mục định chế ngân hàng (**VCB, ACB...**) dùng tham chiếu cho tài khoản ngân hàng.
+**·** [**Ngân hàng**](tai-chinh-ke-toan/ngan-hang.md)**:** Danh mục định chế ngân hàng (**VCB, ACB...**) dùng tham chiếu cho tài khoản ngân hàng.
 
-**·** [**Tài khoản ngân hàng**](tai-khoan-ngan-hang.md)**:** Tài khoản tiền gửi của doanh nghiệp (**TK 112**) — chi tiết số ngân hàng & ủy nhiệm chi.
+**·** [**Tài khoản ngân hàng**](tai-chinh-ke-toan/tai-khoan-ngan-hang.md)**:** Tài khoản tiền gửi của doanh nghiệp (**TK 112**) — chi tiết số ngân hàng & ủy nhiệm chi.
 
 **· Ngoại tệ:** Loại tiền và tỷ giá hạch toán cho giao dịch ngoại tệ và đánh giá lại cuối kỳ.
 
-**·** [**Thuế suất GTGT**](thue-suat-gtgt.md#chuc-nang-tao-moi-du-lieu)**:** Các mức thuế suất GTGT, gắn vào dòng hàng để tính thuế đầu ra/đầu vào.
+**·** [**Thuế suất GTGT**](tai-chinh-ke-toan/thue-suat-gtgt.md#chuc-nang-tao-moi-du-lieu)**:** Các mức thuế suất GTGT, gắn vào dòng hàng để tính thuế đầu ra/đầu vào.
 
 **· Khoản mục chi phí:** Phân loại chi phí để lập báo cáo quản trị (**TK 154, 627, 641, 642**).
 

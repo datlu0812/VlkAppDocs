@@ -1,0 +1,12 @@
+# Tài chính - kế toán
+
+<figure><img src="../../.gitbook/assets/Màn hình tổng quan tài chính kế toán.png" alt=""><figcaption></figcaption></figure>
+
+\- Danh mục Tài chính – Kế toán là nhóm chức năng dùng để khai báo và quản lý các thông tin nền tảng phục vụ hoạt động kế toán trong phần mềm ANTSoft. Nhóm danh mục bao gồm Hệ thống tài khoản, Ngân hàng, Tài khoản ngân hàng, Ngoại tệ, Thuế (Các mức thuế suất), Khoản mục chi phí, Quy tắc kết chuyển và Loại chứng từ.
+
+\- Mỗi danh mục đảm nhận một vai trò riêng, từ thiết lập tài khoản hạch toán, quản lý thông tin ngân hàng và tiền tệ, khai báo thuế suất, phân loại chi phí đến cấu hình quy tắc kết chuyển và quản lý loại chứng từ. Các thông tin được khai báo trong nhóm danh mục này là cơ sở để các chức năng nghiệp vụ sử dụng khi lập chứng từ, ghi nhận giao dịch, xử lý số liệu và lập báo cáo kế toán.
+
+\- Việc thiết lập và quản lý tốt nhóm danh mục Tài chính – Kế toán giúp chuẩn hóa dữ liệu, giảm thao tác nhập liệu lặp lại, hạn chế sai sót và nâng cao hiệu quả quản lý kế toán của doanh nghiệp.
+
+<table data-header-hidden><thead><tr><th width="61"></th><th width="226"></th><th></th></tr></thead><tbody><tr><td><strong>STT</strong></td><td><strong>Danh mục</strong></td><td><strong>Mục đích chính</strong></td></tr><tr><td>1</td><td><a href="he-thong-tai-khoan.md"><strong>Hệ thống tài khoản</strong></a></td><td>Thiết lập tài khoản dùng để hạch toán và tổng hợp số liệu kế toán.</td></tr><tr><td>2</td><td><a href="ngan-hang.md"><strong>Ngân hàng</strong></a></td><td>Quản lý thông tin các ngân hàng trong hệ thống.</td></tr><tr><td>3</td><td><a href="tai-khoan-ngan-hang.md"><strong>Tài khoản ngân hàng</strong></a></td><td>Quản lý tài khoản ngân hàng cụ thể của doanh nghiệp.</td></tr><tr><td>4</td><td><a href="ngoai-te.md"><strong>Ngoại tệ</strong></a></td><td>Quản lý loại tiền tệ và hỗ trợ hạch toán giao dịch ngoại tệ.</td></tr><tr><td>5</td><td><a href="thue-suat-gtgt.md"><strong>Thuế suất GTGT</strong></a></td><td>Quản lý tỷ lệ thuế phục vụ tính toán và ghi nhận thuế.</td></tr><tr><td>6</td><td><a href="khoan-muc-chi-phi-chua.md"><strong>Khoản mục chi phí</strong></a></td><td>Phân loại, theo dõi và tổng hợp chi phí.</td></tr><tr><td>7</td><td><a href="quy-tac-ket-chuyen-chua.md"><strong>Quy tắc kết chuyển</strong></a></td><td>Thiết lập quy tắc hỗ trợ tạo bút toán kết chuyển.</td></tr><tr><td>8</td><td><a href="loai-chung-tu.md"><strong>Loại chứng từ</strong></a></td><td>Phân loại và quản lý các loại chứng từ kế toán.</td></tr></tbody></table>
+

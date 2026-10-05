@@ -2,7 +2,7 @@
 
 ### <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../.gitbook/assets/màn hình ngân hàng.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình ngân hàng.png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục Ngân hàng là chức năng dùng để quản lý thông tin các ngân hàng được sử dụng trong phần mềm kế toán.&#x20;
 
@@ -81,7 +81,11 @@
 
 ### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
-<figure><img src="../.gitbook/assets/tạo mới ngân hàng.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tạo mới ngân hàng.png" alt=""><figcaption></figcaption></figure>
+
+**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
+
+**+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 
 | **Tên trường**     | **Ý nghĩa**                                                                                            | **Phương thức nhập**                                                                | **Ví dụ**                      | **Quy tắc kiểm tra**                                                                                                                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

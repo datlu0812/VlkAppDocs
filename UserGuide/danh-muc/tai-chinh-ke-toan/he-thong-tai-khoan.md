@@ -6,7 +6,7 @@ description: (Danh mục hệ thống tài khoản)
 
 ### <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../.gitbook/assets/Màn hình hệ thống tài khoản.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Màn hình hệ thống tài khoản.png" alt=""><figcaption></figcaption></figure>
 
 \- Hệ thống tài khoản là chức năng dùng để khai báo, quản lý và sử dụng các tài khoản kế toán phục vụ việc ghi nhận và phân loại các nghiệp vụ kinh tế, tài chính phát sinh trong doanh nghiệp.
 
@@ -102,7 +102,11 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 
 ### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
-<figure><img src="../.gitbook/assets/Popup tạo mới tài khoản.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Popup tạo mới tài khoản.png" alt=""><figcaption></figcaption></figure>
+
+**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
+
+**+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 
 | **Tên trường**           | **Ý nghĩa**                                                                                         | **Phương thức nhập**                                                                             | **Ví dụ**                             | **Quy tắc kiểm tra**                                                                                                                                                                                                                                                        |
 | ------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -116,4 +120,3 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 | **Trạng thái**           | Cho biết tài khoản hiện có được phép sử dụng trong hệ thống hay không.                              | Chọn hoặc thiết lập trạng thái tài khoản theo nhu cầu quản lý.                                   | Hoạt động                             | Tài khoản ở trạng thái ngừng hoạt động không được sử dụng cho các nghiệp vụ mới nếu hệ thống áp dụng quy tắc này.                                                                                                                                                           |
 
 ### <mark style="color:$primary;">Chức năng nạp dữ liệu</mark>
-
