@@ -1,3 +1,7 @@
+---
+description: (Danh mục ngoại tệ)
+---
+
 # Ngoại tệ
 
 ### <mark style="color:$primary;">Màn hình chức năng</mark>

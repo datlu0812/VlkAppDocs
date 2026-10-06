@@ -1,3 +1,7 @@
+---
+description: (Danh mục tài khoản ngân hàng)
+---
+
 # Tài khoản ngân hàng
 
 ### <mark style="color:$primary;">**Màn hình chức năng**</mark>

@@ -1,3 +1,7 @@
+---
+description: (Danh mục thuế suất GTGT)
+---
+
 # Thuế suất GTGT
 
 ### <mark style="color:$primary;">Màn hình chức năng</mark>
