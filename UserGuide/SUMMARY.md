@@ -28,7 +28,7 @@
     * [Loại chứng từ](danh-muc/tai-chinh-ke-toan/loai-chung-tu.md)
   * [Đối tượng](danh-muc/doi-tuong/README.md)
     * [Đối tượng hạch toán khác](danh-muc/doi-tuong/doi-tuong-hach-toan-khac.md)
-    * [Đối tác (chưa)](danh-muc/doi-tuong/doi-tac-chua.md)
+    * [Đối tác](danh-muc/doi-tuong/doi-tac.md)
     * [Nhân viên (chưa)](danh-muc/doi-tuong/nhan-vien-chua.md)
 * [Phụ lục nghiệp vụ kế toán](phu-luc-nghiep-vu-ke-toan/README.md)
   * [Tiền mặt](phu-luc-nghiep-vu-ke-toan/tien-mat.md)
