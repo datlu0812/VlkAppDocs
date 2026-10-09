@@ -32,7 +32,7 @@ description: (Danh mục đối tượng hạch toán khác)
 
 Khi phát sinh các khoản chi phí liên quan đến công trình này, có thể gắn **Công ty TNHH TTT GLASS** vào chứng từ. Sau đó, hệ thống có thể sử dụng thông tin đối tượng để tổng hợp và theo dõi tổng chi phí đã phát sinh cho công trình.
 
-### <mark style="color:$primary;">Các chức năng trong danh mục thuế suất GTGT</mark>
+### <mark style="color:$primary;">Các chức năng trong danh mục đối tượng hạch toán khác</mark>
 
 **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
@@ -96,7 +96,7 @@ Khi phát sinh các khoản chi phí liên quan đến công trình này, có th
 
 **​+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 
-| **Tên trường**          | **Ý nghĩa**                                                                                                   | **Phương thức nhập**                                                                     | **Ví dụ**                             | **Quy tắc kiểm tra**                                                                                                                                                         |
+| **Tên trường**          | **Ý nghĩa**                                                                                                   | **Phương thức nhập**                                                                     | **Ví dụ**                             | **Quy tắc nhập**                                                                                                                                                             |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Mã đối tượng**        | Là mã định danh dùng để phân biệt đối tượng hạch toán này với các đối tượng khác trong hệ thống.              | Nhập mã ngắn gọn, dễ nhận biết cho đối tượng cần theo dõi.                               | DT0001                                | <p>+ Không được để trốn.</p><p>+ Mã nhập vào phải duy nhất trong danh mục.</p><p>+ Không nên sử dụng mã đã tồn tại.</p>                                                      |
 | **Tên đối tượng**       | Là tên dùng để nhận biết và hiển thị đối tượng hạch toán trong danh mục, chứng từ và các chức năng liên quan. | Nhập tên đầy đủ của đối tượng cần theo dõi.                                              | Công trình Khu dân cư số 1            | <p>+ Không được để trống.</p><p>+ Nhập tên rõ ràng, dễ phân biệt giữa các đối tượng.</p>                                                                                     |

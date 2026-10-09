@@ -31,7 +31,7 @@ TK 111 dùng để phản ánh tiền mặt tại quỹ.
 
 Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối của định khoản.
 
-#### <mark style="color:blue;">Ví dụ một số tài khoản thường dùng</mark>
+#### Ví dụ một số tài khoản thường dùng
 
 | **Số hiệu** | **Tên tài khoản**                      | **Nội dung theo dõi**                                       |
 | ----------- | -------------------------------------- | ----------------------------------------------------------- |
@@ -44,7 +44,7 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 | 632         | Giá vốn hàng bán                       | Giá vốn của hàng hóa, sản phẩm, dịch vụ đã bán              |
 | 642         | Chi phí quản lý doanh nghiệp           | Các chi phí phục vụ hoạt động quản lý doanh nghiệp          |
 
-#### <mark style="color:blue;">Các chức năng trong danh mục hệ thống tài khoản</mark>
+### <mark style="color:$primary;">Các chức năng trong danh mục hệ thống tài khoản</mark>
 
 **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
@@ -108,7 +108,7 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 
 **+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 
-| **Tên trường**           | **Ý nghĩa**                                                                                         | **Phương thức nhập**                                                                             | **Ví dụ**                             | **Quy tắc kiểm tra**                                                                                                                                                                                                                                                        |
+| **Tên trường**           | **Ý nghĩa**                                                                                         | **Phương thức nhập**                                                                             | **Ví dụ**                             | **Quy tắc nhập**                                                                                                                                                                                                                                                            |
 | ------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Số tài khoản**         | Số hiệu dùng để nhận diện tài khoản kế toán và phân biệt giữa các tài khoản trong hệ thống.         | Nhập số hiệu tài khoản theo hệ thống tài khoản kế toán áp dụng cấp 1 ,cấp 2 ,cấp 3…              | <p> </p><p>111</p>                    | <p>+ Không được trùng số hiệu tài khoản.</p><p>+ Phải đúng định dạng theo quy định của bộ tài chính.</p><p>+ Trường hợp tài khoản tạo mới là một tài khoản cấp 2 hoặc cấp 3. Cần phải chọn tài khoản cha</p>                                                                |
 | **Tên tài khoản**        | Tên mô tả nội dung kinh tế được phản ánh trên tài khoản.                                            | Nhập tên tài khoản tương ứng với số hiệu tài khoản.                                              | Tiền mặt                              | <p>+ Không để trống, tên tài khoản cần phù hợp với số hiệu tài khoản.</p><p>+ Nên nhập tên tài khoản cấp 1 theo quy định của bộ tài chính.</p><p>+ Trường hợp tài khoản tạo mới là một tài khoản cấp 2 hoặc cấp 3. Nhập tên tài khoản chi tiết dựa trên tài khoản cấp 1</p> |

@@ -29,7 +29,7 @@
   * [Đối tượng](danh-muc/doi-tuong/README.md)
     * [Đối tượng hạch toán khác](danh-muc/doi-tuong/doi-tuong-hach-toan-khac.md)
     * [Đối tác](danh-muc/doi-tuong/doi-tac.md)
-    * [Nhân viên (chưa)](danh-muc/doi-tuong/nhan-vien-chua.md)
+    * [Nhân viên](danh-muc/doi-tuong/nhan-vien.md)
 * [Phụ lục nghiệp vụ kế toán](phu-luc-nghiep-vu-ke-toan/README.md)
   * [Tiền mặt](phu-luc-nghiep-vu-ke-toan/tien-mat.md)
   * [Tiền gửi](phu-luc-nghiep-vu-ke-toan/tien-gui.md)

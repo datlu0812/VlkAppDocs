@@ -12,7 +12,7 @@ description: (Danh mục đối tác)
 
 **Ví dụ:** Khi lập hóa đơn bán hàng, chọn khách hàng Công ty TNHH ABC từ Danh mục đối tác. Hệ thống có thể tự động lấy các thông tin đã khai báo như mã số thuế, địa chỉ, người liên hệ..., giúp giảm thời gian nhập liệu và hạn chế sai sót.
 
-### <mark style="color:$primary;">Các chức năng trong danh mục thuế suất GTGT</mark>
+### <mark style="color:$primary;">Các chức năng trong danh mục đối tác</mark>
 
 **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
