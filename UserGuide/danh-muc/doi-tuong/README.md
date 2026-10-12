@@ -24,8 +24,8 @@ description: (Nhóm danh mục đối tượng)
 
 \+ Khi cần theo dõi một đối tượng đặc thù phục vụ hạch toán, có thể khai báo tại Đối tượng hạch toán khác.
 
-| **Danh mục**                 | **Mục đích sử dụng**                                                                                      |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Đối tượng hạch toán khác** | Quản lý các đối tượng cần theo dõi chi tiết trong hạch toán nhưng không thuộc nhóm đối tác hoặc nhân viên |
-| **Đối tác**                  | Quản lý các cá nhân, tổ chức có quan hệ giao dịch với doanh nghiệp                                        |
-| **Nhân viên**                | Quản lý thông tin nhân viên phục vụ các nghiệp vụ kế toán và quản lý nội bộ                               |
+| **Danh mục**                                                | **Mục đích sử dụng**                                                                                      |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [**Đối tượng hạch toán khác**](doi-tuong-hach-toan-khac.md) | Quản lý các đối tượng cần theo dõi chi tiết trong hạch toán nhưng không thuộc nhóm đối tác hoặc nhân viên |
+| [**Đối tác**](doi-tac.md)                                   | Quản lý các cá nhân, tổ chức có quan hệ giao dịch với doanh nghiệp                                        |
+| [**Nhân viên**](nhan-vien.md)                               | Quản lý thông tin nhân viên phục vụ các nghiệp vụ kế toán và quản lý nội bộ                               |
