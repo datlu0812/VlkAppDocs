@@ -6,7 +6,7 @@ icon: right-from-bracket
 
 ## <mark style="color:$primary;">Menu các chức năng trong thanh công cụ</mark>
 
-<figure><img src=".gitbook/assets/màn hình chứng từ giá vốn xuất.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/màn hình chứng từ giá vốn xuất (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Tác vụ chung:**
 

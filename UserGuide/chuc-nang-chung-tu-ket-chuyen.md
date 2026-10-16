@@ -6,7 +6,7 @@ icon: rotate
 
 ## <mark style="color:$primary;">Menu các chức năng trong thanh công cụ</mark>
 
-<figure><img src=".gitbook/assets/màn hình chính.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/màn hình chứng từ kết chuyển.png" alt=""><figcaption></figcaption></figure>
 
 ### Tác vụ chung:
 
