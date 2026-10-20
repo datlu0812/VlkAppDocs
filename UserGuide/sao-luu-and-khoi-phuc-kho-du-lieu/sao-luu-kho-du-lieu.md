@@ -1,10 +1,14 @@
-# Sao lưu & Khôi phục kho dữ liệu
+---
+description: (Hướng dẫn thực hiện sao lưu kho dữ liệu)
+---
+
+# Sao lưu kho dữ liệu
 
 ## <mark style="color:$primary;">Hướng dẫn các bước sao lưu kho dữ liệu</mark>
 
 #### Bước 1: Mở menu quản lý tài khoản
 
-<figure><img src=".gitbook/assets/Bước 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bước 1.png" alt=""><figcaption></figcaption></figure>
 
 \- Tại góc trên cùng bên phải màn hình làm việc, nhấp vào mục quản lý tài khoản. (Ảnh đại diện của tài khoản).
 
@@ -12,13 +16,13 @@
 
 #### Bước 2: Chọn Trung tâm dữ liệu
 
-<figure><img src=".gitbook/assets/bước 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Trong menu sổ xuống, nhấp chọn mục Trung tâm dữ liệu.
 
 #### Bước 3: Xác nhận mở Trung tâm dữ liệu
 
-<figure><img src=".gitbook/assets/bước 3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 3 (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Sau khi click vào chức năng trung tâm dữ liệu sẽ hiển thị cửa sổ thông báo “Mở Trung tâm dữ liệu?”.
 
@@ -26,7 +30,7 @@
 
 #### Bước 4: Mở tùy chọn thao tác kho
 
-<figure><img src=".gitbook/assets/bước 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 4.png" alt=""><figcaption></figcaption></figure>
 
 \- Sau khi mở trung tâm dữ liệu màn hình thông tin các kho dữ liệu hiện ra.
 
@@ -40,7 +44,7 @@
 
 #### Bước 5: Chọn chức năng Sao lưu kho
 
-<figure><img src=".gitbook/assets/bước 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 5.png" alt=""><figcaption></figcaption></figure>
 
 \- Sau khi nhấp vào tùy chọn, danh sách chức năng hiện ra.
 
@@ -48,7 +52,7 @@
 
 #### Bước 6: Chọn thư mục lưu file trên máy tính
 
-<figure><img src=".gitbook/assets/bước 6 7 8 9 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 6 7 8 9 10.png" alt=""><figcaption></figcaption></figure>
 
 \- Tại giao diện Sao lưu kho dữ liệu, ở mục Nơi lưu, nhấp vào nút Chọn thư mục để chọn đường dẫn chứa tệp sao lưu trên máy tính…
 
@@ -69,7 +73,7 @@
 \- Nhập lại chính xác mật khẩu đó vào ô Xác nhận mật khẩu.
 
 {% hint style="danger" %}
-_<mark style="color:$danger;">(Tùy chọn)</mark>_ <mark style="color:$danger;"></mark><mark style="color:$danger;">có thể điền gợi ý mật khẩu ở ô Gợi ý mật khẩu để trợ giúp nhớ mật khẩu sau này. Gợi ý mật khẩu không thể dùng để mở trực tiếp tệp sao lưu. Nếu quên mật khẩu, bạn sẽ không thể khôi phục lại dữ liệu từ tệp sao lưu này.</mark>
+_<mark style="color:$danger;">Tùy chọn</mark>_ <mark style="color:$danger;"></mark><mark style="color:$danger;">có thể điền gợi ý mật khẩu ở ô Gợi ý mật khẩu để trợ giúp nhớ mật khẩu sau này. Gợi ý mật khẩu không thể dùng để mở trực tiếp tệp sao lưu. Nếu quên mật khẩu, bạn sẽ không thể khôi phục lại dữ liệu từ tệp sao lưu này.</mark>
 {% endhint %}
 
 #### Bước 10: Hoàn tất sao lưu
@@ -78,18 +82,18 @@ _<mark style="color:$danger;">(Tùy chọn)</mark>_ <mark style="color:$danger;"
 
 #### Bước 11: Kiểm tra tiến trình sao lưu
 
-<figure><img src=".gitbook/assets/bước 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 11.png" alt=""><figcaption></figcaption></figure>
 
 \- Sau khi tạo bản sao lưu dữ liệu thành công hệ thống sẽ chuyển qua màn hình theo dõi tiến trình sao lưu. Ở đây có thể theo dõi được các thông tin sao lưu như tiến trình sao lưu, nơi lưu, trạng thái lưu, các phiên bản sao lưu đã thực hiện.
 
 \- Nếu muốn tạo bảo sao lưu mới, thực hiện bấm vào nút “Tạo bản sao lưu mới“ trên góc trên bên phải của màn hình.
 
-<figure><img src=".gitbook/assets/buoc 112.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/buoc 112.png" alt=""><figcaption></figcaption></figure>
 
 \- Khi xóa file sao lưu đã tạo trên máy, hệ thống sẽ hiển thị cảnh báo “Không tìm thấy tệp sao lưu ở nới đã lưu. Hãy kiểm tra thư mục hoặc tạo bản sao lưu mới.”
 
 \- Đồng thời phiên bản sao lưu đó trạng thái sẽ chuyển thành “Chưa hoàn tất”.
 
 {% hint style="danger" %}
-<mark style="color:$danger;">Lưu ý: Bản sao lưu kho sẽ bao gồm toàn bộ dữ liệu của tất cả các doanh nghiệp và tệp đính kèm trong kho đang mở. Không xóa bản sao lưu đã tạo, nếu xóa bản sao lưu đã tạo thì phải thực hiện tạo lại bản sao lưu mới.</mark>
+<mark style="color:$danger;">**Lưu ý:**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">Bản sao lưu kho sẽ bao gồm toàn bộ dữ liệu của tất cả các doanh nghiệp và tệp đính kèm trong kho đang mở. Không xóa bản sao lưu đã tạo, nếu xóa bản sao lưu đã tạo thì phải thực hiện tạo lại bản sao lưu mới.</mark>
 {% endhint %}
