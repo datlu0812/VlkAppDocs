@@ -4,7 +4,7 @@ description: (Danh mục hệ thống tài khoản)
 
 # Hệ thống tài khoản
 
-### <mark style="color:$primary;">Màn hình chức năng</mark>
+## <mark style="color:$primary;">Màn hình chức năng</mark>
 
 <figure><img src="../../.gitbook/assets/Màn hình hệ thống tài khoản.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@ description: (Danh mục hệ thống tài khoản)
 
 \- Mỗi tài khoản kế toán đại diện cho một nhóm đối tượng hoặc nội dung kinh tế nhất định, giúp doanh nghiệp theo dõi các biến động về tài sản, nợ phải trả, vốn chủ sở hữu, doanh thu, chi phí và kết quả hoạt động kinh doanh.
 
-### <mark style="color:$primary;">Vai trò của Hệ thống tài khoản</mark>
+## <mark style="color:$primary;">Vai trò của Hệ thống tài khoản</mark>
 
 \- Hệ thống tài khoản là cơ sở để thực hiện định khoản kế toán trên chứng từ. Khi lập chứng từ, lựa chọn TK Nợ và TK Có phù hợp với nghiệp vụ phát sinh.
 
@@ -44,7 +44,7 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 | 632         | Giá vốn hàng bán                       | Giá vốn của hàng hóa, sản phẩm, dịch vụ đã bán              |
 | 642         | Chi phí quản lý doanh nghiệp           | Các chi phí phục vụ hoạt động quản lý doanh nghiệp          |
 
-### <mark style="color:$primary;">Các chức năng trong danh mục hệ thống tài khoản</mark>
+## <mark style="color:$primary;">Các chức năng trong danh mục hệ thống tài khoản</mark>
 
 **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
@@ -100,7 +100,7 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 
 \+ **Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**)**: xuất danh sách dữ liệu ra file excel.
 
-### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
 <figure><img src="../../.gitbook/assets/Popup tạo mới tài khoản.png" alt=""><figcaption></figcaption></figure>
 
@@ -119,4 +119,4 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 | **Yêu cầu mã đối tượng** | Xác định tài khoản có yêu cầu theo dõi chi tiết theo đối tượng hay không.                           | Bật Yêu cầu nếu tài khoản cần theo dõi mã đối tượng.                                             |                                       | Khi bật, hệ thống có thể yêu cầu khai báo đối tượng khi sử dụng tài khoản trên chứng từ.                                                                                                                                                                                    |
 | **Trạng thái**           | Cho biết tài khoản hiện có được phép sử dụng trong hệ thống hay không.                              | Chọn hoặc thiết lập trạng thái tài khoản theo nhu cầu quản lý.                                   | Hoạt động                             | Tài khoản ở trạng thái ngừng hoạt động không được sử dụng cho các nghiệp vụ mới nếu hệ thống áp dụng quy tắc này.                                                                                                                                                           |
 
-### <mark style="color:$primary;">Chức năng nạp dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng nạp dữ liệu</mark>

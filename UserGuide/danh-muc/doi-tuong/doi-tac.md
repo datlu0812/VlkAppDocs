@@ -4,7 +4,7 @@ description: (Danh mục đối tác)
 
 # Đối tác
 
-### <mark style="color:$primary;">Màn hình chức năng</mark>
+## <mark style="color:$primary;">Màn hình chức năng</mark>
 
 <figure><img src="../../.gitbook/assets/màn hình chính đối tác.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@ description: (Danh mục đối tác)
 
 **Ví dụ:** Khi lập hóa đơn bán hàng, chọn khách hàng Công ty TNHH ABC từ Danh mục đối tác. Hệ thống có thể tự động lấy các thông tin đã khai báo như mã số thuế, địa chỉ, người liên hệ..., giúp giảm thời gian nhập liệu và hạn chế sai sót.
 
-### <mark style="color:$primary;">Các chức năng trong danh mục đối tác</mark>
+## <mark style="color:$primary;">Các chức năng trong danh mục đối tác</mark>
 
 **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
@@ -26,35 +26,35 @@ description: (Danh mục đối tác)
 
 **+ Sắp xếp (**<mark style="color:red;">**Alt + S**</mark>**):** Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
 
-**· Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
 
-**· Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
 
-**· Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Lọc (**<mark style="color:red;">**Alt + L**</mark>**):** Chức năng Lọc dùng để tìm và hiển thị các dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
 
-**· Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
 
-**· Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
 
-**· Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Điều chỉnh cột hiển thị (**<mark style="color:red;">**Alt + D**</mark>**):** dùng để tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
 
-**· Hiện/đóng tất cả: (**<mark style="color:red;">**Ctrl + A**</mark>**)**
+**·   Hiện/đóng tất cả: (**<mark style="color:red;">**Ctrl + A**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Tìm kiếm nhanh (**<mark style="color:red;">**Ctrl + F**</mark>**):** thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh dữ liệu.
 
@@ -68,7 +68,7 @@ description: (Danh mục đối tác)
 
 **+ Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**):** xuất danh sách dữ liệu ra file excel.
 
-### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
 <div><figure><img src="../../.gitbook/assets/thêm1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/thêm 2.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -107,7 +107,7 @@ description: (Danh mục đối tác)
 * **Trạng thái:** Trạng thái hoạt động của công ty đối tác. Nếu không hoạt động sẽ không hiển thị cho chọn trong thêm mới chứng từ.
 * Sau khi nhập xong các thông tin, **Lưu (**<mark style="color:red;">**Ctrl + S**</mark>**)** hoặc **Hủy (**<mark style="color:red;">**ESC**</mark>**).**
 
-### <mark style="color:$primary;">**Chức năng Nạp dữ liệu**</mark>
+## <mark style="color:$primary;">**Chức năng Nạp dữ liệu**</mark>
 
 <figure><img src="../../.gitbook/assets/màn hình nạp dữ liệu đối tác.png" alt=""><figcaption></figcaption></figure>
 

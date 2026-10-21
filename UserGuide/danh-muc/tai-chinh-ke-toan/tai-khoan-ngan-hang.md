@@ -4,7 +4,7 @@ description: (Danh mục tài khoản ngân hàng)
 
 # Tài khoản ngân hàng
 
-### <mark style="color:$primary;">**Màn hình chức năng**</mark>
+## <mark style="color:$primary;">**Màn hình chức năng**</mark>
 
 <figure><img src="../../.gitbook/assets/màn hình tài khoản ngân hàng.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ description: (Danh mục tài khoản ngân hàng)
 
 **Ví dụ:** doanh nghiệp có tài khoản số 0123456789 tại Vietcombank và hạch toán vào TK 1121. Khi phát sinh giao dịch thu hoặc chi qua tài khoản này, phần mềm sử dụng thông tin được khai báo trong Danh mục Tài khoản ngân hàng để xác định tài khoản ngân hàng thực tế và thực hiện hạch toán tương ứng.
 
-### <mark style="color:$primary;">**Các chức năng trong danh mục tài khoản ngân hàng**</mark>
+## <mark style="color:$primary;">**Các chức năng trong danh mục tài khoản ngân hàng**</mark>
 
 **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
@@ -28,27 +28,27 @@ description: (Danh mục tài khoản ngân hàng)
 
 **+ Sắp xếp (**<mark style="color:red;">**Alt + S**</mark>**):** Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
 
-**· Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
 
-**· Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
 
-**· Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Lọc (**<mark style="color:red;">**Alt + L**</mark>**):** Chức năng Lọc dùng để tìm và hiển thị các dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
 
-**· Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
 
-**· Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
 
-**· Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Điều chỉnh cột hiển thị (**<mark style="color:red;">**Alt + D**</mark>**):** dùng để tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
 
@@ -70,7 +70,7 @@ description: (Danh mục tài khoản ngân hàng)
 
 **+ Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**):** xuất danh sách dữ liệu ra file excel.
 
-### <mark style="color:$primary;">**Chức năng tạo mới dữ liệu**</mark>
+## <mark style="color:$primary;">**Chức năng tạo mới dữ liệu**</mark>
 
 <figure><img src="../../.gitbook/assets/popup tạo tài khoản ngân hàng.png" alt=""><figcaption></figcaption></figure>
 
@@ -89,4 +89,4 @@ description: (Danh mục tài khoản ngân hàng)
 | **Tài khoản sổ cái (vd 1121)** | Tài khoản kế toán dùng để hạch toán các nghiệp vụ phát sinh liên quan đến tài khoản ngân hàng này.       | Nhập/chọn tài khoản kế toán tương ứng, thường thuộc nhóm TK 112.  | 1121 – Tiền Việt Nam gửi Ngân hàng   | <p>+ Phải là tài khoản kế toán hợp lệ.</p><p>+ Nên kiểm tra tài khoản có phù hợp với loại tiền của tài khoản ngân hàng.</p>                                           |
 | **Đang sử dụng**               | Xác định tài khoản ngân hàng có đang được sử dụng trong hệ thống hay không.                              | Bật/tắt trạng thái sử dụng.                                       | Đang sử dụng                         | <p>+ Khi bật, tài khoản có thể được chọn trong các nghiệp vụ liên quan.</p><p>+ Khi tắt, không cho phép chọn cho giao dịch mới nhưng nên giữ lại dữ liệu lịch sử.</p> |
 
-### <mark style="color:$primary;">Chức năng nạp dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng nạp dữ liệu</mark>

@@ -4,7 +4,7 @@ description: (Danh mục ngoại tệ)
 
 # Ngoại tệ
 
-### <mark style="color:$primary;">Màn hình chức năng</mark>
+## <mark style="color:$primary;">Màn hình chức năng</mark>
 
 <figure><img src="../../.gitbook/assets/màn hình tiền tệ.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ description: (Danh mục ngoại tệ)
 <mark style="color:$danger;">Lưu ý: về trường “Tỷ giá” nếu đây là hệ thống kế toán thực tế, bạn nên phân biệt tỷ giá được cấu hình trong Danh mục tiền tệ với tỷ giá giao dịch tại thời điểm lập từng chứng từ. Không nên hiểu rằng một tỷ giá cố định trong danh mục luôn được dùng cho mọi giao dịch ngoại tệ</mark>
 {% endhint %}
 
-### <mark style="color:$primary;">Các chức năng trong danh mục ngoại tệ</mark>
+## <mark style="color:$primary;">Các chức năng trong danh mục ngoại tệ</mark>
 
 **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
@@ -28,35 +28,35 @@ description: (Danh mục ngoại tệ)
 
 **+ Sắp xếp (**<mark style="color:red;">**Alt + S**</mark>**):** Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
 
-**· Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
 
-**· Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
 
-**· Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Lọc (**<mark style="color:red;">**Alt + L**</mark>**):** Chức năng Lọc dùng để tìm và hiển thị các dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
 
-**· Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
 
-**· Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
 
-**· Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Điều chỉnh cột hiển thị (**<mark style="color:red;">**Alt + D**</mark>**):** dùng để tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
 
-**· Hiện/đóng tất cả: (**<mark style="color:red;">**Ctrl + A**</mark>**)**
+**·   Hiện/đóng tất cả: (**<mark style="color:red;">**Ctrl + A**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Tìm kiếm nhanh (**<mark style="color:red;">**Ctrl + F**</mark>**):** thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh dữ liệu.
 
@@ -70,7 +70,7 @@ description: (Danh mục ngoại tệ)
 
 **+ Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**):** xuất danh sách dữ liệu ra file excel.
 
-### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
 <figure><img src="../../.gitbook/assets/popu tạo mới tiền tệ.png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: (Danh mục ngân hàng)
 
 # Ngân hàng
 
-### <mark style="color:$primary;">Màn hình chức năng</mark>
+## <mark style="color:$primary;">Màn hình chức năng</mark>
 
 <figure><img src="../../.gitbook/assets/màn hình ngân hàng.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@ description: (Danh mục ngân hàng)
 
 \- Danh mục này giúp **chuẩn hóa thông tin ngân hàng**, phục vụ việc khai báo tài khoản ngân hàng, lập và hạch toán các nghiệp vụ **thu – chi tiền gửi ngân hàng, chuyển khoản, đối soát giao dịch** và tra cứu thông tin ngân hàng.
 
-### <mark style="color:$primary;">Vai trò của Ngân hàng</mark>
+## <mark style="color:$primary;">Vai trò của Ngân hàng</mark>
 
 \- Sau khi được khai báo, thông tin ngân hàng có thể được sử dụng làm dữ liệu tham chiếu khi doanh nghiệp khai báo tài khoản tiền gửi ngân hàng và thực hiện các nghiệp vụ kế toán liên quan đến tiền gửi, thu – chi và chuyển khoản.
 
@@ -27,7 +27,7 @@ description: (Danh mục ngân hàng)
 * Mã BIN: 970425
 * Mã SWIFT: ABBKVNVX
 
-### <mark style="color:$primary;">Các chức năng trong danh mục ngân hàng</mark>
+## <mark style="color:$primary;">Các chức năng trong danh mục ngân hàng</mark>
 
 **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
@@ -83,7 +83,7 @@ description: (Danh mục ngân hàng)
 
 \+ **Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**)**: xuất danh sách dữ liệu ra file excel.
 
-### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
 <figure><img src="../../.gitbook/assets/tạo mới ngân hàng.png" alt=""><figcaption></figcaption></figure>
 
@@ -101,4 +101,4 @@ description: (Danh mục ngân hàng)
 | **Mã SWIFT**       | Mã nhận diện ngân hàng trong các giao dịch ngân hàng quốc tế.                                          | Nhập mã SWIFT của ngân hàng.                                                        | ABBKVNVX                       | Nếu có, mã SWIFT nhập vào cần kiểm tra định dạng và độ dài mã SWIFT theo quy tắc hệ thống.                                                                                                                                                         |
 | **Đường dẫn logo** | Đường dẫn đến hình ảnh logo của ngân hàng, được sử dụng để hiển thị nhận diện ngân hàng trên phần mềm. | Nhập đường dẫn hoặc URL đến file hình ảnh logo.                                     | https://abbank.png             | + Đường dẫn nhập vào phải là đường dẫn hợp lệ và hệ thống phải có khả năng truy cập hình ảnh.                                                                                                                                                      |
 
-### <mark style="color:$primary;">Chức năng nạp dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng nạp dữ liệu</mark>

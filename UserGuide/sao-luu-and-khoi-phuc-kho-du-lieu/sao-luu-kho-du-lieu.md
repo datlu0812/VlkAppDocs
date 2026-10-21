@@ -36,7 +36,7 @@ description: (Hướng dẫn thực hiện sao lưu kho dữ liệu)
 
 \- Mỗi lần thực hiện sao lưu kho chỉ thực hiện được một kho, chọn kho cần sao lưu.
 
-\-  Có 2 cách để mở chức năng “sao lưu kho” trong danh sách chức năng của kho cần sao lưu:
+Có 2 cách để mở chức năng “sao lưu kho” trong danh sách chức năng của kho cần sao lưu:
 
 **+ Cách 1**: Tại giao diện Kho dữ liệu, tìm đến kho muốn sao lưu trong danh sách kho bên tay trái (ví dụ: _Kho HCM 03_). Nhấp vào dấu 3 chấm sau tên kho.
 

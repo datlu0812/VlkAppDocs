@@ -4,7 +4,7 @@ description: (Danh mục thuế suất GTGT)
 
 # Thuế suất GTGT
 
-### <mark style="color:$primary;">Màn hình chức năng</mark>
+## <mark style="color:$primary;">Màn hình chức năng</mark>
 
 <figure><img src="../../.gitbook/assets/màn hình danh mục thuế.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ description: (Danh mục thuế suất GTGT)
 
 \- Hệ thống tự động tạo các loại thuế suất có sẵn dùng chung cho tất cả các doanh nghiệp theo quy định của nhà nước, trường hợp doanh nghiệp có các loại thuế riêng thì có thể tạo mới.
 
-### <mark style="color:$primary;">Vai trò của Danh mục thuế suất GTGT</mark>
+## <mark style="color:$primary;">Vai trò của Danh mục thuế suất GTGT</mark>
 
 | **Nội dung**           | **Ý nghĩa**                                                                                             |
 | ---------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ Doanh nghiệp phát sinh nghiệp vụ mua một lô hàng có giá trị trư�
 
 Hệ thống có thể tự động tính tiền thuế và tổng tiền thanh toán sau khi nhập giá trị hàng hóa và chọn thuế suất.
 
-### <mark style="color:$primary;">Các chức năng trong danh mục thuế suất GTGT</mark>
+## <mark style="color:$primary;">Các chức năng trong danh mục thuế suất GTGT</mark>
 
 **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
@@ -92,7 +92,7 @@ Hệ thống có thể tự động tính tiền thuế và tổng tiền thanh 
 
 **+ Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**):** xuất danh sách dữ liệu ra file excel.
 
-### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
 <figure><img src="../../.gitbook/assets/popup tạo mới thuế.png" alt=""><figcaption></figcaption></figure>
 
@@ -102,4 +102,4 @@ Hệ thống có thể tự động tính tiền thuế và tổng tiền thanh 
 
 <table data-header-hidden><thead><tr><th></th><th></th><th></th><th width="109"></th><th></th></tr></thead><tbody><tr><td><strong>Tên trường</strong></td><td><strong>Ý nghĩa</strong></td><td><strong>Phương thức nhập</strong></td><td><strong>Ví dụ</strong></td><td><strong>Quy tắc nhập</strong></td></tr><tr><td><strong>Mã thuế suất</strong></td><td>Mã dùng để định danh và phân biệt từng loại thuế suất trong hệ thống.</td><td>Nhập một mã ngắn, dễ nhận biết để sử dụng khi tra cứu hoặc chọn thuế suất trên chứng từ.</td><td>VAT10, VAT08, VAT05</td><td><p>+ Không được để trống.</p><p>+ Không được trùng với mã thuế suất đã có.</p><p>+ Không nên chứa ký tự đặc biệt không được hệ thống hỗ trợ.</p></td></tr><tr><td><strong>Tên thuế suất</strong></td><td>Tên hiển thị của loại thuế suất trong danh mục và tại các chức năng có sử dụng thuế suất.</td><td>Nhập tên mô tả loại thuế suất.</td><td>Thuế suất GTGT 10%</td><td><p>+ Không được để trống.</p><p>+ Không nên trùng tên với loại thuế suất khác nếu hệ thống yêu cầu tên duy nhất.</p></td></tr><tr><td><strong>Thuế suất (%) cho</strong></td><td>Xác định tỷ lệ phần trăm thuế GTGT áp dụng cho loại thuế suất đang khai báo.</td><td>Nhập tỷ lệ thuế theo đơn vị phần trăm.</td><td>10</td><td><p>+ Chỉ cho phép nhập số, giá trị phải nằm trong khoảng mà hệ thống cho phép.</p><p>+ Không nhập ký hiệu % mạc định hệ thống thuế đã là %.</p></td></tr><tr><td><strong>Trạng thái</strong></td><td>Xác định loại thuế suất có được phép sử dụng trong phần mềm hay không.</td><td>Bật/tắt trạng thái. Mặc định là <strong>Đang sử dụng</strong>.</td><td>Bật – <strong>Đang sử dụng</strong></td><td><p>+ Khi bật, loại thuế suất có thể được chọn trên các chứng từ/chức năng liên quan.</p><p>+ Khi tắt, không cho phép sử dụng cho giao dịch mới nhưng vẫn có thể giữ lại để tra cứu dữ liệu cũ.</p></td></tr><tr><td><strong>Hiệu lực từ</strong></td><td>Xác định ngày bắt đầu áp dụng của loại thuế suất.</td><td>Chọn ngày mà loại thuế suất bắt đầu có hiệu lực.</td><td>01/01/2027</td><td><p>+ Nếu có nhập, ngày hiệu lực từ không được lớn hơn ngày hiệu lực đến.</p><p>+ Mặc định: <strong>Không giới hạn</strong>.</p></td></tr><tr><td><strong>Hiệu lực đến</strong></td><td>Xác định ngày kết thúc áp dụng của loại thuế suất.</td><td>Chọn ngày mà loại thuế suất hết hiệu lực.</td><td>31/12/2027</td><td><p>+ Nếu có nhập, ngày hiệu lực đến không được nhỏ hơn ngày hiệu lực từ.</p><p>+ Mặc định: <strong>Không giới hạn</strong>.</p></td></tr></tbody></table>
 
-### <mark style="color:$primary;">Chức năng nạp dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng nạp dữ liệu</mark>

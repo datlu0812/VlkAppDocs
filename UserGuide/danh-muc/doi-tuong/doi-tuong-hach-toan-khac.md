@@ -4,7 +4,7 @@ description: (Danh mục đối tượng hạch toán khác)
 
 # Đối tượng hạch toán khác
 
-### <mark style="color:$primary;">Màn hình chức năng</mark>
+## <mark style="color:$primary;">Màn hình chức năng</mark>
 
 <figure><img src="../../.gitbook/assets/màn hình đối tượng hạch  toán khác.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@ description: (Danh mục đối tượng hạch toán khác)
 
 \- Danh mục này giúp doanh nghiệp theo dõi chi tiết các khoản doanh thu, chi phí, công nợ hoặc các nghiệp vụ phát sinh theo từng đối tượng cụ thể, từ đó phục vụ việc phân tích, đối chiếu và quản lý số liệu kế toán.
 
-### <mark style="color:$primary;">Vai trò của danh mục</mark>
+## <mark style="color:$primary;">Vai trò của danh mục</mark>
 
 \- Danh mục Đối tượng hạch toán khác có thể được sử dụng để:
 
@@ -32,7 +32,7 @@ description: (Danh mục đối tượng hạch toán khác)
 
 Khi phát sinh các khoản chi phí liên quan đến công trình này, có thể gắn **Công ty TNHH TTT GLASS** vào chứng từ. Sau đó, hệ thống có thể sử dụng thông tin đối tượng để tổng hợp và theo dõi tổng chi phí đã phát sinh cho công trình.
 
-### <mark style="color:$primary;">Các chức năng trong danh mục đối tượng hạch toán khác</mark>
+## <mark style="color:$primary;">Các chức năng trong danh mục đối tượng hạch toán khác</mark>
 
 **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
@@ -46,35 +46,35 @@ Khi phát sinh các khoản chi phí liên quan đến công trình này, có th
 
 **+ Sắp xếp (**<mark style="color:red;">**Alt + S**</mark>**):** Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
 
-**· Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
 
-**· Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
 
-**· Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Lọc (**<mark style="color:red;">**Alt + L**</mark>**):** Chức năng Lọc dùng để tìm và hiển thị các dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
 
-**· Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
 
-**· Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
 
-**· Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Điều chỉnh cột hiển thị (**<mark style="color:red;">**Alt + D**</mark>**):** dùng để tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
 
-**· Hiện/đóng tất cả: (**<mark style="color:red;">**Ctrl + A**</mark>**)**
+**·   Hiện/đóng tất cả: (**<mark style="color:red;">**Ctrl + A**</mark>**)**
 
-**· Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
 
-**· Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
 
 **+ Tìm kiếm nhanh (**<mark style="color:red;">**Ctrl + F**</mark>**):** thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh dữ liệu.
 
@@ -88,7 +88,7 @@ Khi phát sinh các khoản chi phí liên quan đến công trình này, có th
 
 **+ Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**):** xuất danh sách dữ liệu ra file excel.
 
-### <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
 <figure><img src="../../.gitbook/assets/popup tạo mới đối tượng hạch toán khác.png" alt=""><figcaption></figcaption></figure>
 
@@ -103,4 +103,4 @@ Khi phát sinh các khoản chi phí liên quan đến công trình này, có th
 | **Mô tả**               | Dùng để cung cấp thêm thông tin về mục đích hoặc nội dung theo dõi của đối tượng.                             | Nhập nội dung mô tả, ghi chú thêm về đối tượng.                                          | Đối tượng theo dõi chi phí công trình | <p>+ Có thể để trống.</p><p>+ Nội dung nên phù hợp với đối tượng được khai báo.</p>                                                                                          |
 | **Trạng thái theo dõi** | Xác định đối tượng có đang được phép sử dụng trong phần mềm hay không.                                        | Chọn Hoạt động nếu đối tượng đang được sử dụng; bỏ chọn khi không muốn tiếp tục sử dụng. | Hoạt động                             | <p>+ Khi ở trạng thái hoạt động, đối tượng có thể được lựa chọn khi lập chứng từ.</p><p>+ Khi ngừng theo dõi, không nên cho phép chọn đối tượng trong các nghiệp vụ mới.</p> |
 
-### <mark style="color:$primary;">Chức năng Nạp dữ liệu</mark>
+## <mark style="color:$primary;">Chức năng Nạp dữ liệu</mark>
