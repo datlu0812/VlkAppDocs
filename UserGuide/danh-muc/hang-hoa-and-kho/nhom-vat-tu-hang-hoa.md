@@ -88,7 +88,7 @@ description: (Danh mục nhóm vật tư - hàng hóa)
 
 <figure><img src="../../.gitbook/assets/popup thêm mới loại hàng hóa.png" alt=""><figcaption></figcaption></figure>
 
-**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
+**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu nhóm vật tư,hàng hóa mới vào danh mục.
 
 **​+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 

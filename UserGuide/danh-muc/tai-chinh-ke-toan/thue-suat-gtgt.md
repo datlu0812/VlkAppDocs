@@ -96,7 +96,7 @@ Hệ thống có thể tự động tính tiền thuế và tổng tiền thanh 
 
 <figure><img src="../../.gitbook/assets/popup tạo mới thuế.png" alt=""><figcaption></figcaption></figure>
 
-**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
+**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại thuế suất mới vào danh mục.
 
 **+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 

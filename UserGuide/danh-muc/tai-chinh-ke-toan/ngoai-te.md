@@ -74,7 +74,7 @@ description: (Danh mục ngoại tệ)
 
 <figure><img src="../../.gitbook/assets/popu tạo mới tiền tệ.png" alt=""><figcaption></figcaption></figure>
 
-**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
+**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại ngoại tệ mới vào danh mục.
 
 **+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 

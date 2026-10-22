@@ -92,7 +92,7 @@ Khi phát sinh các khoản chi phí liên quan đến công trình này, có th
 
 <figure><img src="../../.gitbook/assets/popup tạo mới đối tượng hạch toán khác.png" alt=""><figcaption></figcaption></figure>
 
-**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
+**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại đối tượng hạch toán mới vào danh mục.
 
 **​+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 
