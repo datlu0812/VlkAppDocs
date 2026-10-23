@@ -8,7 +8,7 @@ description: (Danh mục nhóm vật tư - hàng hóa)
 
 <figure><img src="../../.gitbook/assets/màn hình chức năng nhóm vật tư hàng hóa.png" alt=""><figcaption></figcaption></figure>
 
-\- Chức năng Nhóm hàng hóa vật tư trong phần mềm kế toán dùng để phân loại hàng hóa, vật tư theo từng nhóm có đặc điểm hoặc tính chất tương đồng. Việc phân nhóm giúp dễ dàng quản lý danh mục hàng hóa, tra cứu thông tin, theo dõi nhập – xuất – tồn kho và tổng hợp số liệu phục vụ công tác kế toán.
+\- Chức năng Nhóm hàng hóa vật tư trong phần mềm kế toán dùng để phân loại hàng hóa, vật tư theo từng nhóm có đặc điểm hoặc tính chất tương đồng. Việc phân nhóm giúp dễ dàng quản lý danh mục hàng hóa, tra cứu thông tin, theo dõi nhập – xuất – tồn kho và tổng hợp số liệu phục vụ công tác kế toán. Ngoài ra giúp cho việc tạo mới một chứng từ nhanh hơn thông qua việc phân loại theo nhóm sản phẩm hàng hóa.
 
 \- Chức năng này, có thể khai báo mã nhóm, tên nhóm, phân loại nhóm và tài khoản kế toán liên quan để phục vụ việc quản lý hàng hóa, vật tư một cách khoa học, thống nhất.
 
