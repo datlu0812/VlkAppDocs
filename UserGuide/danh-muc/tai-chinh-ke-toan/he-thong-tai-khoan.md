@@ -46,7 +46,7 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 
 ## <mark style="color:$primary;">Các chức năng trong danh mục hệ thống tài khoản</mark>
 
-**1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
+#### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
 \+ **Tạo mới** **(**<mark style="color:red;">**Alt + N**</mark>**)**:
 
@@ -94,7 +94,7 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 
 \+ **Ẩn thanh chi tiết (**<mark style="color:red;">**Alt + V**</mark>**)**: Chọn một chứng từ và mở view xem nhanh thông tin chi tiết chứng từ đó. Và thực hiện phím tắt để ẩn thanh chi tiết.
 
-**2. In ấn và chia sẻ (**<mark style="color:red;">**Ctrl + P**</mark>**)**
+#### **2. In ấn và chia sẻ (**<mark style="color:red;">**Ctrl + P**</mark>**)**
 
 \+ **In (**<mark style="color:red;">**Alt + P**</mark>**)**: Thực hiện in dữ liệu
 

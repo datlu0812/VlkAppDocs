@@ -14,7 +14,7 @@ description: (Danh mục đối tác)
 
 ## <mark style="color:$primary;">Các chức năng trong danh mục đối tác</mark>
 
-**1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
+#### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
 **+ Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**):**
 
@@ -62,7 +62,7 @@ description: (Danh mục đối tác)
 
 **+ Ẩn thanh chi tiết (**<mark style="color:red;">**Alt + V**</mark>**):** Chọn một đối tượng và mở view xem nhanh thông tin chi tiết đối tác đó. Và thực hiện phím tắt để ẩn thanh chi tiết.
 
-**2. In ấn và chia sẻ (**<mark style="color:red;">**Ctrl + P**</mark>**)**
+#### **2. In ấn và chia sẻ (**<mark style="color:red;">**Ctrl + P**</mark>**)**
 
 **+ In (**<mark style="color:red;">**Alt + P**</mark>**):** Thực hiện in dữ liệu
 
