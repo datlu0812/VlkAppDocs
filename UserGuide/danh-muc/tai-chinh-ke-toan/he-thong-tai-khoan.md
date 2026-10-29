@@ -104,7 +104,7 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 
 <figure><img src="../../.gitbook/assets/Popup tạo mới tài khoản.png" alt=""><figcaption></figcaption></figure>
 
-**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại tài khoản mới vào danh mục.
+**+ Tạo (**<mark style="color:red;">**Ctrl + S**</mark>**)** để lưu loại tài khoản mới vào danh mục.
 
 **+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 

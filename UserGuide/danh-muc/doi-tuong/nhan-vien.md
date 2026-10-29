@@ -84,7 +84,7 @@ Doanh nghiệp tạo hồ sơ nhân viên với thông tin:
 
 <figure><img src="../../.gitbook/assets/tạo mới nhân viên.png" alt=""><figcaption></figcaption></figure>
 
-**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu một nhân viên mới vào danh mục.
+**+ Tạo (**<mark style="color:red;">**Ctrl + S**</mark>**)** để lưu một nhân viên mới vào danh mục.
 
 **​+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 

@@ -87,7 +87,7 @@ description: (Danh mục ngân hàng)
 
 <figure><img src="../../.gitbook/assets/tạo mới ngân hàng.png" alt=""><figcaption></figcaption></figure>
 
-**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu một ngân hàng mới vào danh mục.
+**+ Tạo (**<mark style="color:red;">**Ctrl + S**</mark>**)** để lưu một ngân hàng mới vào danh mục.
 
 **+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 

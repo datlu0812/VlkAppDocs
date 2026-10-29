@@ -74,7 +74,7 @@ description: (Danh mục tài khoản ngân hàng)
 
 <figure><img src="../../.gitbook/assets/popup tạo tài khoản ngân hàng.png" alt=""><figcaption></figcaption></figure>
 
-**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại tài khoản ngân hàng mới vào danh mục.
+**+ Tạo (**<mark style="color:red;">**Ctrl + S**</mark>**)** để lưu loại tài khoản ngân hàng mới vào danh mục.
 
 **+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
 
