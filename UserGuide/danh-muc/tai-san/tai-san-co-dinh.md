@@ -36,9 +36,9 @@ Doanh nghiệp mua một máy tính phục vụ công việc với:
 
 #### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
-**+ Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**):**
+**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](tai-san-co-dinh.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một loại tài sản cố định.
 
-**+ Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**):**
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](tai-san-co-dinh.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách tài sản cố định đã có sẵn vào hệ thống.
 
 **+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết thông tin loại tài sản cố định, hoặc chỉnh sửa các thông tin của loại tài sản đã chọn.
 
@@ -142,4 +142,4 @@ Doanh nghiệp mua một máy tính phục vụ công việc với:
 
 &#x20;
 
-Chức năng Nạp dữ liệu (Alt + I)
+## <mark style="color:$primary;">Chức năng Nạp dữ liệu</mark>

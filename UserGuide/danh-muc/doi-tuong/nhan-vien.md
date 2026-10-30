@@ -28,9 +28,9 @@ Doanh nghiệp tạo hồ sơ nhân viên với thông tin:
 
 #### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
-**+ Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**):**
+**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](nhan-vien.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một công cụ dụng cụ.
 
-**+ Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**):**
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](nhan-vien.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.
 
 **+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết thông tin nhân viên, hoặc chỉnh sửa các thông tin nhân viên đã chọn.
 

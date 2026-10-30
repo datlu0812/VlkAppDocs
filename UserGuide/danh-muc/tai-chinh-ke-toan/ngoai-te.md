@@ -18,9 +18,9 @@ description: (Danh mục ngoại tệ)
 
 #### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
-**+ Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**):**
+**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](ngoai-te.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một công cụ dụng cụ.
 
-**+ Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**):**
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](ngoai-te.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.
 
 **+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết loại tiền tệ, hoặc chỉnh sửa các thông tin của loại tiền tệ đã chọn.
 
@@ -84,3 +84,5 @@ description: (Danh mục ngoại tệ)
 | **Tên tiền tệ** | Tên đầy đủ của loại tiền tệ.                                                       | Nhập tên của loại tiền tương ứng với mã tiền tệ.                               | Đô la Mỹ, Euro, Việt Nam Đồng | + Không được để trống, tên tiền tệ nên tương ứng với mã tiền tệ đã khai báo.                                                                       |
 | **Ký hiệu**     | Ký hiệu dùng để biểu thị loại tiền tệ trên giao diện và chứng từ.                  | Nhập ký hiệu của loại tiền tệ.                                                 | $, €, ₫                       | + Không được để trống,nên sử dụng ký hiệu phù hợp với loại tiền tệ.                                                                                |
 | **Tỷ giá**      | Giá trị quy đổi của một đơn vị ngoại tệ sang đồng tiền hạch toán của doanh nghiệp. | Nhập tỷ giá áp dụng cho loại tiền tệ.                                          | 26.000                        | <p>+ Phải là giá trị số</p><p>+ Không nhập số âm, cần quy định số chữ số thập phân trong mục cài đặt.</p>                                          |
+
+## <mark style="color:$primary;">Chức năng nạp dữ liệu</mark>

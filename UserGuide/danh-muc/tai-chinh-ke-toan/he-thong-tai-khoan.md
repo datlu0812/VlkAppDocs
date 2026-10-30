@@ -48,9 +48,9 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 
 #### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
-\+ **Tạo mới** **(**<mark style="color:red;">**Alt + N**</mark>**)**:
+\+ [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](he-thong-tai-khoan.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một công cụ dụng cụ.
 
-\+ **Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**:
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](he-thong-tai-khoan.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.
 
 \+ **Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**)**: Dùng để xem chi tiết tài khoản, hoặc chỉnh sửa các thông tin của tài khoản.
 

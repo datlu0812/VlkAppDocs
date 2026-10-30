@@ -36,9 +36,9 @@ Khi phát sinh các khoản chi phí liên quan đến công trình này, có th
 
 #### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
-**+ Tạo mới&#x20;**<mark style="color:red;">**(Alt + N**</mark>**):**
+**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](doi-tuong-hach-toan-khac.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một công cụ dụng cụ.
 
-**+ Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**):**
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](doi-tuong-hach-toan-khac.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.
 
 **+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết đối tượng hạch toán, hoặc chỉnh sửa các thông tin của đối tượng hạch toán đã chọn.
 

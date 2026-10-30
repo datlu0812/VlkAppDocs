@@ -38,9 +38,9 @@ Doanh nghiệp phát sinh nghiệp vụ thu tiền của khách hàng bằng ti�
 
 #### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
-**+ Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**):**
+**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](loai-chung-tu.md#chuc-nang-tao-moi-du-lieu)**: Thực hiện tạo mới một công cụ dụng cụ.**
 
-**+ Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**):**
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](loai-chung-tu.md#chuc-nang-nap-du-lieu)**: Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.**
 
 **+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết loại chứng từ, hoặc chỉnh sửa các thông tin của loại chứng từ đã chọn.
 
