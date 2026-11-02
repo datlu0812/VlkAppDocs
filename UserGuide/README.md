@@ -1,12 +1,13 @@
 ---
+description: (Danh mục chức năng chứng từ tổng hợp)
 icon: pen-to-square
 ---
 
-# Chức năng Chứng từ tổng hợp
+# Chức năng Chứng từ
 
 ## <mark style="color:$primary;">Menu các chức năng trong thanh công cụ</mark>
 
-<figure><img src=".gitbook/assets/màn tổng quan.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/màn hình chính chứng từ tổng hợp.png" alt=""><figcaption></figcaption></figure>
 
 \- Thoát về màn hình chính (Tổng quan) (<mark style="color:red;">**ESC**</mark>)
 
@@ -14,7 +15,7 @@ icon: pen-to-square
 
 #### Thao tác: (<mark style="color:red;">**Phím F1**</mark>)
 
-<figure><img src=".gitbook/assets/màn thao tác.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Chức năng thao tác.png" alt=""><figcaption></figcaption></figure>
 
 \+ [Nhập CT mới](readme/chuc-nang-them-moi-chung-tu/) (<mark style="color:red;">**Alt + N**</mark>): Nhập mới một chứng từ vào hệ thống.
 
@@ -28,31 +29,9 @@ icon: pen-to-square
 _<mark style="color:$danger;">Lưu ý: chứng từ trong một tháng, khi tháng đó kết thúc thì thông tin các chứng từ đó sẽ được khóa lại không thể chỉnh sửa.</mark>_
 {% endhint %}
 
-\+ Xóa (<mark style="color:red;">**Alt + X**</mark>): Chọn một chứng từ để xóa chứng từ đó.
-
-\+ Sắp xếp (<mark style="color:red;">**Alt + S**</mark>): Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu chứng từ.
-
-<figure><img src=".gitbook/assets/sắp xếp.png" alt="" width="410"><figcaption></figcaption></figure>
-
-\+ Lọc (<mark style="color:red;">**Alt + L**</mark>): Chức năng Lọc dùng để tìm và hiển thị các chứng từ hoặc dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
-
-<figure><img src=".gitbook/assets/lọc.png" alt="" width="455"><figcaption></figcaption></figure>
-
 \+ Tạo bản sao chứng từ đang chọn (<mark style="color:red;">**Ctrl + Shift + C**</mark>): Chọn một chứng từ và copy ra một bản chứng từ đã chọn.
 
-\+ Điều chỉnh cột hiển thị (<mark style="color:red;">**Alt + D**</mark>): chức năng giúp tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
-
-\+ Chế độ xem (<mark style="color:red;">**Alt + V**</mark>): chức năng dùng để thay đổi cách hiển thị danh sách dữ liệu trên màn hình. Tùy theo nhu cầu làm việc, người dùng có thể lựa chọn hiển thị thông tin ở dạng rút gọn hoặc đầy đủ, đồng thời bật/tắt khung xem trước để theo dõi nội dung nhanh hơn.
-
-<figure><img src=".gitbook/assets/chế độ xem.png" alt=""><figcaption></figcaption></figure>
-
-\+ Xem chi tiết nhanh một chứng từ (<mark style="color:red;">**Alt + Enter**</mark>): Chọn một chứng từ và mở view xem thông tin chi tiết chứng từ đó, chỉ xem không chỉnh sửa được.
-
-\+ Tick chọn,bỏ chọn hết (<mark style="color:red;">**Ctrl + A**</mark>): thực hiện chọn hoặc bỏ chọn tất cả chứng từ trong danh sách
-
-#### Xử lý chứng từ: (<mark style="color:red;">**Phím F2**</mark>)
-
-<figure><img src=".gitbook/assets/màn xử lý.png" alt=""><figcaption></figcaption></figure>
+\+ Xóa (<mark style="color:red;">**Alt + X**</mark>): Chọn một chứng từ để xóa chứng từ đó.
 
 \+ Ghi sổ/Bỏ ghi sổ: (<mark style="color:red;">**Alt + G**</mark>): sử dụng để chính thức ghi nhận các chứng từ đã được kiểm tra vào hệ thống sổ kế toán. Sau khi ghi sổ, hệ thống tự động cập nhật số liệu vào các tài khoản, công nợ, kho và các báo cáo liên quan, đảm bảo số liệu kế toán được phản ánh đầy đủ và kịp thời.
 
@@ -64,13 +43,31 @@ _<mark style="color:$danger;">Lưu ý: là điều kiện cần để sử dụn
 
 ·   Hủy (<mark style="color:red;">**ESC**</mark>)
 
-\+ Kết chuyển toàn kỳ (<mark style="color:red;">**Alt + K**</mark>): dùng để thực hiện các bút toán tổng hợp vào cuối kỳ kế toán nhằm xác định kết quả hoạt động kinh doanh và chuẩn bị số liệu cho kỳ kế toán tiếp theo.
+\+ Sắp xếp (<mark style="color:red;">**Alt + S**</mark>): Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu chứng từ.
+
+<figure><img src=".gitbook/assets/sắp xếp.png" alt="" width="410"><figcaption></figcaption></figure>
+
+\+ Lọc (<mark style="color:red;">**Alt + L**</mark>): Chức năng Lọc dùng để tìm và hiển thị các chứng từ hoặc dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
+
+<figure><img src=".gitbook/assets/lọc.png" alt="" width="455"><figcaption></figcaption></figure>
+
+\+ Chỉnh cột hiển thị (<mark style="color:red;">**Alt + D**</mark>): chức năng giúp tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
+
+\+ Chế độ xem (<mark style="color:red;">**Alt + V**</mark>): chức năng dùng để thay đổi cách hiển thị danh sách dữ liệu trên màn hình. Tùy theo nhu cầu làm việc, người dùng có thể lựa chọn hiển thị thông tin ở dạng rút gọn hoặc đầy đủ, đồng thời bật/tắt khung xem trước để theo dõi nội dung nhanh hơn.
+
+<figure><img src=".gitbook/assets/chế độ xem.png" alt=""><figcaption></figcaption></figure>
+
+\+ Xem chi tiết nhanh một chứng từ (<mark style="color:red;">**Alt + Enter**</mark>): Chọn một chứng từ và mở view xem thông tin chi tiết chứng từ đó, chỉ xem không chỉnh sửa được.
+
+\+ Tick chọn,bỏ chọn hết (<mark style="color:red;">**Ctrl + A**</mark>): thực hiện chọn hoặc bỏ chọn tất cả chứng từ trong danh sách
+
+\+ CT kết chuyển (<mark style="color:red;">**Alt + K**</mark>): dùng để thực hiện các bút toán tổng hợp vào cuối kỳ kế toán nhằm xác định kết quả hoạt động kinh doanh và chuẩn bị số liệu cho kỳ kế toán tiếp theo.
 
 {% hint style="danger" %}
 _<mark style="color:$danger;">Lưu ý: để có thể sử dụng chức năng kết chuyển, chứng từ cần phải được ghi sổ, trạng thái là “đã ghi sổ” ở chức năng ghi sổ trên.</mark>_
 {% endhint %}
 
-\+ Tính lại giá vốn (<mark style="color:red;">**Alt + T**</mark>): là chức năng dùng để hệ thống tính toán lại đơn giá và giá trị hàng xuất kho dựa trên các chứng từ nhập – xuất và phương pháp tính giá vốn đã được thiết lập.
+\+ CT giá vốn (<mark style="color:red;">**Alt + T**</mark>): là chức năng dùng để hệ thống tính toán lại đơn giá và giá trị hàng xuất kho dựa trên các chứng từ nhập – xuất và phương pháp tính giá vốn đã được thiết lập.
 
 ·   Tính lại giá vốn (<mark style="color:red;">**Enter**</mark>)
 
@@ -82,11 +79,11 @@ _<mark style="color:$danger;">Lưu ý: để có thể sử dụng chức năng 
 
 ·   Đóng (<mark style="color:red;">**ESC**</mark>)
 
-#### Kết xuất: (<mark style="color:red;">**Ctrl + P**</mark>)
+#### Kết xuất: (<mark style="color:red;">Phím F2</mark>)
 
-<figure><img src=".gitbook/assets/màn kết xuất.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/chức năng kết xuất.png" alt=""><figcaption></figcaption></figure>
 
-\+ In file (<mark style="color:red;">**Alt + P**</mark>)
+\+ In tệp (<mark style="color:red;">**Alt + P**</mark>)
 
 ·   In phiếu thu (<mark style="color:red;">**Alt + 1**</mark>): thực hiện in phiếu thu của chứng từ đã chọn.
 
@@ -98,9 +95,13 @@ _<mark style="color:$danger;">Lưu ý: để có thể sử dụng chức năng 
 
 ·   In danh sách chứng từ (<mark style="color:red;">**Alt + A**</mark>): in toàn bộ chứng từ
 
-\+ Xuất file (<mark style="color:red;">**Alt + E**</mark>): xuất danh sách chứng từ ra file.
+\+ Xuất tệp (<mark style="color:red;">**Alt + E**</mark>): xuất danh sách chứng từ ra file.
 
 \+ Gửi email (<mark style="color:red;">**Alt + M**</mark>): gửi danh sách chứng từ qua email
+
+#### Các phím chức năng khác
+
+<figure><img src=".gitbook/assets/các phím chức năng khác.png" alt=""><figcaption></figcaption></figure>
 
 \-    Tìm kiếm (<mark style="color:red;">**Ctrl + F**</mark>): thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh chứng từ
 

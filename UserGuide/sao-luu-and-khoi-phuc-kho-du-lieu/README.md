@@ -7,7 +7,7 @@ icon: trash-can-undo
 
 ## <mark style="color:$primary;">1. Chức năng sao lưu kho dữ liệu</mark>
 
-\- Chức năng [**Sao lưu kho dữ liệu**](sao-luu-kho-du-lieu.md) cho phép tạo và lưu lại một bản sao của kho dữ liệu kế toán đang sử dụng. Bản sao lưu giúp bảo vệ dữ liệu kế toán, hạn chế nguy cơ mất dữ liệu khi xảy ra sự cố hệ thống, lỗi phần mềm hoặc trong quá trình nâng cấp, thay đổi thiết bị.
+\- Chức năng [**Sao lưu kho dữ liệu**](sao-luu-tu-du-lieu.md) cho phép tạo và lưu lại một bản sao của kho dữ liệu kế toán đang sử dụng. Bản sao lưu giúp bảo vệ dữ liệu kế toán, hạn chế nguy cơ mất dữ liệu khi xảy ra sự cố hệ thống, lỗi phần mềm hoặc trong quá trình nâng cấp, thay đổi thiết bị.
 
 \- Ngoài ra có thể thực hiện sao lưu định kỳ để lưu giữ thông tin kế toán tại từng thời điểm, phục vụ việc khôi phục dữ liệu khi cần thiết.
 
@@ -23,7 +23,7 @@ icon: trash-can-undo
 
 ## <mark style="color:$primary;">3. Phân biệt hai chức năng</mark>
 
-| **Tiêu chí**          | [**Sao lưu kho dữ liệu**](sao-luu-kho-du-lieu.md)            | [**Khôi phục / Nạp kho dữ liệu**](khoi-phuc-nap-kho-du-lieu.md)      |
+| **Tiêu chí**          | [**Sao lưu kho dữ liệu**](sao-luu-tu-du-lieu.md)             | [**Khôi phục / Nạp kho dữ liệu**](khoi-phuc-nap-kho-du-lieu.md)      |
 | --------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------- |
 | **Mục đích**          | Tạo bản sao để bảo vệ dữ liệu                                | Đưa dữ liệu đã lưu vào hệ thống để sử dụng lại                       |
 | **Hướng xử lý**       | Từ kho dữ liệu đang sử dụng tạo bản sao lưu                  | Từ bản sao lưu hoặc kho dữ liệu có sẵn nạp vào hệ thống              |

@@ -4,6 +4,24 @@ icon: right-from-bracket
 
 # Chức năng chứng từ giá vốn xuất
 
+## <mark style="color:$primary;">Thao tác mở màn hình chức năng chứng từ giá vốn xuất</mark>
+
+<figure><img src=".gitbook/assets/mở chứng từ giá vốn xuất.png" alt=""><figcaption></figcaption></figure>
+
+{% stepper %}
+{% step %}
+### Bước 1
+
+Trong menu chọn danh mục Chứng từ (<mark style="color:red;">**Ctrl + 1**</mark>)
+{% endstep %}
+
+{% step %}
+### Bước 2
+
+Chọn chức năng **CT giá vốn** (<mark style="color:red;">**Alt + K**</mark>) (Ngoài ra có thể sử dụng <mark style="color:red;">**Ctrl + 3**</mark> tại màn hình tổng quan để vào thẳng màn hình **CT giá vốn**)
+{% endstep %}
+{% endstepper %}
+
 ## <mark style="color:$primary;">Menu các chức năng trong thanh công cụ</mark>
 
 <figure><img src=".gitbook/assets/màn hình chứng từ giá vốn xuất (1).png" alt=""><figcaption></figcaption></figure>

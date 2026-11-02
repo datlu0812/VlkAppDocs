@@ -26,13 +26,13 @@ icon: bars-staggered
 
 **Cách 2:** Chức năng Danh mục trong thanh công cụ bên trái màn hình.
 
-<figure><img src="../.gitbook/assets/màn hình danh mục.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/màn hình danh mục (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:$primary;">Màn hình chức năng danh mục</mark>
 
-<figure><img src="../.gitbook/assets/màn hình chính 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/màn hình chính 1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/màn hình chính 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/màn hình chính 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:$primary;">Danh sách các danh mục con quản lý các dữ liệu nền tảng của hệ thống</mark>
 

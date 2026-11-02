@@ -6,7 +6,7 @@ description: (Danh mục đối tác)
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/màn hình chính đối tác.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình chính đối tác (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục đối tác đóng vai trò là dữ liệu dùng chung cho nhiều nghiệp vụ. Khi lập chứng từ mua hàng, bán hàng, thu tiền, chi tiền hoặc theo dõi công nợ, có thể lựa chọn đối tác đã được khai báo thay vì phải nhập lại thông tin nhiều lần. Là nơi quản lý tập trung “đối tác của doanh nghiệp là ai và thông tin liên hệ của họ là gì”, làm cơ sở để sử dụng xuyên suốt các nghiệp vụ kế toán và quản lý công nợ.
 

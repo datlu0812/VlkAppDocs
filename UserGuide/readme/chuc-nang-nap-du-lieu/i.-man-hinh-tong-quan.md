@@ -4,7 +4,7 @@ description: (Màn hình tổng quan các chức năng)
 
 # I. Màn hình tổng quan
 
-<figure><img src="../../.gitbook/assets/màn hình tổng quan.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/chức năng nạp dữ liệu.png" alt=""><figcaption></figcaption></figure>
 
 Các bước để vào màn hình nạp dữ liệu:
 
@@ -22,9 +22,9 @@ Trong màn hình thao tác, chọn chức năng **“Nạp dữ liệu”** (<ma
 {% endstep %}
 {% endstepper %}
 
-Sau khi chọn chức năng **“Nạp dữ liệu”**, hệ thống sẽ hiển thị màn hình nạp file.
+<figure><img src="../../.gitbook/assets/màn hình chính nạp dữ liệu.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/màn hình chức năng.png" alt=""><figcaption></figcaption></figure>
+Sau khi chọn chức năng **“Nạp dữ liệu”**, hệ thống sẽ hiển thị màn hình nạp file.
 
 **Màn hình gồm:**
 

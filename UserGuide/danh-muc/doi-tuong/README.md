@@ -4,7 +4,7 @@ description: (Nhóm danh mục đối tượng)
 
 # Đối tượng
 
-<figure><img src="../../.gitbook/assets/màn hình đối tượng.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình đối tượng (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục Đối tượng là nhóm danh mục dùng để quản lý tập trung các đối tượng phục vụ hoạt động giao dịch và hạch toán của doanh nghiệp.&#x20;
 

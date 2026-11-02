@@ -6,7 +6,7 @@ description: (Danh mục tài sản cố định)
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/Màn hình chính tài sản cố định.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Màn hình chính tài sản cố định (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;\- Danh mục quản lý tài sản cố định dùng để khai báo, lưu trữ và theo dõi thông tin các tài sản cố định thuộc quyền quản lý, sử dụng của doanh nghiệp. Chức năng cho phép quản lý các thông tin như mã tài sản, tên tài sản, nhóm tài sản, ngày ghi tăng, nguyên giá, thời gian sử dụng, phương pháp khấu hao, hao mòn lũy kế, giá trị còn lại và các tài khoản kế toán liên quan.
 

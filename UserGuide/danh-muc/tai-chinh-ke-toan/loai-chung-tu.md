@@ -2,7 +2,7 @@
 
 ### <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/màn hình loại chứng từ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình loại chứng từ (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục loại chứng từ là chức năng dùng để quản lý và thiết lập các loại chứng từ được sử dụng trong phần mềm kế toán. Mỗi loại chứng từ đại diện cho một nhóm nghiệp vụ kế toán có cùng mục đích xử lý, giúp phân loại, nhận diện, nhập liệu và quản lý chứng từ một cách thống nhất.
 

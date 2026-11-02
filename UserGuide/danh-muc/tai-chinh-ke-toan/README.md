@@ -4,7 +4,7 @@ description: (Nhóm danh mục tài chính - kế toán)
 
 # Tài chính - kế toán
 
-<figure><img src="../../.gitbook/assets/Màn hình tổng quan tài chính kế toán.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Màn hình tổng quan tài chính kế toán (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục Tài chính – Kế toán là nhóm chức năng dùng để khai báo và quản lý các thông tin nền tảng phục vụ hoạt động kế toán trong phần mềm ANTSoft. Nhóm danh mục bao gồm Hệ thống tài khoản, Ngân hàng, Tài khoản ngân hàng, Ngoại tệ, Thuế (Các mức thuế suất), Khoản mục chi phí, Quy tắc kết chuyển và Loại chứng từ.
 

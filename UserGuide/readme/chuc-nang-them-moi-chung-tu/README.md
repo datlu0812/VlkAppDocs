@@ -33,7 +33,7 @@ Có 2 cách để vào màn hình nhập mới chứng từ.
 
 {% tabs %}
 {% tab title="Cách 1" %}
-Ở màn hình tổng quan, bấm nút **Chứng từ mới** (<mark style="color:red;">**Phím N**</mark>).
+Ở màn hình **Tổng quan**, bấm nút **Chứng từ mới** (<mark style="color:red;">**Phím N**</mark>).
 
 Ngoài ra có một số loại chứng từ được cấu hình và định khoản sẵn theo các nghiệp vụ cơ bản:
 
@@ -44,7 +44,7 @@ Ngoài ra có một số loại chứng từ được cấu hình và định kh
 * Phiếu kế toán (<mark style="color:red;">**Phím F5**</mark>)
 * Nhập/Xuất kho (<mark style="color:red;">**Phím F6**</mark>)
 
-<figure><img src="../../.gitbook/assets/màn hình tổng hợp.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/chức năng nhập mới chứng từ 1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Cách 2" %}
@@ -52,13 +52,13 @@ Ngoài ra có một số loại chứng từ được cấu hình và định kh
 {% step %}
 ### Chọn Chứng từ tổng hợp
 
-Tại menu chức năng, chọn **Chứng từ tổng hợp** (**Ctrl + 1**).
+Tại menu chức năng, chọn **Chứng từ** (<mark style="color:red;">**Ctrl + 1**</mark>).
 {% endstep %}
 
 {% step %}
 ### Chọn Nhập mới chứng từ
 
-Chọn **Nhập mới chứng từ** (**Alt + N**).
+Chọn **Nhập mới chứng từ** (<mark style="color:red;">**Alt + N**</mark>).
 {% endstep %}
 
 {% step %}
@@ -66,7 +66,7 @@ Chọn **Nhập mới chứng từ** (**Alt + N**).
 
 Hệ thống hiển thị màn hình nhập mới chứng từ.
 
-<figure><img src="../../.gitbook/assets/màn hình chứng từ nhập mới.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/chức năng nhập mới chứng từ 2.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 {% endtab %}

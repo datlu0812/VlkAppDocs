@@ -6,7 +6,7 @@ description: (Danh mục đối tượng hạch toán khác)
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/màn hình đối tượng hạch  toán khác.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình đối tượng hạch  toán khác (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Đối tượng hạch toán khác là danh mục dùng để khai báo và quản lý các đối tượng cần theo dõi riêng trong hạch toán kế toán, nhưng không thuộc các nhóm đối tượng phổ biến như khách hàng, nhà cung cấp, nhân viên hoặc tài khoản ngân hàng.
 

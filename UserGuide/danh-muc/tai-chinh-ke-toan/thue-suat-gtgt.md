@@ -6,7 +6,7 @@ description: (Danh mục thuế suất GTGT)
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/màn hình danh mục thuế.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình danh mục thuế (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục thuế suất GTGT là nơi dùng để khai báo và quản lý các mức thuế suất giá trị gia tăng (GTGT) được sử dụng trong phần mềm kế toán. Danh mục này giúp phần mềm xác định đúng tỷ lệ thuế khi thực hiện lập chứng từ mua vào, bán ra hoặc nhập các nghiệp vụ có phát sinh thuế GTGT.
 

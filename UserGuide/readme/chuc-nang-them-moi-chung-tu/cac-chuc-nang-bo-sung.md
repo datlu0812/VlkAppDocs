@@ -32,9 +32,9 @@ Hệ thống hiển thị popup **Thêm mới đối tác**, nhập thông tin �
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../.gitbook/assets/themmoidoitac1.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/danh mục đối tác 1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/themmoidoitac2.png" alt="" width="467"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/danh mục đối tác 2.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Cách 2: Tại màn hình nhập mới chứng từ" %}
@@ -125,9 +125,9 @@ Hệ thống hiển thị popup **Thêm mới sản phẩm**, nhập thông tin 
 {% endstep %}
 {% endstepper %}
 
-<figure><img src="../../.gitbook/assets/themmoihh1.png" alt="" width="465"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/danh mục hàng hóa 1.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/themmoihh2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/danh mục hàng hóa 2.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Cách 2: Tại màn hình nhập mới chứng từ" %}

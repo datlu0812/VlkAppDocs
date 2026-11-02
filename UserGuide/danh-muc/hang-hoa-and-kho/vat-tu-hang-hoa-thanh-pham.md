@@ -6,7 +6,7 @@ description: (Danh mục vật tư - hàng hóa - thành phẩm)
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/màn hình hàng hóa.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình hàng hóa &#x26; kho (2).png" alt=""><figcaption></figcaption></figure>
 
 \- Chức năng quản lý hàng hóa, sản phẩm được sử dụng để khai báo, lưu trữ và quản lý thông tin các mặt hàng, vật tư và thành phẩm của doanh nghiệp. Chức năng giúp tập trung dữ liệu hàng hóa tại một nơi, thuận tiện cho việc tra cứu, cập nhật thông tin và sử dụng trong các nghiệp vụ kế toán như mua hàng, bán hàng, nhập kho, xuất kho và tính giá vốn.
 

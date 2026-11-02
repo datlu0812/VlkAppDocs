@@ -6,7 +6,7 @@ description: (Danh mục công cụ, dụng cụ)
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/màn hình chính công cụ dụng cụ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình chính công cụ dụng cụ (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục Quản lý công cụ dụng cụ được sử dụng để khai báo, lưu trữ và quản lý thông tin các công cụ, dụng cụ phục vụ hoạt động sản xuất kinh doanh của doanh nghiệp.
 

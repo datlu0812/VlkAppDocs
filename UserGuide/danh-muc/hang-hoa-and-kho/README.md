@@ -4,7 +4,7 @@ description: (Nhóm danh mục hàng hóa & kho)
 
 # Hàng hóa & Kho
 
-<figure><img src="../../.gitbook/assets/màn hình hàng hóa &#x26; kho.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình hàng hóa &#x26; kho (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục Hàng hóa & Kho dùng để quản lý tập trung thông tin vật tư, hàng hóa, thành phẩm và các dữ liệu liên quan đến hoạt động lưu trữ, quản lý kho.&#x20;
 

@@ -32,7 +32,7 @@ description: (Hướng dẫn thực hiện khôi phục hoặc nạp kho dữ li
 
 #### Bước 4: Chọn chức năng Khôi phục / Nạp kho có sẵn
 
-<figure><img src="../.gitbook/assets/bước 4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 4 (4).png" alt=""><figcaption></figcaption></figure>
 
 \- Chọn chức năng Khôi phục/Nạp kho có sẵn để mở giao diện “khôi phục kho dữ liệu”.
 
@@ -46,11 +46,11 @@ description: (Hướng dẫn thực hiện khôi phục hoặc nạp kho dữ li
 
 \- Sau khi chọn bản sao lưu trên sever hoặc đính kèm file kho dữ liệu có sẵn theo đúng cấu trúc của hệ thống, chọn chức năng “Xác nhận” ở góc dưới bên phải của giao diện.
 
-<div><figure><img src="../.gitbook/assets/cách 1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/cách 2.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/cách 1 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/cách 2 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Bước 6: Nhập mật khẩu khôi phục.
 
-<figure><img src="../.gitbook/assets/nhập mật khẩu khôi phục .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/nhập mật khẩu khôi phục  (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Sau khi xác nhận phiên bản khôi phục, đối với trường hợp phiên bản cần mật khẩu để thực hiện khôi phục cần nhập mật khẩu để khôi phục. Trường hợp phiên bản không cần mật khẩu thì thực hiện xác nhận để hoàn thành khôi phục.
 
@@ -60,7 +60,7 @@ description: (Hướng dẫn thực hiện khôi phục hoặc nạp kho dữ li
 
 #### Bước 7: Theo dõi tiến trình khôi phục
 
-<figure><img src="../.gitbook/assets/đóng kho đan gmowr.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/đóng kho đan gmowr (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Sau khi nhấn nút tiếp tục hệ thống sẽ tiến hành khôi phục kho dữ liệu, chạy các tiến trình cần thiết có thể theo dõi tiến trình khôi phục qua các bước.
 
@@ -68,7 +68,7 @@ description: (Hướng dẫn thực hiện khôi phục hoặc nạp kho dữ li
 
 #### Bước 8: Hoàn thành khôi phục
 
-<figure><img src="../.gitbook/assets/hoàn thành.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/hoàn thành (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Sau khi tiến trình khôi phục đã thực hiện xong, hợp lệ, hệ thống sẽ hiển thị kết quả khôi phục.
 

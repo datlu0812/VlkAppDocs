@@ -6,7 +6,7 @@ description: (Danh mục hệ thống tài khoản)
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/Màn hình hệ thống tài khoản.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Màn hình hệ thống tài khoản (2).png" alt=""><figcaption></figcaption></figure>
 
 \- Hệ thống tài khoản là chức năng dùng để khai báo, quản lý và sử dụng các tài khoản kế toán phục vụ việc ghi nhận và phân loại các nghiệp vụ kinh tế, tài chính phát sinh trong doanh nghiệp.
 

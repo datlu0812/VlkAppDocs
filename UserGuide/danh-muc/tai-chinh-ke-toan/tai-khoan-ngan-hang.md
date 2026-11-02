@@ -6,7 +6,7 @@ description: (Danh mục tài khoản ngân hàng)
 
 ## <mark style="color:$primary;">**Màn hình chức năng**</mark>
 
-<figure><img src="../../.gitbook/assets/màn hình tài khoản ngân hàng.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình tài khoản ngân hàng (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục Tài khoản ngân hàng dùng để quản lý các tài khoản tiền gửi mà doanh nghiệp mở và sử dụng tại các ngân hàng. Mỗi tài khoản được khai báo các thông tin như ngân hàng, số tài khoản, loại tiền và tài khoản kế toán liên quan.
 

@@ -1,10 +1,10 @@
 ---
-description: (Hướng dẫn thực hiện sao lưu kho dữ liệu)
+description: (Hướng dẫn thực hiện sao lưu tủ dữ liệu)
 ---
 
-# Sao lưu kho dữ liệu
+# Sao lưu tủ dữ liệu
 
-## <mark style="color:$primary;">Hướng dẫn các bước sao lưu kho dữ liệu</mark>
+## <mark style="color:$primary;">Hướng dẫn các bước sao lưu tủ dữ liệu</mark>
 
 #### Bước 1: Mở menu quản lý tài khoản
 
@@ -28,9 +28,9 @@ description: (Hướng dẫn thực hiện sao lưu kho dữ liệu)
 
 \- Nhấp vào nút Mở Trung tâm dữ liệu (màu xanh lá) để tiếp tục.
 
-#### Bước 4: Mở tùy chọn thao tác kho
+#### Bước 4: Mở tùy chọn thao tác tủ dữ liệu
 
-<figure><img src="../.gitbook/assets/bước 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 4 (2).png" alt=""><figcaption></figcaption></figure>
 
 \- Sau khi mở trung tâm dữ liệu màn hình thông tin các kho dữ liệu hiện ra.
 
@@ -44,7 +44,7 @@ Có 2 cách để mở chức năng “sao lưu kho” trong danh sách chức n
 
 #### Bước 5: Chọn chức năng Sao lưu kho
 
-<figure><img src="../.gitbook/assets/bước 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 5 (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Sau khi nhấp vào tùy chọn, danh sách chức năng hiện ra.
 
@@ -52,7 +52,7 @@ Có 2 cách để mở chức năng “sao lưu kho” trong danh sách chức n
 
 #### Bước 6: Chọn thư mục lưu file trên máy tính
 
-<figure><img src="../.gitbook/assets/bước 6 7 8 9 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 6 7 8 9 10 (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Tại giao diện Sao lưu kho dữ liệu, ở mục Nơi lưu, nhấp vào nút Chọn thư mục để chọn đường dẫn chứa tệp sao lưu trên máy tính…
 
@@ -82,7 +82,7 @@ _<mark style="color:$danger;">Tùy chọn</mark>_ <mark style="color:$danger;"><
 
 #### Bước 11: Kiểm tra tiến trình sao lưu
 
-<figure><img src="../.gitbook/assets/bước 11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bước 11 (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Sau khi tạo bản sao lưu dữ liệu thành công hệ thống sẽ chuyển qua màn hình theo dõi tiến trình sao lưu. Ở đây có thể theo dõi được các thông tin sao lưu như tiến trình sao lưu, nơi lưu, trạng thái lưu, các phiên bản sao lưu đã thực hiện.
 

@@ -6,7 +6,7 @@ description: (Danh mục ngoại tệ)
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/màn hình tiền tệ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình tiền tệ (1).png" alt=""><figcaption></figcaption></figure>
 
 \- **Danh mục tiền tệ** dùng để quản lý các loại tiền được sử dụng trong hệ thống kế toán, bao gồm đồng tiền hạch toán và các loại ngoại tệ doanh nghiệp sử dụng trong giao dịch. Mỗi loại tiền được khai báo các thông tin như mã tiền, tên tiền, ký hiệu và tỷ giá. Thông tin từ danh mục tiền tệ được sử dụng trong các nghiệp vụ kế toán phát sinh bằng ngoại tệ, giúp phần mềm theo dõi giá trị nguyên tệ, quy đổi sang đồng tiền hạch toán và phục vụ việc quản lý, đối chiếu và xử lý chênh lệch tỷ giá.
 

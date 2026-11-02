@@ -6,7 +6,7 @@ description: (Danh mục nhân viên)
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/Màn hình chính nhân viên.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Màn hình chính nhân viên (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục Nhân viên trong hệ thống được sử dụng để quản lý thông tin nhân viên của doanh nghiệp, bao gồm thông tin nhận diện, chức vụ, thông tin liên hệ, ngày vào làm và các thông tin liên quan đến quản lý nội bộ.
 

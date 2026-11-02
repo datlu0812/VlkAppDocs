@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Chức năng Chứng từ tổng hợp](README.md)
+* [Chức năng Chứng từ](README.md)
   * [Chức năng Nạp dữ liệu](readme/chuc-nang-nap-du-lieu/README.md)
     * [I. Màn hình tổng quan](readme/chuc-nang-nap-du-lieu/i.-man-hinh-tong-quan.md)
     * [II. Quy trình import “Hóa đơn đầu vào” và “Hóa đơn đầu ra”](readme/chuc-nang-nap-du-lieu/ii.-quy-trinh-import-hoa-don-dau-vao-va-hoa-don-dau-ra.md)
@@ -42,8 +42,10 @@
     * [Phòng ban](danh-muc/phan-bo-and-quan-tri/phong-ban.md)
     * [Đối tượng tập hợp chi phí](danh-muc/phan-bo-and-quan-tri/doi-tuong-tap-hop-chi-phi.md)
     * [Công trình, vụ việc](danh-muc/phan-bo-and-quan-tri/cong-trinh-vu-viec.md)
+* [Cài đặt](cai-dat/README.md)
+  * [Chứng từ](cai-dat/chung-tu.md)
 * [Sao lưu & Khôi phục kho dữ liệu](sao-luu-and-khoi-phuc-kho-du-lieu/README.md)
-  * [Sao lưu kho dữ liệu](sao-luu-and-khoi-phuc-kho-du-lieu/sao-luu-kho-du-lieu.md)
+  * [Sao lưu tủ dữ liệu](sao-luu-and-khoi-phuc-kho-du-lieu/sao-luu-tu-du-lieu.md)
   * [Khôi phục/nạp kho dữ liệu](sao-luu-and-khoi-phuc-kho-du-lieu/khoi-phuc-nap-kho-du-lieu.md)
 * [Phụ lục nghiệp vụ kế toán](phu-luc-nghiep-vu-ke-toan/README.md)
   * [Tiền mặt](phu-luc-nghiep-vu-ke-toan/tien-mat.md)

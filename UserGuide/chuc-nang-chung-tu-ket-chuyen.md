@@ -4,6 +4,24 @@ icon: rotate
 
 # Chức năng Chứng từ kết chuyển
 
+## <mark style="color:$primary;">Thao tác mở màn hình chức năng kết chuyển chứng từ</mark>
+
+<figure><img src=".gitbook/assets/mở chứng từ kết chuyển.png" alt=""><figcaption></figcaption></figure>
+
+{% stepper %}
+{% step %}
+### Bước 1
+
+Trong menu chọn danh mục Chứng từ (<mark style="color:red;">**Ctrl + 1**</mark>)
+{% endstep %}
+
+{% step %}
+### Bước 2
+
+Chọn chức năng **CT kết chuyển** (<mark style="color:red;">**Alt + K**</mark>) (Ngoài ra có thể sử dụng <mark style="color:red;">**Ctrl + 2**</mark> tại màn hình tổng quan để vào thẳng màn hình **CT kết chuyển**)
+{% endstep %}
+{% endstepper %}
+
 ## <mark style="color:$primary;">Menu các chức năng trong thanh công cụ</mark>
 
 <figure><img src=".gitbook/assets/màn hình chứng từ kết chuyển.png" alt=""><figcaption></figcaption></figure>

@@ -6,7 +6,7 @@ description: (Danh mục ngân hàng)
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
-<figure><img src="../../.gitbook/assets/màn hình ngân hàng.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/màn hình ngân hàng (1).png" alt=""><figcaption></figcaption></figure>
 
 \- Danh mục Ngân hàng là chức năng dùng để quản lý thông tin các ngân hàng được sử dụng trong phần mềm kế toán.&#x20;
 
