@@ -32,13 +32,13 @@ description: (Danh mục nhóm vật tư - hàng hóa)
 
 #### 1. Tác vụ chung (<mark style="color:red;">**Ctrl + U**</mark>)
 
-**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](nhom-vat-tu-hang-hoa.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một công cụ dụng cụ.
+**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](nhom-vat-tu-hang-hoa.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một nhóm phân loại vật tư hàng hóa thành phẩm vào hệ thống.
 
-**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](nhom-vat-tu-hang-hoa.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](nhom-vat-tu-hang-hoa.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách nhóm phân loại vật tư hàng hóa thành phẩm đã có sẵn vào hệ thống.
 
-**+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết thông tin loại hàng hóa, hoặc chỉnh sửa các thông tin của loại hàng hóa đã chọn.
+**+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết thông tin phân loại hàng hóa, hoặc chỉnh sửa các thông tin của phân loại hàng hóa đã chọn.
 
-**+ Xóa (**<mark style="color:red;">**Alt + X**</mark>**):** Xóa loại hàng hóa đã chọn.
+**+ Xóa (**<mark style="color:red;">**Alt + X**</mark>**):** Xóa phân loại hàng hóa đã chọn.
 
 **+ Sắp xếp (**<mark style="color:red;">**Alt + S**</mark>**):** Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
 

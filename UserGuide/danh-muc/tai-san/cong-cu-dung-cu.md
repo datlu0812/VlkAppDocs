@@ -30,7 +30,7 @@ Danh mục quản lý công cụ dụng cụ thường liên quan đến các ng
 
 #### 1. Tác vụ chung (<mark style="color:red;">Ctrl + U</mark>)
 
-**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](cong-cu-dung-cu.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một công cụ dụng cụ.
+**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](cong-cu-dung-cu.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một công cụ dụng cụ vào hệ thống.
 
 **+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](cong-cu-dung-cu.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.
 

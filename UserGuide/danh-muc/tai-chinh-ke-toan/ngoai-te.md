@@ -18,9 +18,9 @@ description: (Danh mục ngoại tệ)
 
 #### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
-**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](ngoai-te.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một công cụ dụng cụ.
+**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](ngoai-te.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một loại ngoại tệ vào hệ thống.
 
-**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](ngoai-te.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](ngoai-te.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách loại ngoại tệ đã có sẵn vào hệ thống.
 
 **+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết loại tiền tệ, hoặc chỉnh sửa các thông tin của loại tiền tệ đã chọn.
 

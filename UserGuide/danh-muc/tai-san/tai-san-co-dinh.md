@@ -32,7 +32,7 @@ Doanh nghiệp mua một máy tính phục vụ công việc với:
 
 \- Thời điểm bắt đầu trích khấu hao thực tế cần căn cứ vào quy định áp dụng và thông tin ghi tăng tài sản
 
-## <mark style="color:$primary;">Các chức năng trong danh mục nhân viên</mark>
+## <mark style="color:$primary;">Các chức năng trong danh mục tài sản cố định</mark>
 
 #### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 

@@ -34,13 +34,13 @@ Doanh nghiệp phát sinh nghiệp vụ thu tiền của khách hàng bằng ti�
 | Chứng từ ngân hàng | Ghi nhận các giao dịch qua ngân hàng                    | Chuyển khoản thanh toán nhà cung cấp            |
 | Chứng từ tổng hợp  | Ghi nhận các nghiệp vụ không thuộc chứng từ chuyên biệt | Phân bổ chi phí, điều chỉnh số liệu, kết chuyển |
 
-### <mark style="color:$primary;">Các chức năng trong danh mục thuế suất GTGT</mark>
+### <mark style="color:$primary;">Các chức năng trong danh mục loại chứng từ</mark>
 
 #### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
 
-**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](loai-chung-tu.md#chuc-nang-tao-moi-du-lieu)**: Thực hiện tạo mới một công cụ dụng cụ.**
+**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](loai-chung-tu.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một loại chứng từ vào hệ thống.
 
-**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](loai-chung-tu.md#chuc-nang-nap-du-lieu)**: Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.**
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](loai-chung-tu.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách loại chứng từ đã có sẵn vào hệ thống.
 
 **+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết loại chứng từ, hoặc chỉnh sửa các thông tin của loại chứng từ đã chọn.
 
