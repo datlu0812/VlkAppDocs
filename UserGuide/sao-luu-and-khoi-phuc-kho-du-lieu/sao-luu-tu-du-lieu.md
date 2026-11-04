@@ -34,13 +34,13 @@ description: (Hướng dẫn thực hiện sao lưu tủ dữ liệu)
 
 \- Sau khi mở trung tâm dữ liệu màn hình thông tin các kho dữ liệu hiện ra.
 
-\- Mỗi lần thực hiện sao lưu kho chỉ thực hiện được một kho, chọn kho cần sao lưu.
+\- Mỗi lần thực hiện sao lưu tủ dữ liệu chỉ thực hiện được một tủ dữ liệu, chọn tủ dữ liệu cần sao lưu.
 
-Có 2 cách để mở chức năng “sao lưu kho” trong danh sách chức năng của kho cần sao lưu:
+Có 2 cách để mở chức năng “sao lưu tủ dữ liệu” trong danh sách chức năng của tủ dữ liệu cần sao lưu:
 
-**+ Cách 1**: Tại giao diện Kho dữ liệu, tìm đến kho muốn sao lưu trong danh sách kho bên tay trái (ví dụ: _Kho HCM 03_). Nhấp vào dấu 3 chấm sau tên kho.
+**+ Cách 1**: Tại giao diện Tủ dữ liệu, tìm đến tủ dữ liệu muốn sao lưu trong danh sách tủ dữ liệu bên tay trái (ví dụ: _Kho HCM 03_). Nhấp vào dấu 3 chấm sau tên kho.
 
-**+ Cách 2:** Nhấp vào nút Tùy chọn (biểu tượng dấu ba chấm ...) nằm ở góc trên bên phải giao diện chi tiết kho.
+**+ Cách 2:** Nhấp vào nút Tùy chọn (biểu tượng dấu ba chấm ...) nằm ở góc trên bên phải giao diện chi tiết tủ dữ liệu.
 
 #### Bước 5: Chọn chức năng Sao lưu kho
 
@@ -48,13 +48,13 @@ Có 2 cách để mở chức năng “sao lưu kho” trong danh sách chức n
 
 \- Sau khi nhấp vào tùy chọn, danh sách chức năng hiện ra.
 
-\- Nhấp chọn chức năng Sao lưu kho (.vlkrec).
+\- Nhấp chọn chức năng Sao lưu tủ (.vlkrec).
 
 #### Bước 6: Chọn thư mục lưu file trên máy tính
 
 <figure><img src="../.gitbook/assets/bước 6 7 8 9 10 (1).png" alt=""><figcaption></figcaption></figure>
 
-\- Tại giao diện Sao lưu kho dữ liệu, ở mục Nơi lưu, nhấp vào nút Chọn thư mục để chọn đường dẫn chứa tệp sao lưu trên máy tính…
+\- Tại giao diện Sao lưu tủ dữ liệu, ở mục Nơi lưu, nhấp vào nút Chọn thư mục để chọn đường dẫn chứa tệp sao lưu trên máy tính…
 
 \- Nút chức năng “Làm mới” dùng để làm mới lại dữ liệu cấu hình cho bản sao lưu mới.
 

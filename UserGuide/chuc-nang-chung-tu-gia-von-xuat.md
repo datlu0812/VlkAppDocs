@@ -24,7 +24,7 @@ Chọn chức năng **CT giá vốn** (<mark style="color:red;">**Alt + K**</mar
 
 ## <mark style="color:$primary;">Menu các chức năng trong thanh công cụ</mark>
 
-<figure><img src=".gitbook/assets/màn hình chứng từ giá vốn xuất (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/màn hình chứng từ giá vốn xuất (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **Tác vụ chung:**
 

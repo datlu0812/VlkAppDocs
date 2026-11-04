@@ -24,7 +24,7 @@ Chọn chức năng **CT kết chuyển** (<mark style="color:red;">**Alt + K**<
 
 ## <mark style="color:$primary;">Menu các chức năng trong thanh công cụ</mark>
 
-<figure><img src=".gitbook/assets/màn hình chứng từ kết chuyển.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/màn hình chứng từ kết chuyển (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Tác vụ chung:
 
