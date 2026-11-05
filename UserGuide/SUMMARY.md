@@ -24,7 +24,7 @@
     * [Ngoại tệ](danh-muc/tai-chinh-ke-toan/ngoai-te.md)
     * [Thuế suất GTGT](danh-muc/tai-chinh-ke-toan/thue-suat-gtgt.md)
     * [Khoản mục chi phí (chưa)](danh-muc/tai-chinh-ke-toan/khoan-muc-chi-phi-chua.md)
-    * [Quy tắc kết chuyển (chưa)](danh-muc/tai-chinh-ke-toan/quy-tac-ket-chuyen-chua.md)
+    * [Quy tắc kết chuyển](danh-muc/tai-chinh-ke-toan/quy-tac-ket-chuyen.md)
     * [Loại chứng từ](danh-muc/tai-chinh-ke-toan/loai-chung-tu.md)
   * [Đối tượng](danh-muc/doi-tuong/README.md)
     * [Đối tượng hạch toán khác](danh-muc/doi-tuong/doi-tuong-hach-toan-khac.md)
