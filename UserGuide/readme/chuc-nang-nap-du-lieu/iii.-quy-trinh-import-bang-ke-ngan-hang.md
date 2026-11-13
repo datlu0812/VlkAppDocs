@@ -2,7 +2,7 @@
 description: (Bảng kê ngân hàng)
 ---
 
-# III. Quy trình import “Bảng kê ngân hàng”
+# III. Quy trình nạp dữ liệu “Bảng kê ngân hàng”
 
 <figure><img src="../../.gitbook/assets/sơ đồ bước.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,14 +12,14 @@ description: (Bảng kê ngân hàng)
 {% step %}
 ### <mark style="color:$primary;">Bước 1: Chọn dữ liệu & cấu hình</mark>
 
-**Điều kiện để nạp dữ liệu:** Chuẩn hóa dữ liệu file import.
+**Điều kiện để nạp dữ liệu:** Chuẩn hóa dữ liệu file nạp
 
-* Chọn loại dữ liệu để hiển thị ra file mẫu import phù hợp với loại import.
-* Tải file mẫu về (<mark style="color:red;">**Alt + M**</mark>), chuẩn hóa lại dữ liệu từng cột trong file dữ liệu đã chuẩn bị sẵn sang các cột tương ứng trong file mẫu đã tải.
-* Có thể không cần chuẩn hóa trước, vẫn có thể import, nhưng sẽ phải gán lại cột dữ liệu tương ứng ở bước **“Gán cột dữ liệu”**. Phần này sẽ mất thời gian để chọn từng loại dữ liệu phù hợp với cột dữ liệu truyền vào.
+* Chọn loại dữ liệu để hiển thị ra file mẫu import phù hợp với loại nạp dữ liệu.
+* Tải file mẫu về (<mark style="color:red;">**Phím tắt Alt + M**</mark>), chuẩn hóa lại dữ liệu từng cột trong file dữ liệu đã chuẩn bị sẵn sang các cột tương ứng trong file mẫu đã tải.
+* Có thể không cần chuẩn hóa trước, vẫn có thể thực hiện nạp dữ liệu, nhưng sẽ phải gán lại cột dữ liệu tương ứng ở bước **“Gán cột dữ liệu”**. <mark style="background-color:$danger;">Phần này sẽ mất thời gian để chọn từng loại dữ liệu phù hợp với cột dữ liệu truyền vào</mark>.
 
 {% hint style="danger" %}
-Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết kiệm thời gian và tránh sai sót thông tin khi bước vào bước **“Gán cột dữ liệu”**.
+<mark style="color:$danger;">Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết kiệm thời gian và tránh sai sót thông tin khi bước vào bước</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">**“Gán cột dữ liệu”**</mark><mark style="color:$danger;">.</mark>
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Chọn loại dữ liệu.png" alt=""><figcaption></figcaption></figure>
@@ -28,20 +28,20 @@ Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết kiệ
 
 <figure><img src="../../.gitbook/assets/cauhinhnhanh1.png" alt=""><figcaption></figcaption></figure>
 
-* Cấu hình nhanh loại dữ liệu import vào (<mark style="color:red;">**Alt + C**</mark>).
-* Tùy theo loại dữ liệu import vào sẽ có mỗi quy trình khác nhau.
+* Cấu hình nhanh loại dữ liệu nạp vào (<mark style="color:red;">**Phím tắt Alt + C**</mark>).
+* Tùy theo loại dữ liệu nạp vào sẽ có mỗi quy trình khác nhau.
 
-#### Đính kèm file import
+#### Đính kèm file mẫu
 
-Sau khi chuẩn hóa dữ liệu theo file import mẫu, có thể sử dụng các cách sau để đính kèm file:
+Sau khi chuẩn hóa dữ liệu theo file nạp dữ liệu mẫu, có thể sử dụng các cách sau để đính kèm file:
 
 * Kéo thả file vào khung import.
-* Click nút **“Chọn file”** (<mark style="color:red;">**Alt + E**</mark>) để mở hộp thoại folder, sau đó tìm đến folder chứa file và chọn file đã chuẩn hóa.
+* Click nút **“Chọn file”** (<mark style="color:red;">**Phím tắt Alt + E**</mark>) để mở hộp thoại folder, sau đó tìm đến folder chứa file và chọn file đã chuẩn hóa.
 
-Nếu người dùng muốn thay đổi file đã đính, click vào nút **“Chọn file khác”** (<mark style="color:red;">**Alt + E**</mark>).
+Nếu muốn thay đổi file đã đính, click vào nút **“Chọn file khác”** (<mark style="color:red;">**Phím tắt Alt + E**</mark>).
 
-* Nút tiếp theo: (<mark style="color:red;">**Alt + T**</mark>)
-* Nút hủy: (<mark style="color:red;">**ESC**</mark>)
+* Nút tiếp theo: (<mark style="color:red;">**Phím tắt Alt + T**</mark>)
+* Nút hủy: (<mark style="color:red;">**Phím tắt ESC**</mark>)
 
 #### Cấu hình chi tiết
 
@@ -49,7 +49,7 @@ Nếu người dùng muốn thay đổi file đã đính, click vào nút **“C
 
 <figure><img src="../../.gitbook/assets/cấu hình chứng từ.png" alt=""><figcaption></figcaption></figure>
 
-* **Tiền tệ:** Chọn loại tiền tệ cho danh sách import.
+* **Tiền tệ:** Chọn loại tiền tệ cho danh sách trong file nạp dữ liệu.
 
 <figure><img src="../../.gitbook/assets/tiền tệ.png" alt=""><figcaption></figcaption></figure>
 
@@ -57,7 +57,7 @@ Nếu người dùng muốn thay đổi file đã đính, click vào nút **“C
 * **Ngân hàng:** Chọn tài khoản ngân hàng tương ứng với file sao kê.
 
 {% hint style="danger" %}
-Để chọn được ngân hàng cần chọn, cần phải cấu hình tài khoản ngân hàng.
+<mark style="color:$danger;">Để chọn được ngân hàng cần chọn, cần phải cấu hình tài khoản ngân hàng.</mark>
 {% endhint %}
 
 {% stepper %}
@@ -86,7 +86,7 @@ Tick chọn **“Theo dõi hạch toán”** – trạng thái **“Đang theo d
 
 * **Tiền vào (PT):** Nhập vào TK Có đối ứng hoặc chọn từ danh sách tài khoản kế toán có sẵn.
 * **Tiền ra (PC):** Nhập vào TK Nợ đối ứng hoặc chọn từ danh sách tài khoản kế toán có sẵn.
-* Hoặc tick chọn tự động định khoản tài khoản đối ứng.
+* Hoặc nhấp chọn tự động định khoản tài khoản đối ứng.
 
 **3) Nguồn dữ liệu số tiền**
 
@@ -120,7 +120,7 @@ Các cột thông tin hiển thị dữ liệu:
 {% endstep %}
 
 {% step %}
-**Cột chứa dữ liệu:** chọn thông tin tương ứng với thông tin của “Cột trường thông tin”; các thông tin được chọn là các cột trong file mà hệ thống kiểm tra được.
+**Cột chứa dữ liệu:** chọn thông tin tương ứng với thông tin của “Cột trường thông tin”, các thông tin được chọn là các cột trong file mà hệ thống kiểm tra được.
 {% endstep %}
 
 {% step %}
@@ -134,9 +134,9 @@ Các cột thông tin hiển thị dữ liệu:
 
 Các chức năng:
 
-* Nút tiếp theo: (<mark style="color:red;">**Alt + T**</mark>)
-* Nút hủy: (<mark style="color:red;">**ESC**</mark>)
-* Quay về bước trước: (<mark style="color:red;">**Alt + Q**</mark>)
+* Nút tiếp theo: (<mark style="color:red;">**Phím tắt Alt + T**</mark>)
+* Nút hủy: (<mark style="color:red;">**Phím tắt ESC**</mark>)
+* Quay về bước trước: (<mark style="color:red;">**Phím tắt Alt + Q**</mark>)
 {% endstep %}
 
 {% step %}
@@ -153,7 +153,7 @@ Nếu có dữ liệu đã tồn tại hoặc lỗi, hệ thống sẽ hiển th
 
 #### Các chức năng trên thanh công cụ
 
-* **Chạy xác thực** (<mark style="color:red;">**F5**</mark>): click chọn chức năng để thực hiện kiểm tra, rà soát lại các chứng từ nhập vào xem hợp lệ hay chưa. Nếu chưa, hệ thống sẽ cảnh báo ở bên phải màn hình, mục **“Kết quả xác thực”**.
+* **Chạy xác thực** (<mark style="color:red;">**Phím tắt F5**</mark>): click chọn chức năng để thực hiện kiểm tra, rà soát lại các chứng từ nhập vào xem hợp lệ hay chưa. Nếu chưa, hệ thống sẽ cảnh báo ở bên phải màn hình, mục **“Kết quả xác thực”**.
 * **Đánh lại số chứng từ** (<mark style="color:red;">**Alt + R**</mark>): Dùng để đánh lại số chứng từ trong danh sách chứng từ import vào.
 * **Lọc** (<mark style="color:red;">**Alt + L**</mark>): Dùng để lọc chứng từ theo các trường hợp: hợp lệ, có lỗi, để hiển thị danh sách các chứng từ theo điều kiện.
 * **Hủy** (<mark style="color:red;">**ESC**</mark>): Dùng để thoát khỏi chức năng **“Nạp dữ liệu”**.

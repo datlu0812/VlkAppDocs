@@ -50,59 +50,59 @@ description: (Danh mục quy tắc kết chuyển)
 
 ## <mark style="color:$primary;">Các chức năng trong danh mục quy tắc kết chuyển</mark>
 
-#### 1. Tác vụ chung (<mark style="color:red;">Ctrl + U</mark>)
+#### 1. Tác vụ chung (<mark style="color:red;">**Phím tắt**</mark> <mark style="color:red;"></mark><mark style="color:red;">Ctrl + U</mark>)
 
-**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](quy-tac-ket-chuyen.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một quy tắc kết chuyển vào hệ thống.
+**+** [**Tạo mới (**<mark style="color:red;">**Phím tắt Alt + N**</mark>**)**](quy-tac-ket-chuyen.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một quy tắc kết chuyển vào hệ thống.
 
-**+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết quy tắc kết chuyển, hoặc chỉnh sửa các thông tin của quy tắc kết chuyển cần sửa.
+**+ Chỉnh sửa (**<mark style="color:red;">**Phím tắt Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết quy tắc kết chuyển, hoặc chỉnh sửa các thông tin của quy tắc kết chuyển cần sửa.
 
-**+ Xóa (**<mark style="color:red;">**Alt + X**</mark>**):** Xóa quy tắc kết chuyển đã chọn.
+**+ Xóa (**<mark style="color:red;">**Phím tắt Alt + X**</mark>**):** Xóa quy tắc kết chuyển đã chọn.
 
 **+ Bật/tắt:** dùng để vô hiệu hóa hoặc mở lại quy tắc kết chuyển đã chọn.
 
-**+ Sắp xếp (**<mark style="color:red;">**Alt + S**</mark>**):** Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
+**+ Sắp xếp (**<mark style="color:red;">**Phím tắt Alt + S**</mark>**):** Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
 
-**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Phím tắt Alt + N**</mark>**)**
 
-**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Phím tắt Alt + Delete**</mark>**)**
 
-**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Phím tắt Alt + X**</mark>**)**
 
-**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**Phím tắt ESC**</mark>**)**
 
-**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Phím tắt Alt + A**</mark>**)**
 
-**+ Lọc (**<mark style="color:red;">**Alt + L**</mark>**):** Chức năng Lọc dùng để tìm và hiển thị các dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
+**+ Lọc (**<mark style="color:red;">**Phím tắt Alt + L**</mark>**):** Chức năng Lọc dùng để tìm và hiển thị các dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
 
-**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Phím tắt Alt + N**</mark>**)**
 
-**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Phím tắt Alt + Delete**</mark>**)**
 
-**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Phím tắt Alt + X**</mark>**)**
 
-**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**Phím tắt ESC**</mark>**)**
 
-**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Phím tắt Alt + A**</mark>**)**
 
 **+ Quy tắc mẫu:** Tự động tạo danh sách các quy tắc cơ bản cần thiết trong việc kết chuyển. Quy tắc mẫu chỉ cần tạo một lần.
 
-**+ Làm mới dữ liệu (**<mark style="color:red;">**Phím F5**</mark>**):** Dùng để làm mới dữ liệu hiển thị để cập nhật những thay đổi mới nhất khi chỉnh sửa dữ liệu nhưng chưa được hiển thị các thông tin đã chỉnh sửa.
+**+ Làm mới dữ liệu (**<mark style="color:red;">**Phím tắt  F5**</mark>**):** Dùng để làm mới dữ liệu hiển thị để cập nhật những thay đổi mới nhất khi chỉnh sửa dữ liệu nhưng chưa được hiển thị các thông tin đã chỉnh sửa.
 
-**+ Ẩn thanh chi tiết (**<mark style="color:red;">**Alt + V**</mark>**):** Chọn một tài khoản ngân hàng và mở view xem nhanh thông tin chi tiết tài khoản ngân hàng đó. Và thực hiện phím tắt để ẩn thanh chi tiết.
+**+ Ẩn thanh chi tiết (**<mark style="color:red;">**Phím tắt Alt + V**</mark>**):** Chọn một tài khoản ngân hàng và mở view xem nhanh thông tin chi tiết tài khoản ngân hàng đó. Và thực hiện phím tắt để ẩn thanh chi tiết.
 
-#### 2. In ấn và chia sẻ (<mark style="color:red;">Ctrl + P</mark>)
+#### 2. In ấn và chia sẻ (<mark style="color:red;">**Phím tắt**</mark> <mark style="color:red;"></mark><mark style="color:red;">Ctrl + P</mark>)
 
-**+ In (**<mark style="color:red;">**Alt + P**</mark>**):** Thực hiện in dữ liệu
+**+ In (**<mark style="color:red;">**Phím tắt Alt + P**</mark>**):** Thực hiện in dữ liệu
 
-**+ Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**):** xuất danh sách dữ liệu ra file excel.
+**+ Xuất file excel (**<mark style="color:red;">**Phím tắt Alt + E**</mark>**):** xuất danh sách dữ liệu ra file excel.
 
 ## <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
 <figure><img src="../../.gitbook/assets/popup tạo mới quy tắc.png" alt=""><figcaption></figcaption></figure>
 
-**+ Tạo (**<mark style="color:red;">**Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
+**+ Tạo (**<mark style="color:red;">**Phím tắt Ctrl+S**</mark>**)** để lưu loại chứng từ mới vào danh mục.
 
-**+ Hủy (**<mark style="color:red;">**ESC)**</mark> thoát khỏi popup tạo mới.
+**+ Hủy (**<mark style="color:red;">**Phím tắt ESC)**</mark> thoát khỏi popup tạo mới.
 
 | **Tên trường**           | **Ý nghĩa**                                                                              | **Phương thức nhập**                                     | **Ví dụ**                         | **Quy tắc kiểm tra**                                                                                                                                                       |
 | ------------------------ | ---------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

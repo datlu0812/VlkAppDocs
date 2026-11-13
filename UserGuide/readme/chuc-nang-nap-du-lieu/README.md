@@ -1,4 +1,5 @@
 ---
+description: (Giới thiệu chức năng nạp dữ liệu
 icon: desktop-arrow-down
 layout:
   width: default
@@ -18,19 +19,21 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Chức năng Nạp dữ liệu
 
-## <mark style="color:$primary;">Giới thiệu chức năng Nạp dữ liệu</mark>
+## <mark style="color:$primary;">Giới thiệu chức năng</mark>
 
-Chức năng **Nạp dữ liệu từ file** cho phép người dùng import dữ liệu từ các file đã chuẩn bị sẵn vào hệ thống. Người dùng có thể lựa chọn loại dữ liệu cần nạp, cấu hình thông tin import, gán các cột dữ liệu từ file với các trường thông tin tương ứng trên hệ thống, thực hiện đối chiếu dữ liệu và kiểm tra tính hợp lệ trước khi lưu dữ liệu.
+Chức năng **Nạp dữ liệu từ file** cho phép nạp dữ liệu từ các file đã chuẩn bị sẵn vào hệ thống. Có thể lựa chọn loại dữ liệu cần nạp, cấu hình thông tin import, gán các cột dữ liệu từ file với các trường thông tin tương ứng trên hệ thống, thực hiện đối chiếu dữ liệu và kiểm tra tính hợp lệ trước khi lưu dữ liệu.
 
-Chức năng hỗ trợ người dùng chuẩn hóa dữ liệu thông qua **file mẫu import**, đồng thời cho phép đính kèm file bằng thao tác kéo thả hoặc lựa chọn trực tiếp từ máy tính. Người dùng cũng có thể thực hiện các cấu hình chi tiết như thông tin chứng từ, định khoản mặc định, nguồn dữ liệu số tiền, thuế, tự động tạo sản phẩm/đối tác và các tùy chọn xác thực nâng cao.
+Chức năng hỗ trợ chuẩn hóa dữ liệu thông qua **file mẫu import**, đồng thời cho phép đính kèm file bằng thao tác kéo thả hoặc lựa chọn trực tiếp từ máy tính. Ngoài ra cũng có thể thực hiện các cấu hình chi tiết như thông tin chứng từ, định khoản mặc định, nguồn dữ liệu số tiền, thuế, tự động tạo sản phẩm/đối tác và các tùy chọn xác thực nâng cao.
 
 ## <mark style="color:$primary;">Các chức năng chính</mark>
 
-#### 1. Màn hình chức năng
+#### [1. Màn hình tổng quan chức năng](i.-man-hinh-tong-quan.md)
 
 Màn hình Nạp dữ liệu gồm các thành phần chính:
 
@@ -40,13 +43,13 @@ Màn hình Nạp dữ liệu gồm các thành phần chính:
 * Hiển thị nội dung dữ liệu, cấu hình dữ liệu import
 * Hiển thị hướng dẫn và các cảnh báo khi import
 
-#### 2. Nạp Hóa đơn đầu vào và Hóa đơn đầu ra
+#### [2. Nạp dữ liệu Hóa đơn đầu vào và Hóa đơn đầu ra](ii.-quy-trinh-import-hoa-don-dau-vao-va-hoa-don-dau-ra.md)
 
 Quy trình nạp dữ liệu hóa đơn gồm **4 bước**:
 
 **Chọn dữ liệu & cấu hình → Gán cột dữ liệu → Đối chiếu hàng hóa → Kiểm tra & Lưu.**
 
-Người dùng thực hiện:
+Các bước thực hiện cơ bản:
 
 * Chọn loại dữ liệu và tải file mẫu.
 * Chuẩn hóa dữ liệu theo cấu trúc file mẫu.
@@ -56,13 +59,13 @@ Người dùng thực hiện:
 * Đối chiếu hàng hóa với dữ liệu đã có hoặc tạo mới sản phẩm.
 * Xác nhận, kiểm tra tính hợp lệ và lưu dữ liệu vào hệ thống.
 
-#### 3. Nạp Bảng kê ngân hàng
+#### [3. Nạp dữ liệu Bảng kê ngân hàng](iii.-quy-trinh-import-bang-ke-ngan-hang.md)
 
 Đối với loại dữ liệu **Bảng kê ngân hàng**, quy trình được rút gọn còn **3 bước**:
 
 **Chọn dữ liệu & cấu hình → Gán cột dữ liệu → Kiểm tra & Lưu.**
 
-Quy trình này **không có bước Đối chiếu hàng hóa**, do đặc thù dữ liệu bảng kê ngân hàng. Người dùng thực hiện cấu hình tiền tệ, tỷ giá, tài khoản ngân hàng, định khoản mặc định và các tùy chọn liên quan trước khi gán cột dữ liệu và kiểm tra lưu.
+Quy trình này **không có bước Đối chiếu hàng hóa**, do đặc thù dữ liệu bảng kê ngân hàng. Nên thực hiện cấu hình tiền tệ, tỷ giá, tài khoản ngân hàng, định khoản mặc định và các tùy chọn liên quan trước khi gán cột dữ liệu và kiểm tra lưu.
 
 ### Tóm tắt
 

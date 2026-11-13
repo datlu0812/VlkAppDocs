@@ -1,4 +1,5 @@
 ---
+description: (Giới thiệu chức năng thêm mới chứng từ)
 icon: book-medical
 ---
 
@@ -8,14 +9,14 @@ icon: book-medical
 
 ### <mark style="color:blue;">Giới thiệu</mark>
 
-* Chức năng **Nhập mới chứng từ** cho phép người dùng tạo và ghi nhận một chứng từ kế toán mới vào hệ thống.
+* Chức năng **Nhập mới chứng từ** cho phép tạo và ghi nhận một chứng từ kế toán mới vào hệ thống.
 * Có thể khai báo các thông tin chung của chứng từ, thông tin hóa đơn/chứng từ, thông tin hạch toán, thông tin hàng hóa/dịch vụ và các thông tin liên quan khác.
 
 ### <mark style="color:blue;">Đối tượng sử dụng</mark>
 
 * Chức năng danh cho các tài khoản nhân viên kế toán được cấp bởi admin có quyền lập và nhập chứng từ kế toán trên hệ thống.
 
-### <mark style="color:blue;">Khi nào sử dụng?</mark>
+### <mark style="color:blue;">Khi nào cần sử dụng chức năng?</mark>
 
 Sử dụng chức năng khi cần:
 
@@ -52,13 +53,13 @@ Ngoài ra có một số loại chứng từ được cấu hình và định kh
 {% step %}
 ### Chọn Chứng từ tổng hợp
 
-Tại menu chức năng, chọn **Chứng từ** (<mark style="color:red;">**Ctrl + 1**</mark>).
+Tại menu chức năng, chọn **Chứng từ** (<mark style="color:red;">**Phím tắt Ctrl + 1**</mark>).
 {% endstep %}
 
 {% step %}
 ### Chọn Nhập mới chứng từ
 
-Chọn **Nhập mới chứng từ** (<mark style="color:red;">**Alt + N**</mark>).
+Chọn **Nhập mới chứng từ** (<mark style="color:red;">**Phím tắt Alt + N**</mark>).
 {% endstep %}
 
 {% step %}

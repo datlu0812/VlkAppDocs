@@ -6,29 +6,29 @@ icon: rotate
 
 ## <mark style="color:$primary;">Thao tác mở màn hình chức năng kết chuyển chứng từ</mark>
 
-<figure><img src=".gitbook/assets/mở chứng từ kết chuyển.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/mở chứng từ kết chuyển.png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
 ### Bước 1
 
-Trong menu chọn danh mục Chứng từ (<mark style="color:red;">**Ctrl + 1**</mark>)
+Trong menu chọn danh mục Chứng từ (<mark style="color:red;">**Phím tắt Ctrl + 1**</mark>)
 {% endstep %}
 
 {% step %}
 ### Bước 2
 
-Chọn chức năng **CT kết chuyển** (<mark style="color:red;">**Alt + K**</mark>) (Ngoài ra có thể sử dụng <mark style="color:red;">**Ctrl + 2**</mark> tại màn hình tổng quan để vào thẳng màn hình **CT kết chuyển**)
+Chọn chức năng **CT kết chuyển** (<mark style="color:red;">**Phím tắt Alt + K**</mark>) (Ngoài ra có thể sử dụng (<mark style="color:red;">**Phím tắt Ctrl + 2**</mark>) tại màn hình tổng quan để vào thẳng màn hình **CT kết chuyển**)
 {% endstep %}
 {% endstepper %}
 
 ## <mark style="color:$primary;">Menu các chức năng trong thanh công cụ</mark>
 
-<figure><img src=".gitbook/assets/màn hình chứng từ kết chuyển (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/màn hình chứng từ kết chuyển (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Tác vụ chung:
 
-**-** **Kết chuyển toàn kỳ** (<mark style="color:red;">**Alt + K**</mark>): cho phép thực hiện bút toán kết chuyển cho toàn bộ thời gian được lựa chọn. Hệ thống tự động tổng hợp số liệu phát sinh trong kỳ, xác định số tiền cần kết chuyển và thực hiện các bút toán theo cấu hình kết chuyển của hệ thống.
+**-** **Kết chuyển toàn kỳ** (<mark style="color:red;">**Phím tắt Alt + K**</mark>): cho phép thực hiện bút toán kết chuyển cho toàn bộ thời gian được lựa chọn. Hệ thống tự động tổng hợp số liệu phát sinh trong kỳ, xác định số tiền cần kết chuyển và thực hiện các bút toán theo cấu hình kết chuyển của hệ thống.
 
 ⇒ Chức năng được sử dụng để xử lý các khoản doanh thu, chi phí và các khoản mục liên quan nhằm **xác định kết quả hoạt động kinh doanh trong kỳ**, phục vụ công tác kiểm tra và lập báo cáo kế toán.
 
@@ -38,7 +38,7 @@ Chọn chức năng **CT kết chuyển** (<mark style="color:red;">**Alt + K**<
 
 <table data-header-hidden data-search="false"><thead><tr><th width="415" valign="top"></th><th valign="top"></th><th valign="top"></th></tr></thead><tbody><tr><td valign="top"><strong>Quy tắc</strong></td><td valign="top"><strong>Nợ</strong></td><td valign="top"><strong>Có</strong></td></tr><tr><td valign="top">Kết chuyển thuế gtgt được khấu trừ của hàng hóa, dịch vụ (nội địa)</td><td valign="top">13311</td><td valign="top">33311</td></tr><tr><td valign="top">Kết chuyển thuế gtgt được khấu trừ của hàng hóa, dịch vụ (nhập khẩu)</td><td valign="top">13312</td><td valign="top">33311</td></tr><tr><td valign="top">Kết chuyển doanh thu</td><td valign="top">511</td><td valign="top">911</td></tr><tr><td valign="top">Kết chuyển doanh thu tài chính</td><td valign="top">515</td><td valign="top">911</td></tr><tr><td valign="top">Kết chuyển thu nhập khác</td><td valign="top">711</td><td valign="top">911</td></tr><tr><td valign="top">Kết chuyển giá vốn</td><td valign="top">911</td><td valign="top">632</td></tr><tr><td valign="top">Kết chuyển chi phí tài chính</td><td valign="top">911</td><td valign="top">635</td></tr><tr><td valign="top">Kết chuyển chi phí bán hàng</td><td valign="top">911</td><td valign="top">641</td></tr><tr><td valign="top">Kết chuyển chi phí quản lý doanh nghiệp</td><td valign="top">911</td><td valign="top">642</td></tr><tr><td valign="top">Kết chuyển chi phí khác</td><td valign="top">911</td><td valign="top">811</td></tr><tr><td valign="top">Kết chuyển chi phí thuế thu nhập doanh nghiệp</td><td valign="top">911</td><td valign="top">821</td></tr><tr><td valign="top">Kết chuyển lãi</td><td valign="top">911</td><td valign="top">4212</td></tr><tr><td valign="top">Kết chuyển lỗ</td><td valign="top">4212</td><td valign="top">911</td></tr></tbody></table>
 
-**- Kết chuyển đầu năm** (<mark style="color:red;">**Alt + J**</mark>)**:** cho phép thực hiện chuyển số liệu từ năm tài chính trước sang năm tài chính mới hiện tại, trong đó số dư cuối kỳ của các tài khoản và các dữ liệu liên quan được sử dụng làm số liệu đầu kỳ của năm mới.
+**- Kết chuyển đầu năm** (<mark style="color:red;">**Phím tắt Alt + J**</mark>)**:** cho phép thực hiện chuyển số liệu từ năm tài chính trước sang năm tài chính mới hiện tại, trong đó số dư cuối kỳ của các tài khoản và các dữ liệu liên quan được sử dụng làm số liệu đầu kỳ của năm mới.
 
 ⇒ Chức năng giúp đảm bảo tính liên tục của dữ liệu kế toán giữa các năm, phục vụ việc theo dõi số dư tài khoản, công nợ, hàng tồn kho, tài sản và các nghiệp vụ phát sinh trong năm hiện tại.
 
@@ -52,41 +52,41 @@ Chọn chức năng **CT kết chuyển** (<mark style="color:red;">**Alt + K**<
 <mark style="color:$danger;">Lưu ý: "Kết chuyển đầu năm" không nên hiểu đơn giản là kết chuyển doanh thu, chi phí. Về bản chất, nó chủ yếu liên quan đến số dư đầu kỳ và việc chuyển số liệu sang năm kế toán mới.</mark>
 {% endhint %}
 
-**+ Quy tắc** (<mark style="color:red;">**Alt + Q**</mark>): Chuyển đến trang quy tắc kết chuyển trong phần danh mục - (<mark style="color:red;">**ESC**</mark>) để trở về lại màn hình chức năng chứng từ kết chuyển
+**+ Quy tắc** (<mark style="color:red;">**Phím tắt Alt + Q**</mark>): Chuyển đến trang quy tắc kết chuyển trong phần danh mục - (<mark style="color:red;">**Phím tắt ESC**</mark>) để trở về lại màn hình chức năng chứng từ kết chuyển
 
-**+ Sắp xếp** (<mark style="color:red;">**Alt +S**</mark>)**:**
+**+ Sắp xếp** (<mark style="color:red;">**Phím tắt Alt +S**</mark>)**:**
 
-* Thêm điều kiện (<mark style="color:red;">**Alt + N**</mark>)
-* Xóa tất cả điều kiện (<mark style="color:red;">**Alt + Delete**</mark>)
-* Xóa một điều kiện (<mark style="color:red;">**Alt + X**</mark>)
-* Đóng (<mark style="color:red;">**ESC**</mark>)
-* Áp dụng (<mark style="color:red;">**Alt + A**</mark>)
+* Thêm điều kiện (<mark style="color:red;">**Phím tắt Alt + N**</mark>)
+* Xóa tất cả điều kiện (<mark style="color:red;">**Phím tắt Alt + Delete**</mark>)
+* Xóa một điều kiện (<mark style="color:red;">**Phím tắt Alt + X**</mark>)
+* Đóng (<mark style="color:red;">**Phím tắt ESC**</mark>)
+* Áp dụng (<mark style="color:red;">**Phím tắt Alt + A**</mark>)
 
-**+ Lọc** (<mark style="color:red;">**Alt + L**</mark>)
+**+ Lọc** (<mark style="color:red;">**Phím tắt Alt + L**</mark>)
 
-* Thêm điều kiện (<mark style="color:red;">**Alt + N**</mark>)
-* Xóa tất cả điều kiện (<mark style="color:red;">**Alt + Delete**</mark>)
-* Đóng(<mark style="color:red;">**ESC**</mark>)
-* Áp dụng (<mark style="color:red;">**Alt + A**</mark>)
+* Thêm điều kiện (<mark style="color:red;">**Phím tắt Alt + N**</mark>)
+* Xóa tất cả điều kiện (<mark style="color:red;">**Phím tắt Alt + Delete**</mark>)
+* Đóng(<mark style="color:red;">**Phím tắt ESC**</mark>)
+* Áp dụng (<mark style="color:red;">**Phím tắt Alt + A**</mark>)
 
-**+ Điều chỉnh cột** (<mark style="color:red;">**Alt + D**</mark>)
+**+ Điều chỉnh cột** (<mark style="color:red;">**Phím tắt Alt + D**</mark>)
 
-* Hiện/đóng tất cả (<mark style="color:red;">**Ctrl + A**</mark>)
-* Đóng (<mark style="color:red;">**ESC**</mark>)
-* Áp dụng (<mark style="color:red;">**Alt + A**</mark>)
+* Hiện/đóng tất cả (<mark style="color:red;">**Phím tắt Ctrl + A**</mark>)
+* Đóng (<mark style="color:red;">**Phím tắt ESC**</mark>)
+* Áp dụng (<mark style="color:red;">**Phím tắt Alt + A**</mark>)
 
-**+ Xem nhanh chi tiết** (<mark style="color:red;">**Alt + Enter**</mark>)
+**+ Xem nhanh chi tiết** (<mark style="color:red;">**Phím tắt Alt + Enter**</mark>)
 
-**+ Xem thông tin lịch sử** (<mark style="color:red;">**Alt + H**</mark>)
+**+ Xem thông tin lịch sử** (<mark style="color:red;">**Phím tắt Alt + H**</mark>)
 
-**+ Làm mới danh sách chứng từ** (<mark style="color:red;">**Phím F5**</mark>)
+**+ Làm mới danh sách chứng từ** (<mark style="color:red;">**Phím tắt F5**</mark>)
 
-**+ Copy thông tin** (<mark style="color:red;">**Ctrl + C**</mark>)
+**+ Copy thông tin** (<mark style="color:red;">**Phím tắt Ctrl + C**</mark>)
 
-**+ Tìm chứng từ** (<mark style="color:red;">**Ctrl + F**</mark>): thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh chứng từ.
+**+ Tìm chứng từ** (<mark style="color:red;">**Phím tắt Ctrl + F**</mark>): thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh chứng từ.
 
-**+ Kỳ hạch toán** (<mark style="color:red;">**Ctrl + T**</mark>): chọn thời gian hạch toán chứng từ tương ứng.
+**+ Kỳ hạch toán** (<mark style="color:red;">**Phím tắt Ctrl + T**</mark>): chọn thời gian hạch toán chứng từ tương ứng.
 
-**+ Tick chọn,bỏ chọn hết** (<mark style="color:red;">**Ctrl + A**</mark>): thực hiện chọn hoặc bỏ chọn tất cả chứng từ trong danh sách
+**+ Tick chọn,bỏ chọn hết** (<mark style="color:red;">**Phím tắt Ctrl + A**</mark>): thực hiện chọn hoặc bỏ chọn tất cả chứng từ trong danh sách
 
-**+ Thoát về màn hình chính** (<mark style="color:red;">**ESC**</mark>)
+**+ Thoát về màn hình chính** (<mark style="color:red;">**Phím tắt ESC**</mark>)

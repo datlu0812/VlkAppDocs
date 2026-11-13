@@ -46,67 +46,67 @@ Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối củ
 
 ## <mark style="color:$primary;">Các chức năng trong danh mục hệ thống tài khoản</mark>
 
-#### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
+#### **1. Tác vụ chung (**<mark style="color:red;">**Phím tắt Ctrl + U**</mark>**)**
 
-\+ [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](he-thong-tai-khoan.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một công cụ dụng cụ.
+\+ [**Tạo mới (**<mark style="color:red;">**Phím tắt Alt + N**</mark>**)**](he-thong-tai-khoan.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một công cụ dụng cụ.
 
-**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](he-thong-tai-khoan.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Phím tắt Alt + I**</mark>**)**](he-thong-tai-khoan.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách công cụ dụng cụ đã có sẵn vào hệ thống.
 
-\+ **Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**)**: Dùng để xem chi tiết tài khoản, hoặc chỉnh sửa các thông tin của tài khoản.
+\+ **Chỉnh sửa (**<mark style="color:red;">**Phím tắt Chọn dữ liệu + Enter**</mark>**)**: Dùng để xem chi tiết tài khoản, hoặc chỉnh sửa các thông tin của tài khoản.
 
-\+ **Xóa (**<mark style="color:red;">**Alt + X**</mark>**)**: Xóa tài khoản đã chọn.
+\+ **Xóa (**<mark style="color:red;">**Phím tắt Alt + X**</mark>**)**: Xóa tài khoản đã chọn.
 
-\+ **Sắp xếp (**<mark style="color:red;">**Alt + S**</mark>**)**: Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
+\+ **Sắp xếp (**<mark style="color:red;">**Phím tắt Alt + S**</mark>**)**: Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
 
-·   **Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+·   **Thêm điều kiện (**<mark style="color:red;">**Phím tắt Alt + N**</mark>**)**
 
-·   **Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+·   **Xóa tất cả điều kiện (**<mark style="color:red;">**Phím tắt Alt + Delete**</mark>**)**
 
-·   **Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+·   **Xóa một điều kiện (**<mark style="color:red;">**Phím tắt Alt + X**</mark>**)**
 
-·   **Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+·   **Đóng (**<mark style="color:red;">**Phím tắt ESC**</mark>**)**
 
-·   **Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+·   **Áp dụng (**<mark style="color:red;">**Phím tắt Alt + A**</mark>**)**
 
-\+ **Lọc (**<mark style="color:red;">**Alt + L**</mark>**)**: Chức năng Lọc dùng để tìm và hiển thị các chứng từ hoặc dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
+\+ **Lọc (**<mark style="color:red;">**Phím tắt Alt + L**</mark>**)**: Chức năng Lọc dùng để tìm và hiển thị các chứng từ hoặc dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
 
-·   **Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+·   **Thêm điều kiện (**<mark style="color:red;">**Phím tắt Alt + N**</mark>**)**
 
-·   **Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+·   **Xóa tất cả điều kiện (**<mark style="color:red;">**Phím tắt Alt + Delete**</mark>**)**
 
-·   **Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+·   **Xóa một điều kiện (**<mark style="color:red;">**Phím tắt Alt + X**</mark>**)**
 
-·   **Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+·   **Đóng (**<mark style="color:red;">**Phím tắt ESC**</mark>**)**
 
-·   **Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+·   **Áp dụng (**<mark style="color:red;">**Phím tắt Alt + A**</mark>**)**
 
-\+ **Điều chỉnh cột hiển thị (**<mark style="color:red;">**Alt + D**</mark>**)**: dùng để tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
+\+ **Điều chỉnh cột hiển thị (**<mark style="color:red;">**Phím tắt Alt + D**</mark>**)**: dùng để tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
 
-·   **Hiện/đóng tất cả: (**<mark style="color:red;">**Ctrl + A**</mark>**)**
+·   **Hiện/đóng tất cả: (**<mark style="color:red;">**Phím tắt Ctrl + A**</mark>**)**
 
-·   **Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+·   **Đóng (**<mark style="color:red;">**Phím tắt ESC**</mark>**)**
 
-·   **Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+·   **Áp dụng (**<mark style="color:red;">**Phím tắt Alt + A**</mark>**)**
 
-\+ **Tìm kiếm nhanh (**<mark style="color:red;">**Ctrl + F**</mark>**)**: thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh chứng từ.
+\+ **Tìm kiếm nhanh (**<mark style="color:red;">**Phím tắt Ctrl + F**</mark>**)**: thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh chứng từ.
 
-\+ **Làm mới dữ liệu (**<mark style="color:red;">**Phím F5**</mark>**)**: Dùng để làm mới dữ liệu hiển thị để cập nhật những thay đổi mới nhất khi chỉnh sửa dữ liệu nhưng chưa được hiển thị các thông tin đã chỉnh sửa.
+\+ **Làm mới dữ liệu (**<mark style="color:red;">**Phím tắt F5**</mark>**)**: Dùng để làm mới dữ liệu hiển thị để cập nhật những thay đổi mới nhất khi chỉnh sửa dữ liệu nhưng chưa được hiển thị các thông tin đã chỉnh sửa.
 
-\+ **Ẩn thanh chi tiết (**<mark style="color:red;">**Alt + V**</mark>**)**: Chọn một chứng từ và mở view xem nhanh thông tin chi tiết chứng từ đó. Và thực hiện phím tắt để ẩn thanh chi tiết.
+\+ **Ẩn thanh chi tiết (**<mark style="color:red;">**Phím tắt Alt + V**</mark>**)**: Chọn một chứng từ và mở view xem nhanh thông tin chi tiết chứng từ đó. Và thực hiện phím tắt để ẩn thanh chi tiết.
 
-#### **2. In ấn và chia sẻ (**<mark style="color:red;">**Ctrl + P**</mark>**)**
+#### **2. In ấn và chia sẻ (**<mark style="color:red;">**Phím tắt Ctrl + P**</mark>**)**
 
-\+ **In (**<mark style="color:red;">**Alt + P**</mark>**)**: Thực hiện in dữ liệu
+\+ **In (**<mark style="color:red;">**Phím tắt Alt + P**</mark>**)**: Thực hiện in dữ liệu
 
-\+ **Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**)**: xuất danh sách dữ liệu ra file excel.
+\+ **Xuất file excel (**<mark style="color:red;">**Phím tắt Alt + E**</mark>**)**: xuất danh sách dữ liệu ra file excel.
 
 ## <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
 <figure><img src="../../.gitbook/assets/Popup tạo mới tài khoản.png" alt=""><figcaption></figcaption></figure>
 
-**+ Tạo (**<mark style="color:red;">**Ctrl + S**</mark>**)** để lưu loại tài khoản mới vào danh mục.
+**+ Tạo (**<mark style="color:red;">**Phím tắt Ctrl + S**</mark>**)** để lưu loại tài khoản mới vào danh mục.
 
-**+ Hủy (**<mark style="color:red;">**ESC**</mark>**)** thoát khỏi popup tạo mới.
+**+ Hủy (**<mark style="color:red;">**Phím tắt ESC**</mark>**)** thoát khỏi popup tạo mới.
 
 | **Tên trường**           | **Ý nghĩa**                                                                                         | **Phương thức nhập**                                                                             | **Ví dụ**                             | **Quy tắc nhập**                                                                                                                                                                                                                                                            |
 | ------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

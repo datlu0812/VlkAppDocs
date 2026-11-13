@@ -22,7 +22,7 @@ icon: bars-staggered
 
 ### <mark style="color:$primary;">Có 2 cách để mở màn hình danh mục</mark>
 
-**Cách 1:** Tại màn hình tổng quan, sử dụng phím tắt <mark style="color:red;">**Ctrl + 7**</mark> để vào màn hình Danh mục.
+**Cách 1:** Tại màn hình tổng quan, sử dụng phím tắt (<mark style="color:red;">**Phím tắt Ctrl + 7**</mark><mark style="color:red;">)</mark> để vào màn hình Danh mục.
 
 **Cách 2:** Chức năng Danh mục trong thanh công cụ bên trái màn hình.
 
@@ -82,7 +82,7 @@ icon: bars-staggered
 
 \- Thông tin được khai báo trong danh mục là cơ sở để có thể thực hiện các nghiệp vụ nhập kho, xuất kho, mua hàng, bán hàng, điều chuyển kho, kiểm kê và tính giá vốn trên phần mềm.
 
-**· Vật tư, hàng hóa, thành phẩm:** Nguyên vật liệu, hàng hóa, thành phẩm, hàng gửi bán — CCDC xem ở danh mục <mark style="background-color:$warning;">**Công cụ**</mark>.
+**· Vật tư, hàng hóa, thành phẩm:** Nguyên vật liệu, hàng hóa, thành phẩm, hàng gửi bán — CCDC xem ở danh mục **Công cụ dụng cụ**.
 
 **· Nhóm vật tư, hàng hóa:** Phân nhóm hàng hóa để lọc và báo cáo nhập – xuất – tồn theo nhóm.
 

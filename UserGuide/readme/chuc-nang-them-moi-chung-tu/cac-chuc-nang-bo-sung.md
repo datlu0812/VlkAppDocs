@@ -10,7 +10,7 @@ Có 2 cách để thêm mới một đối tác.
 {% step %}
 **Chọn Danh mục**
 
-Trên thanh menu chọn **Danh mục** (<mark style="color:red;">**Ctrl + 7**</mark>).
+Trên thanh menu chọn **Danh mục** (<mark style="color:red;">**Phím tắt Ctrl + 7**</mark>).
 {% endstep %}
 
 {% step %}
@@ -22,7 +22,7 @@ Chọn mục **Đối tác**.
 {% step %}
 **Tạo mới**
 
-Hệ thống hiển thị màn hình đối tác, chọn **Tạo mới** (<mark style="color:red;">**Ctrl + N**</mark>).
+Hệ thống hiển thị màn hình đối tác, chọn **Tạo mới** (<mark style="color:red;">**Phím tắt Ctrl + N**</mark>).
 {% endstep %}
 
 {% step %}
@@ -91,7 +91,7 @@ Hệ thống hiển thị popup **Thêm mới đối tác**, nhập thông tin �
 
 * **Ngày thành lập:** Ngày thành lập công ty của đối tác.
 * **Trạng thái:** Trạng thái hoạt động của công ty đối tác. Nếu không hoạt động sẽ không hiển thị cho chọn trong thêm mới chứng từ.
-* Sau khi nhập xong các thông tin, **Lưu** (<mark style="color:red;">**Ctrl + S**</mark>) hoặc **Hủy** (<mark style="color:red;">**ESC**</mark>).
+* Sau khi nhập xong các thông tin, **Lưu** (<mark style="color:red;">**Phím tắt Ctrl + S**</mark>) hoặc **Hủy** (<mark style="color:red;">**Phím tắt ESC**</mark>).
 
 ## <mark style="color:$primary;">Chức năng thêm mới hàng hóa</mark>
 
@@ -103,7 +103,7 @@ Có 2 cách để thêm mới hàng hóa.
 {% step %}
 **Chọn Danh mục**
 
-Trên thanh menu chọn **Danh mục** (<mark style="color:red;">**Ctrl + 7**</mark>).
+Trên thanh menu chọn **Danh mục** (<mark style="color:red;">**Phím tắt Ctrl + 7**</mark>).
 {% endstep %}
 
 {% step %}
@@ -115,7 +115,7 @@ Chọn mục **Vật tư, hàng hóa, thành phẩm**.
 {% step %}
 **Tạo mới**
 
-Hệ thống hiển thị màn hình sản phẩm, chọn **Tạo mới** (<mark style="color:red;">**Ctrl + N**</mark>).
+Hệ thống hiển thị màn hình sản phẩm, chọn **Tạo mới** (<mark style="color:red;">**Phím tắt Ctrl + N**</mark>).
 {% endstep %}
 
 {% step %}
@@ -160,5 +160,5 @@ Hệ thống hiển thị popup **Thêm mới sản phẩm**, nhập thông tin 
 * **Thuế suất (%):** Thuế GTGT của sản phẩm, hàng hóa.
 * **Mô tả:** Mô tả chi tiết về sản phẩm hàng hóa.
 * **Trạng thái theo dõi:** Chọn trạng thái của sản phẩm. Nếu không hoạt động sẽ không hiển thị cho chọn sản phẩm trong thêm mới chứng từ.
-* **Tạo (**<mark style="color:red;">**Ctrl + S**</mark>**):** Thực hiện tạo, lưu sản phẩm hàng hóa vừa điền thông tin.
-* **Hủy (**<mark style="color:red;">**ESC**</mark>**):** Thoát khỏi màn hình thêm mới sản phẩm.
+* **Tạo (**<mark style="color:red;">**Phím tắt Ctrl + S**</mark>**):** Thực hiện tạo, lưu sản phẩm hàng hóa vừa điền thông tin.
+* **Hủy (**<mark style="color:red;">**Phím tắt ESC**</mark>**):** Thoát khỏi màn hình thêm mới sản phẩm.

@@ -2,7 +2,7 @@
 description: (Hóa đơn đầu vào & Hóa đơn đầu ra)
 ---
 
-# II. Quy trình import “Hóa đơn đầu vào” và “Hóa đơn đầu ra”
+# II. Quy trình nạp dữ liệu “Hóa đơn đầu vào” và “Hóa đơn đầu ra”
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,7 +19,7 @@ description: (Hóa đơn đầu vào & Hóa đơn đầu ra)
 * Có thể không cần chuẩn hóa trước, vẫn có thể import, nhưng sẽ phải gán lại cột dữ liệu tương ứng ở bước **“Gán cột dữ liệu”**. Phần này sẽ mất thời gian để chọn từng loại dữ liệu phù hợp với cột dữ liệu truyền vào.
 
 {% hint style="danger" %}
-_Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết kiệm thời gian và tránh sai sót thông tin khi bước vào bước **“Gán cột dữ liệu”**._
+_<mark style="color:$danger;">Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết kiệm thời gian và tránh sai sót thông tin khi bước vào bước</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">**“Gán cột dữ liệu”**</mark><mark style="color:$danger;">.</mark>_
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/tải file mẫu 1.png" alt=""><figcaption></figcaption></figure>
@@ -28,23 +28,23 @@ _Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết ki�
 
 <figure><img src="../../.gitbook/assets/cauhinhnhanh1.png" alt=""><figcaption></figcaption></figure>
 
-* Cấu hình nhanh loại dữ liệu import vào (<mark style="color:red;">**Alt + C**</mark>).
-* Tùy theo loại dữ liệu import vào sẽ có mỗi quy trình khác nhau.
+* Cấu hình nhanh loại dữ liệu nạp vào (<mark style="color:red;">**Phím tắt Alt + C**</mark>).
+* Tùy theo loại dữ liệu nạp vào sẽ có mỗi quy trình khác nhau.
 * Đối với loại import chọn là **“Bảng kê ngân hàng”**, quy trình sẽ rút ngắn lại chỉ còn 3 bước và không có bước số 3 **“Đối chiếu hàng hóa”**.
 
 <figure><img src="../../.gitbook/assets/cauhinhbangke1.png" alt=""><figcaption></figcaption></figure>
 
-#### Đính kèm file import
+#### Đính kèm file nạp dữ liệu
 
 Sau khi chuẩn hóa dữ liệu theo file import mẫu, có thể sử dụng các cách sau để đính kèm file:
 
 * Kéo thả file vào khung import.
-* Click nút **“Chọn file”** (<mark style="color:red;">**Alt + E**</mark>) để mở hộp thoại folder, sau đó tìm đến folder chứa file và chọn file đã chuẩn hóa.
+* Bấm vào nút **“Chọn file”** (<mark style="color:red;">**Phím tắt Alt + E**</mark>) để mở hộp thoại folder, sau đó tìm đến folder chứa file và chọn file đã chuẩn hóa.
 
-Nếu muốn thay đổi file đã đính, click vào nút **“Chọn file khác”** (<mark style="color:red;">**Alt + E**</mark>).
+Nếu muốn thay đổi file đã đính, bấm vào nút **“Chọn file khác”** (<mark style="color:red;">**Phím tắt Alt + E**</mark>).
 
-* Nút tiếp theo: (<mark style="color:red;">**Alt + T**</mark>)
-* Nút hủy: (<mark style="color:red;">**ESC**</mark>)
+* Nút tiếp theo: (<mark style="color:red;">**Phím tắt Alt + T**</mark>)
+* Nút hủy: (<mark style="color:red;">**Phím tắt ESC**</mark>)
 
 #### Cấu hình chi tiết
 
@@ -54,9 +54,13 @@ Nếu muốn thay đổi file đã đính, click vào nút **“Chọn file khá
 
 <figure><img src="../../.gitbook/assets/loaichungtu.png" alt=""><figcaption></figcaption></figure>
 
-* **Gộp số chứng từ:** Tick chọn loại gộp.
+* **Gộp số chứng từ:** Bấm chọn loại gộp.
 
 <figure><img src="../../.gitbook/assets/gộp chứng từ 1.png" alt=""><figcaption></figcaption></figure>
+
+\+ Gộp lại: Thực hiện gộp các chứng từ dựa trên các dòng dữ liệu trong file có chung mã hóa đơn,seri hóa đơn, ngày hóa đơn, hệ thống sẽ tự động gộp lại thành bảng kê cho chứng từ đó.
+
+\+ Tách riêng: Thực hiện tách riêng từng dòng dữ liệu trong file, mỗi dòng dữ liệu là một chứng từ.
 
 * **Ngày chứng từ:** Chọn loại ngày.
 
@@ -71,22 +75,22 @@ Nếu muốn thay đổi file đã đính, click vào nút **“Chọn file khá
 <figure><img src="../../.gitbook/assets/diễn giải chung 1.png" alt=""><figcaption></figcaption></figure>
 
 * **Dùng mẫu diễn giải:** Khi chọn sẽ hiện khung nhập vào nội dung hoặc chọn các gợi ý có sẵn.
-* **Dùng cột trong file:** Sử dụng diễn giải trong file import.
+* **Dùng cột trong file:** Sử dụng diễn giải trong file nạp dữ liệu.
 
 **2) Định khoản mặc định**
 
 <figure><img src="../../.gitbook/assets/định khoản mạc định 1.png" alt=""><figcaption></figcaption></figure>
 
 * **Dùng mặc định:** Khi chọn sẽ hiện các tài khoản kế toán cần chọn để định khoản.
-* **Dùng cột trong file:** Sử dụng cột định khoản trong file import.
+* **Dùng cột trong file:** Sử dụng cột định khoản trong file nạp dữ liệu.
 
 **3) Nguồn dữ liệu số tiền**
 
 <figure><img src="../../.gitbook/assets/nguồn dữ liệu số tiền 1.png" alt=""><figcaption></figcaption></figure>
 
-* **Số tiền:** Dùng cột trong file import hoặc tính tự động để kiểm tra và tính số tiền các cột trong file.
-* **Tiền thuế:** Dùng cột trong file import hoặc tính tự động để kiểm tra và tính số tiền các cột trong file.
-* **Tổng cộng (Bao gồm thuế):** Dùng cột trong file import hoặc tính tự động để kiểm tra và tính số tiền các cột trong file.
+* **Số tiền:** Dùng cột trong file nạp dữ liệu hoặc tính tự động để kiểm tra và tính số tiền các cột trong file.
+* **Tiền thuế:** Dùng cột trong file nạp dữ liệu hoặc tính tự động để kiểm tra và tính số tiền các cột trong file.
+* **Tổng cộng (Bao gồm thuế):** Dùng cột trong file nạp dữ liệu hoặc tính tự động để kiểm tra và tính số tiền các cột trong file.
 
 **4) Loại bảng kê VAT**
 
@@ -108,20 +112,20 @@ Nếu muốn thay đổi file đã đính, click vào nút **“Chọn file khá
 
 <figure><img src="../../.gitbook/assets/bước 2.png" alt=""><figcaption></figcaption></figure>
 
-Thực hiện kiểm tra các cột dữ liệu để import.
+Thực hiện kiểm tra các cột dữ liệu nạp vào không bị xung đột thông tin.
 
 Các cột thông tin hiển thị dữ liệu:
 
-* **Cột trường thông tin:** Hiển thị các thông tin cần thiết để import vào hệ thống; các trường dữ liệu quan trọng sẽ được đánh dấu sao bắt buộc.
+* **Cột trường thông tin:** Hiển thị các thông tin cần thiết để nạp vào hệ thống; các trường dữ liệu quan trọng sẽ được đánh dấu sao bắt buộc.
 * **Cột chứa dữ liệu:** Chọn thông tin tương ứng với thông tin của **“Cột trường thông tin”**; các thông tin được chọn là các cột trong file mà hệ thống kiểm tra được.
 * **Cột dữ liệu mẫu:** Gợi ý mẫu dữ liệu nạp vào theo cột.
 * **Cột mô tả:** Mô tả ý nghĩa của trường dữ liệu.
 
 Các chức năng:
 
-* Nút tiếp theo: (<mark style="color:red;">**Alt + T**</mark>)
-* Nút hủy: (<mark style="color:red;">**ESC**</mark>)
-* Quay về bước trước: (<mark style="color:red;">**Alt + Q**</mark>)
+* Nút tiếp theo: (<mark style="color:red;">**Phím tắt Alt + T**</mark>)
+* Nút hủy (<mark style="color:red;">**Phím tắt ESC**</mark>): thực hiện hủy nạp dữ liệu, sau khi bấm hủy hệ thống hiển thị khung hủy nạp dữ liệu, bấm <mark style="color:red;">**Enter**</mark> để xác nhận hủy, <mark style="color:red;">**Phím tắt ESC**</mark> để ở lại tiếp tục nạp dữ liệu
+* Quay về bước trước: (<mark style="color:red;">**Phím tắt Alt + Q**</mark>)
 {% endstep %}
 
 {% step %}
@@ -133,7 +137,9 @@ Các chức năng:
 
 <figure><img src="../../.gitbook/assets/thông tin import 1.png" alt=""><figcaption></figcaption></figure>
 
-Hiển thị các thông tin cơ bản về một đối tượng hàng: Tên loại hàng, tên đối tác, đơn vị tính kèm số lượng hóa đơn cho một loại đối tượng hàng.
+\- Hiển thị các thông tin cơ bản về một đối tượng hàng: Tên loại hàng, tên đối tác, đơn vị tính kèm số lượng hóa đơn cho một loại đối tượng hàng.
+
+\- Kiểm tra lại các thông tin xem đã đúng hay chưa.
 
 **2) Lựa chọn**
 
@@ -141,7 +147,7 @@ Hiển thị các thông tin cơ bản về một đối tượng hàng: Tên lo
 
 Hiển thị các lựa chọn chức năng. Khi chọn chức năng, nội dung chức năng sẽ hiển thị ở cột thông tin hệ thống:
 
-* **So khớp:** Hệ thống so sánh đối chiếu sản phẩm trong file import với sản phẩm trên hệ thống.
+* **So khớp:** Hệ thống so sánh đối chiếu sản phẩm trong file nạp dữ liệu với sản phẩm trên hệ thống. Ví dụ: trên hệ thống đã tồn tại mã sản phẩm,tên sản phẩm, nhưng trong file nạp dữ liệu cùng mã sản phẩm nhưng tên sản phẩm khác với tên sản phẩm trong dữ liệu trên hệ thống, hệ thống sẽ mạc định lấy tên trên hệ thống để làm dữ liệu gốc.
 * **Sản phẩm khác:** Nếu muốn chọn loại sản phẩm khác trên hệ thống thay cho sản phẩm trong file.
 * **Tạo mới sản phẩm:** Tạo mới một sản phẩm không có trong hệ thống.
 
@@ -177,15 +183,15 @@ Khi lựa chọn là **“Thêm mới sản phẩm”**:
 
 #### Các chức năng trên thanh công cụ
 
-* **Lọc** (<mark style="color:red;">**Alt + L**</mark>):![](../../.gitbook/assets/Lọc.png) Có 2 trạng thái lọc theo tình trạng của cột xác nhận dữ liệu: đã xác nhận, chưa xử lý.
-* **Xác nhận tất cả** (<mark style="color:red;">**Alt + A**</mark>): Chức năng xác nhận tất cả nếu các thông tin đã hợp lệ.
-* **Tìm mã, tên hàng đối tác hoặc hàng lỗi** (<mark style="color:red;">**Ctrl + F**</mark>): Tìm kiếm các thông tin trong bảng thông qua dữ liệu nhập vào.
-* **Tiếp theo** (<mark style="color:red;">**Alt + T**</mark>): Chuyển qua bước kế tiếp. Nếu các dữ liệu chưa được xác nhận hết sẽ hiển thị cảnh báo.
+* **Lọc** (<mark style="color:red;">**Phím tắt Alt + L**</mark>):![](../../.gitbook/assets/Lọc.png) Có 2 trạng thái lọc theo tình trạng của cột xác nhận dữ liệu: đã xác nhận, chưa xử lý.
+* **Xác nhận tất cả** (<mark style="color:red;">**Phím tắt Alt + A**</mark>): Chức năng xác nhận tất cả nếu các thông tin đã hợp lệ.
+* **Tìm mã, tên hàng đối tác hoặc hàng lỗi** (<mark style="color:red;">**Phím tắt Ctrl + F**</mark>): Tìm kiếm các thông tin trong bảng thông qua dữ liệu nhập vào.
+* **Tiếp theo** (<mark style="color:red;">**Phím tắt Alt + T**</mark>): Chuyển qua bước kế tiếp. Nếu các dữ liệu chưa được xác nhận hết sẽ hiển thị cảnh báo.
 
 <figure><img src="../../.gitbook/assets/cảnh báo.png" alt=""><figcaption></figcaption></figure>
 
-* **Hủy** (<mark style="color:red;">**ESC**</mark>)
-* **Quay về bước trước** (<mark style="color:red;">**Alt + Q**</mark>)
+* **Hủy** (<mark style="color:red;">**Phím tắt ESC**</mark>)
+* **Quay về bước trước** (<mark style="color:red;">**Phím tắt Alt + Q**</mark>)
 {% endstep %}
 
 {% step %}
@@ -202,13 +208,13 @@ Nếu có dữ liệu đã tồn tại hoặc lỗi, hệ thống sẽ hiển th
 
 #### <mark style="color:$primary;">Các chức năng trên thanh công cụ</mark>
 
-* **Chạy xác thực** (<mark style="color:red;">**F5**</mark>): Click chọn chức năng để thực hiện kiểm tra, rà soát lại các chứng từ nhập vào xem hợp lệ hay chưa. Nếu chưa, hệ thống sẽ cảnh báo ở bên phải màn hình, mục **“Kết quả xác thực”**.
-* **Đánh lại số chứng từ** (<mark style="color:red;">**Alt + R**</mark>): Dùng để đánh lại số chứng từ trong danh sách chứng từ import vào.
-* **Lọc** (<mark style="color:red;">**Alt + L**</mark>): Dùng để lọc chứng từ theo các trường hợp: hợp lệ, có lỗi, để hiển thị danh sách các chứng từ theo điều kiện.
-* **Hủy** (<mark style="color:red;">**ESC**</mark>): Dùng để thoát khỏi chức năng **“Nạp dữ liệu”**.
-* **Tìm** (<mark style="color:red;">**Ctrl + F**</mark>): Tìm chứng từ theo thông tin nhập vào.
-* **Lưu dữ liệu** (<mark style="color:red;">**Ctrl + S**</mark>): Thực hiện import danh sách chứng từ vào hệ thống.
-* **Quay về bước trước** (<mark style="color:red;">**Alt + Q**</mark>).
+* **Chạy xác thực** (<mark style="color:red;">**Phím tắt F5**</mark>): Click chọn chức năng để thực hiện kiểm tra, rà soát lại các chứng từ nhập vào xem hợp lệ hay chưa. Nếu chưa, hệ thống sẽ cảnh báo ở bên phải màn hình, mục **“Kết quả xác thực”**.
+* **Đánh lại số chứng từ** (<mark style="color:red;">**Phím tắt Alt + R**</mark>): Dùng để đánh lại số chứng từ trong danh sách chứng từ import vào.
+* **Lọc** (<mark style="color:red;">**Phím tắt Alt + L**</mark>): Dùng để lọc chứng từ theo các trường hợp: hợp lệ, có lỗi, để hiển thị danh sách các chứng từ theo điều kiện.
+* **Hủy** (<mark style="color:red;">**Phím tắt ESC**</mark>): Dùng để thoát khỏi chức năng **“Nạp dữ liệu”**.
+* **Tìm** (<mark style="color:red;">**Phím tắt Ctrl + F**</mark>): Tìm chứng từ theo thông tin nhập vào.
+* **Lưu dữ liệu** (<mark style="color:red;">**Phím tắt Ctrl + S**</mark>): Thực hiện import danh sách chứng từ vào hệ thống.
+* **Quay về bước trước** (<mark style="color:red;">**Phím tắt Alt + Q**</mark>).
 * Có thể chỉnh sửa trực tiếp các thông tin chứng từ trong bảng.
 {% endstep %}
 {% endstepper %}

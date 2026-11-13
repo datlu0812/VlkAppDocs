@@ -14,59 +14,59 @@ description: (Danh mục đối tác)
 
 ## <mark style="color:$primary;">Các chức năng trong danh mục đối tác</mark>
 
-#### **1. Tác vụ chung (**<mark style="color:red;">**Ctrl + U**</mark>**)**
+#### **1. Tác vụ chung (**<mark style="color:red;">**Phím tắt Ctrl + U**</mark>**)**
 
-**+** [**Tạo mới (**<mark style="color:red;">**Alt + N**</mark>**)**](doi-tac.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một đối tác vào hệ thống.
+**+** [**Tạo mới (**<mark style="color:red;">**Phím tắt Alt + N**</mark>**)**](doi-tac.md#chuc-nang-tao-moi-du-lieu)**:** Thực hiện tạo mới một đối tác vào hệ thống.
 
-**+** [**Nạp dữ liệu (**<mark style="color:red;">**Alt + I**</mark>**)**](doi-tac.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách đối tác đã có sẵn vào hệ thống.
+**+** [**Nạp dữ liệu (**<mark style="color:red;">**Phím tắt Alt + I**</mark>**)**](doi-tac.md#chuc-nang-nap-du-lieu)**:** Nạp danh sách đối tác đã có sẵn vào hệ thống.
 
-**+ Chỉnh sửa (**<mark style="color:red;">**Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết thông tin đối tác, hoặc chỉnh sửa các thông tin của đối tác đã chọn.
+**+ Chỉnh sửa (**<mark style="color:red;">**Phím tắt Chọn dữ liệu + Enter**</mark>**):** Dùng để xem chi tiết thông tin đối tác, hoặc chỉnh sửa các thông tin của đối tác đã chọn.
 
-**+ Xóa (**<mark style="color:red;">**Alt + X**</mark>**):** Xóa đối tác đã chọn.
+**+ Xóa (**<mark style="color:red;">**Phím tắt Alt + X**</mark>**):** Xóa đối tác đã chọn.
 
-**+ Sắp xếp (**<mark style="color:red;">**Alt + S**</mark>**):** Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
+**+ Sắp xếp (**<mark style="color:red;">**Phím tắt Alt + S**</mark>**):** Chức năng Sắp xếp dùng để thay đổi thứ tự hiển thị dữ liệu trên danh sách theo một hoặc nhiều tiêu chí, giúp dễ dàng tra cứu, kiểm tra và đối chiếu dữ liệu.
 
-**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Phím tắt Alt + N**</mark>**)**
 
-**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Phím tắt Alt + Delete**</mark>**)**
 
-**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Phím tắt Alt + X**</mark>**)**
 
-**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**Phím tắt ESC**</mark>**)**
 
-**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Phím tắt Alt + A**</mark>**)**
 
-**+ Lọc (**<mark style="color:red;">**Alt + L**</mark>**):** Chức năng Lọc dùng để tìm và hiển thị các dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
+**+ Lọc (**<mark style="color:red;">**Phím tắt Alt + L**</mark>**):** Chức năng Lọc dùng để tìm và hiển thị các dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
 
-**·   Thêm điều kiện (**<mark style="color:red;">**Alt + N**</mark>**)**
+**·   Thêm điều kiện (**<mark style="color:red;">**Phím tắt Alt + N**</mark>**)**
 
-**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Alt + Delete**</mark>**)**
+**·   Xóa tất cả điều kiện (**<mark style="color:red;">**Phím tắt Alt + Delete**</mark>**)**
 
-**·   Xóa một điều kiện (**<mark style="color:red;">**Alt + X**</mark>**)**
+**·   Xóa một điều kiện (**<mark style="color:red;">**Phím tắt Alt + X**</mark>**)**
 
-**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**Phím tắt ESC**</mark>**)**
 
-**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Phím tắt Alt + A**</mark>**)**
 
-**+ Điều chỉnh cột hiển thị (**<mark style="color:red;">**Alt + D**</mark>**):** dùng để tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
+**+ Điều chỉnh cột hiển thị (**<mark style="color:red;">**Phím tắt Alt + D**</mark>**):** dùng để tùy chỉnh cách hiển thị các cột dữ liệu trên màn hình danh sách, bao gồm sắp xếp thứ tự cột và ẩn/hiện cột theo nhu cầu sử dụng.
 
-**·   Hiện/đóng tất cả: (**<mark style="color:red;">**Ctrl + A**</mark>**)**
+**·   Hiện/đóng tất cả: (**<mark style="color:red;">**Phím tắt Ctrl + A**</mark>**)**
 
-**·   Đóng (**<mark style="color:red;">**ESC**</mark>**)**
+**·   Đóng (**<mark style="color:red;">**Phím tắt ESC**</mark>**)**
 
-**·   Áp dụng (**<mark style="color:red;">**Alt + A**</mark>**)**
+**·   Áp dụng (**<mark style="color:red;">**Phím tắt Alt + A**</mark>**)**
 
-**+ Tìm kiếm nhanh (**<mark style="color:red;">**Ctrl + F**</mark>**):** thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh dữ liệu.
+**+ Tìm kiếm nhanh (**<mark style="color:red;">**Phím tắt Ctrl + F**</mark>**):** thực hiện tìm kiếm theo nội dung nhập vào để tìm kiếm nhanh dữ liệu.
 
-**+ Làm mới dữ liệu (**<mark style="color:red;">**Phím F5**</mark>**):** Dùng để làm mới dữ liệu hiển thị để cập nhật những thay đổi mới nhất khi chỉnh sửa dữ liệu nhưng chưa được hiển thị các thông tin đã chỉnh sửa.
+**+ Làm mới dữ liệu (**<mark style="color:red;">**Phím tắt  F5**</mark>**):** Dùng để làm mới dữ liệu hiển thị để cập nhật những thay đổi mới nhất khi chỉnh sửa dữ liệu nhưng chưa được hiển thị các thông tin đã chỉnh sửa.
 
-**+ Ẩn thanh chi tiết (**<mark style="color:red;">**Alt + V**</mark>**):** Chọn một đối tượng và mở view xem nhanh thông tin chi tiết đối tác đó. Và thực hiện phím tắt để ẩn thanh chi tiết.
+**+ Ẩn thanh chi tiết (**<mark style="color:red;">**Phím tắt Alt + V**</mark>**):** Chọn một đối tượng và mở view xem nhanh thông tin chi tiết đối tác đó. Và thực hiện phím tắt để ẩn thanh chi tiết.
 
-#### **2. In ấn và chia sẻ (**<mark style="color:red;">**Ctrl + P**</mark>**)**
+#### **2. In ấn và chia sẻ (**<mark style="color:red;">**Phím tắt Ctrl + P**</mark>**)**
 
-**+ In (**<mark style="color:red;">**Alt + P**</mark>**):** Thực hiện in dữ liệu
+**+ In (**<mark style="color:red;">**Phím tắt Alt + P**</mark>**):** Thực hiện in dữ liệu
 
-**+ Xuất file excel (**<mark style="color:red;">**Alt + E**</mark>**):** xuất danh sách dữ liệu ra file excel.
+**+ Xuất file excel (**<mark style="color:red;">**Phím tắt Alt + E**</mark>**):** xuất danh sách dữ liệu ra file excel.
 
 ## <mark style="color:$primary;">Chức năng tạo mới dữ liệu</mark>
 
@@ -105,7 +105,7 @@ description: (Danh mục đối tác)
 
 * **Ngày thành lập:** Ngày thành lập công ty của đối tác.
 * **Trạng thái:** Trạng thái hoạt động của công ty đối tác. Nếu không hoạt động sẽ không hiển thị cho chọn trong thêm mới chứng từ.
-* Sau khi nhập xong các thông tin, **Lưu (**<mark style="color:red;">**Ctrl + S**</mark>**)** hoặc **Hủy (**<mark style="color:red;">**ESC**</mark>**).**
+* Sau khi nhập xong các thông tin, **Lưu (**<mark style="color:red;">**Phím tắt Ctrl + S**</mark>**)** hoặc **Hủy (**<mark style="color:red;">**Phím tắt ESC**</mark>**).**
 
 ## <mark style="color:$primary;">**Chức năng Nạp dữ liệu**</mark>
 
@@ -122,7 +122,7 @@ description: (Danh mục đối tác)
 <figure><img src="../../.gitbook/assets/chọn loại dữ liệu.png" alt=""><figcaption></figcaption></figure>
 
 * Chọn loại dữ liệu để hiển thị ra file mẫu import phù hợp với loại import.
-* Tải file mẫu về **(**<mark style="color:red;">**Alt + M**</mark>**)**, chuẩn hóa lại dữ liệu từng cột trong file dữ liệu đã chuẩn bị sẵn sang các cột tương ứng trong file mẫu đã tải.
+* Tải file mẫu về **(**<mark style="color:red;">**Phím tắt Alt + M**</mark>**)**, chuẩn hóa lại dữ liệu từng cột trong file dữ liệu đã chuẩn bị sẵn sang các cột tương ứng trong file mẫu đã tải.
 * Có thể không cần chuẩn hóa trước, vẫn có thể import, nhưng sẽ phải gán lại cột dữ liệu tương ứng ở bước “Gán cột dữ liệu”. Phần này sẽ mất thời gian để chọn từng loại dữ liệu phù hợp với cột dữ liệu truyền vào.
 
 <figure><img src="../../.gitbook/assets/tải file import.png" alt=""><figcaption></figcaption></figure>
@@ -134,12 +134,12 @@ description: (Danh mục đối tác)
 Sau khi chuẩn hóa dữ liệu theo file import mẫu, có thể sử dụng các cách sau để đính kèm file:
 
 * Kéo thả file vào khung import.
-* Click nút **“Chọn file”** (<mark style="color:red;">**Alt + E**</mark>) để mở hộp thoại folder, sau đó tìm đến folder chứa file và chọn file đã chuẩn hóa.
+* Click nút **“Chọn file”** (<mark style="color:red;">**Phím tắt Alt + E**</mark>) để mở hộp thoại folder, sau đó tìm đến folder chứa file và chọn file đã chuẩn hóa.
 
-Nếu muốn thay đổi file đã đính, click vào nút **“Chọn file khác”** (<mark style="color:red;">**Alt + E**</mark>).
+Nếu muốn thay đổi file đã đính, click vào nút **“Chọn file khác”** (<mark style="color:red;">**Phím tắt Alt + E**</mark>).
 
-* **Nút tiếp theo: (**<mark style="color:red;">**Alt + T**</mark>**)**
-* **Nút hủy: (**<mark style="color:red;">**ESC**</mark>**)**
+* **Nút tiếp theo: (**<mark style="color:red;">**Phím tắt Alt + T**</mark>**)**
+* **Nút hủy: (**<mark style="color:red;">**Phím tắt ESC**</mark>**)**
 
 **Cấu hình chi tiết đối tác**
 
@@ -174,10 +174,10 @@ Thực hiện kiểm tra các cột dữ liệu để import.
 
 **Các chức năng:**
 
-* **Nút tiếp theo: (**<mark style="color:red;">**Alt + T**</mark>**)**
-* **Nút hủy: (**<mark style="color:red;">**ESC**</mark>**)**
-* **Quay về bước trước: (**<mark style="color:red;">**Alt + Q**</mark>**)**
-* **Hiển thị trường không bắt buộc (**<mark style="color:red;">**Alt + V**</mark>**)**
+* **Nút tiếp theo: (**<mark style="color:red;">**Phím tắt Alt + T**</mark>**)**
+* **Nút hủy: (**<mark style="color:red;">**Phím tắt ESC**</mark>**)**
+* **Quay về bước trước: (**<mark style="color:red;">**Phím tắt Alt + Q**</mark>**)**
+* **Hiển thị trường không bắt buộc (**<mark style="color:red;">**Phím tắt Alt + V**</mark>**)**
 
 #### Bước 3: Kiểm tra & Lưu
 
@@ -185,11 +185,11 @@ Thực hiện kiểm tra các cột dữ liệu để import.
 
 **Các chức năng trên thanh công cụ**
 
-* **Quay về bước trước** (<mark style="color:red;">**Alt + Q**</mark>).
-* **Lưu dữ liệu** (<mark style="color:red;">**Ctrl + S**</mark>): Thực hiện import danh sách chứng từ vào hệ thống.
-* **Chạy xác thực** (<mark style="color:red;">**F5**</mark>): Click chọn chức năng để thực hiện kiểm tra, rà soát lại các chứng từ nhập vào xem hợp lệ hay chưa. Nếu chưa, hệ t hống sẽ cảnh báo ở bên phải màn hình, mục **“Kết quả xác thực”**.
-* **Hủy** (<mark style="color:red;">**ESC**</mark>): Dùng để thoát khỏi chức năng **“Nạp dữ liệu”**.
-* **Lọc** (<mark style="color:red;">**Alt + L**</mark>): Dùng để lọc chứng từ theo các trường hợp: hợp lệ, có lỗi, để hiển thị danh sách các chứng từ theo điều kiện.
-* **Tìm** (<mark style="color:red;">**Ctrl + F**</mark>): Tìm chứng từ theo thông tin nhập vào.
-* **Chọn toàn bộ dữ liệu (**<mark style="color:red;">**Ctr + A**</mark>**)** để chọn tất cả các dữ liệu trong danh sách để lưu.
+* **Quay về bước trước** (<mark style="color:red;">**Phím tắt Alt + Q**</mark>).
+* **Lưu dữ liệu** (<mark style="color:red;">**Phím tắt Ctrl + S**</mark>): Thực hiện import danh sách chứng từ vào hệ thống.
+* **Chạy xác thực** (<mark style="color:red;">**Phím tắt F5**</mark>): Click chọn chức năng để thực hiện kiểm tra, rà soát lại các chứng từ nhập vào xem hợp lệ hay chưa. Nếu chưa, hệ t hống sẽ cảnh báo ở bên phải màn hình, mục **“Kết quả xác thực”**.
+* **Hủy** (<mark style="color:red;">**Phím tắt ESC**</mark>): Dùng để thoát khỏi chức năng **“Nạp dữ liệu”**.
+* **Lọc** (<mark style="color:red;">**Phím tắt Alt + L**</mark>): Dùng để lọc chứng từ theo các trường hợp: hợp lệ, có lỗi, để hiển thị danh sách các chứng từ theo điều kiện.
+* **Tìm** (<mark style="color:red;">**Phím tắt Ctrl + F**</mark>): Tìm chứng từ theo thông tin nhập vào.
+* **Chọn toàn bộ dữ liệu (**<mark style="color:red;">**Phím tắt Ctr + A**</mark>**)** để chọn tất cả các dữ liệu trong danh sách để lưu.
 
