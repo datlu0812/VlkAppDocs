@@ -97,3 +97,24 @@ _<mark style="color:$danger;">Tùy chọn</mark>_ <mark style="color:$danger;"><
 {% hint style="danger" %}
 <mark style="color:$danger;">**Lưu ý:**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">Bản sao lưu kho sẽ bao gồm toàn bộ dữ liệu của tất cả các doanh nghiệp và tệp đính kèm trong kho đang mở. Không xóa bản sao lưu đã tạo, nếu xóa bản sao lưu đã tạo thì phải thực hiện tạo lại bản sao lưu mới.</mark>
 {% endhint %}
+
+#### Lịch sử sao lưu tủ
+
+\- Ngoài ra có thể xem lại các bản sao lưu trong phần lịch sử và tình trạng của các bản sao lưu trên hệ thống.
+
+**Xem lịch sử sao lưu tủ dữ liệu:**
+
+<figure><img src="../.gitbook/assets/Xem lịch sử B1.png" alt=""><figcaption></figcaption></figure>
+
+\- Tại màn hình trung tâm dữ liệu, phía trên bên phải của màn hình nằm trong danh sách tủ, chọn biểu tượng lịch sử, bấm vào để mở màn hình danh sách các lịch sử sao lưu.
+
+<figure><img src="../.gitbook/assets/Lịch sử sao lưu tủ dữ liệu.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;\- Tại đây có các thao tác sử dụng để theo dõi bản sao lưu tủ dữ liệu như:
+
+* Làm mới (<mark style="color:red;">**Phím tắt F5**</mark>)
+* Lọc (<mark style="color:red;">**Phím tắt Alt + L**</mark>)
+* Tìm kiếm bản sao lưu theo mã (<mark style="color:red;">**Phím tắt Ctrl + F**</mark>)
+* Và một số thao tác khác tại mỗi bản sao lưu ở cột hành động, dấu 3 chấm. Khi bấm vào sẽ hiển ra các chức năng như, xem chi tiết bản sao lưu, hoặc xóa bản sao lưu.
+
+<figure><img src="../.gitbook/assets/xem chi tiết bản sao lưu.png" alt=""><figcaption></figcaption></figure>
