@@ -1,4 +1,5 @@
 ---
+description: (Giới thiệu chức năng chứng từ kết chuyển)
 icon: rotate
 ---
 

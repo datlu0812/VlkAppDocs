@@ -1,5 +1,5 @@
 ---
-description: (Giới thiệu chức năng nạp dữ liệu
+description: (Giới thiệu chức năng nạp dữ liệu)
 icon: desktop-arrow-down
 layout:
   width: default

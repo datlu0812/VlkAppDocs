@@ -1,4 +1,5 @@
 ---
+description: (Giới thiệu chức năng chứng từ giá vốn xuất)
 icon: right-from-bracket
 ---
 
