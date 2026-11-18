@@ -102,7 +102,7 @@ Chọn chức năng Chạy sổ (<mark style="color:red;">**Phím tắt Alt + C*
 
 <mark style="color:$danger;">· Đối với các tháng không có chứng từ ghi sổ, hệ thống sẽ thực hiện chuyển số dư qua các tháng theo thông báo trên màn hình.</mark>
 
-<mark style="color:$danger;">· Nếu có chứng từ nhập ngoài lượt chạy, người dùng nên kiểm tra các chứng từ này để đảm bảo dữ liệu được đưa vào đúng kỳ xử lý.</mark>
+<mark style="color:$danger;">· Nếu có chứng từ nhập ngoài lượt chạy, nên kiểm tra các chứng từ này để đảm bảo dữ liệu được đưa vào đúng kỳ xử lý.</mark>
 
 <mark style="color:$danger;">· Khi phát sinh thay đổi hoặc bổ sung chứng từ thuộc kỳ đã chạy, cần kiểm tra trạng thái chạy sổ và thực hiện chạy lại khi hệ thống yêu cầu.</mark>
 
