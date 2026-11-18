@@ -35,7 +35,7 @@ description: (Bảng kê ngân hàng)
 
 Sau khi chuẩn hóa dữ liệu theo file nạp dữ liệu mẫu, có thể sử dụng các cách sau để đính kèm file:
 
-* Kéo thả file vào khung import.
+* Kéo thả file vào khung nạp dữ liệu.
 * Click nút **“Chọn file”** (<mark style="color:red;">**Phím tắt Alt + E**</mark>) để mở hộp thoại folder, sau đó tìm đến folder chứa file và chọn file đã chuẩn hóa.
 
 Nếu muốn thay đổi file đã đính, click vào nút **“Chọn file khác”** (<mark style="color:red;">**Phím tắt Alt + E**</mark>).
@@ -116,7 +116,7 @@ Các cột thông tin hiển thị dữ liệu:
 
 {% stepper %}
 {% step %}
-**Cột trường thông tin:** Hiển thị các thông tin cần thiết để import vào hệ thống; các trường dữ liệu quan trọng sẽ được đánh dấu sao bắt buộc.
+**Cột trường thông tin:** Hiển thị các thông tin cần thiết để nạp dữ liệu vào hệ thống; các trường dữ liệu quan trọng sẽ được đánh dấu sao bắt buộc.
 {% endstep %}
 
 {% step %}
@@ -154,11 +154,11 @@ Nếu có dữ liệu đã tồn tại hoặc lỗi, hệ thống sẽ hiển th
 #### Các chức năng trên thanh công cụ
 
 * **Chạy xác thực** (<mark style="color:red;">**Phím tắt F5**</mark>): click chọn chức năng để thực hiện kiểm tra, rà soát lại các chứng từ nhập vào xem hợp lệ hay chưa. Nếu chưa, hệ thống sẽ cảnh báo ở bên phải màn hình, mục **“Kết quả xác thực”**.
-* **Đánh lại số chứng từ** (<mark style="color:red;">**Alt + R**</mark>): Dùng để đánh lại số chứng từ trong danh sách chứng từ import vào.
+* **Đánh lại số chứng từ** (<mark style="color:red;">**Alt + R**</mark>): Dùng để đánh lại số chứng từ trong danh sách chứng từ cần nạp vào.
 * **Lọc** (<mark style="color:red;">**Alt + L**</mark>): Dùng để lọc chứng từ theo các trường hợp: hợp lệ, có lỗi, để hiển thị danh sách các chứng từ theo điều kiện.
 * **Hủy** (<mark style="color:red;">**ESC**</mark>): Dùng để thoát khỏi chức năng **“Nạp dữ liệu”**.
 * **Tìm** (<mark style="color:red;">**Ctrl + F**</mark>): Tìm chứng từ theo thông tin nhập vào.
-* **Lưu dữ liệu** (<mark style="color:red;">**Ctrl + S**</mark>): Thực hiện import danh sách chứng từ vào hệ thống.
+* **Lưu dữ liệu** (<mark style="color:red;">**Ctrl + S**</mark>): Thực hiện nạp danh sách chứng từ vào hệ thống.
 * **Quay về bước trước** (<mark style="color:red;">**Alt + Q**</mark>).
 * Có thể chỉnh sửa trực tiếp các thông tin chứng từ trong bảng.
 {% endstep %}

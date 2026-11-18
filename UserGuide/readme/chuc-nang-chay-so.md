@@ -25,7 +25,7 @@ Chọn chức năng Chạy sổ (<mark style="color:red;">**Phím tắt Alt + C*
 
 ## <mark style="color:$primary;">Giới thiệu chức năng chạy sổ</mark>
 
-\- Chức năng Chạy sổ dùng để thực hiện xử lý và cập nhật dữ liệu kế toán theo từng tháng trên hệ thống. Sau khi nhập chứng từ, hệ thống sẽ hiện các bước xử lý như tính giá vốn, kết chuyển lãi lỗ và cập nhật số dư tài khoản, giúp dữ liệu kế toán đưuọc hoàn thiện để phục vụ việc xem báo cáo và kiểm tra số liệu.
+\- Chức năng Chạy sổ dùng để thực hiện xử lý và cập nhật dữ liệu kế toán theo từng tháng trên hệ thống. Sau khi nhập chứng từ, hệ thống sẽ hiện các bước xử lý như tính giá vốn, kết chuyển lãi lỗ và cập nhật số dư tài khoản, giúp dữ liệu kế toán được hoàn thiện để phục vụ việc xem báo cáo và kiểm tra số liệu.
 
 \- Màn hình Chạy sổ cho phép lựa chọn khoảng thời gian cần xử lý, theo dõi tình trạng chạy sổ của từng tháng và kiểm tra các chứng từ chưa được đưa vào quá trình chạy sổ.
 

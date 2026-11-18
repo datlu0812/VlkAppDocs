@@ -12,11 +12,11 @@ description: (Hóa đơn đầu vào & Hóa đơn đầu ra)
 {% step %}
 ### <mark style="color:$primary;">Bước 1: Chọn dữ liệu & cấu hình</mark>
 
-**Điều kiện để nạp dữ liệu:** Chuẩn hóa dữ liệu file import.
+**Điều kiện để nạp dữ liệu:** Chuẩn hóa dữ liệu file nạp dữ liệu.
 
-* Chọn loại dữ liệu để hiển thị ra file mẫu import phù hợp với loại import.
-* Tải file mẫu về (<mark style="color:red;">**Alt + M**</mark>), chuẩn hóa lại dữ liệu từng cột trong file dữ liệu đã chuẩn bị sẵn sang các cột tương ứng trong file mẫu đã tải.
-* Có thể không cần chuẩn hóa trước, vẫn có thể import, nhưng sẽ phải gán lại cột dữ liệu tương ứng ở bước **“Gán cột dữ liệu”**. Phần này sẽ mất thời gian để chọn từng loại dữ liệu phù hợp với cột dữ liệu truyền vào.
+* Chọn loại dữ liệu để hiển thị ra file mẫu nạp dữ liệu phù hợp với loại dữ liệu cần nạp vào.
+* Tải file mẫu về (<mark style="color:red;">**Phím tắt Alt + M**</mark>), chuẩn hóa lại dữ liệu từng cột trong file dữ liệu đã chuẩn bị sẵn sang các cột tương ứng trong file mẫu đã tải.
+* Có thể không cần chuẩn hóa trước, vẫn có thể thực hiện nạp dữ liệu, nhưng sẽ phải gán lại cột dữ liệu tương ứng ở bước **“Gán cột dữ liệu”**. Phần này sẽ mất thời gian để chọn từng loại dữ liệu phù hợp với cột dữ liệu truyền vào.
 
 {% hint style="danger" %}
 _<mark style="color:$danger;">Khuyến khích việc chuẩn hóa trước file dữ liệu để tiết kiệm thời gian và tránh sai sót thông tin khi bước vào bước</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">**“Gán cột dữ liệu”**</mark><mark style="color:$danger;">.</mark>_
@@ -30,15 +30,15 @@ _<mark style="color:$danger;">Khuyến khích việc chuẩn hóa trước file 
 
 * Cấu hình nhanh loại dữ liệu nạp vào (<mark style="color:red;">**Phím tắt Alt + C**</mark>).
 * Tùy theo loại dữ liệu nạp vào sẽ có mỗi quy trình khác nhau.
-* Đối với loại import chọn là **“Bảng kê ngân hàng”**, quy trình sẽ rút ngắn lại chỉ còn 3 bước và không có bước số 3 **“Đối chiếu hàng hóa”**.
+* Đối với loại nạp dữ liệu chọn là **“Bảng kê ngân hàng”**, quy trình sẽ rút ngắn lại chỉ còn 3 bước và không có bước số 3 **“Đối chiếu hàng hóa”**.
 
 <figure><img src="../../.gitbook/assets/cauhinhbangke1.png" alt=""><figcaption></figcaption></figure>
 
 #### Đính kèm file nạp dữ liệu
 
-Sau khi chuẩn hóa dữ liệu theo file import mẫu, có thể sử dụng các cách sau để đính kèm file:
+Sau khi chuẩn hóa dữ liệu theo file dữ liệu mẫu, có thể sử dụng các cách sau để đính kèm file:
 
-* Kéo thả file vào khung import.
+* Kéo thả file vào khung nạp dữ liệu.
 * Bấm vào nút **“Chọn file”** (<mark style="color:red;">**Phím tắt Alt + E**</mark>) để mở hộp thoại folder, sau đó tìm đến folder chứa file và chọn file đã chuẩn hóa.
 
 Nếu muốn thay đổi file đã đính, bấm vào nút **“Chọn file khác”** (<mark style="color:red;">**Phím tắt Alt + E**</mark>).

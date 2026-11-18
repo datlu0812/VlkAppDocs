@@ -44,7 +44,7 @@ Các danh mục cần khai báo:
 * [<mark style="color:$primary;">**Đối tác**</mark>](danh-muc/doi-tuong/doi-tac.md): Thêm khách hàng, nhà cung cấp.
 * [<mark style="color:$primary;">**Hàng hóa, vật tư**</mark>](danh-muc/hang-hoa-and-kho/vat-tu-hang-hoa-thanh-pham.md): Thêm hàng hóa, vật tư, thành phẩm.
 * [<mark style="color:$primary;">**Tài khoản ngân hàng**</mark>](danh-muc/tai-chinh-ke-toan/tai-khoan-ngan-hang.md): Thêm thông tin tài khoản ngân hàng của doanh nghiệp.
-* [<mark style="color:$primary;">**Kho**</mark>](danh-muc/hang-hoa-and-kho/kho.md): Khai báo các kho hàng của doanh nghiệp. (Hệ thống sẽ tự tạo sẵn một kho đơn vị mạc định)
+* [<mark style="color:$primary;">**Kho**</mark>](danh-muc/hang-hoa-and-kho/kho.md): Khai báo các kho hàng của doanh nghiệp. (_Hệ thống sẽ tự tạo sẵn một kho đơn vị mặc định_)
 * [<mark style="color:$primary;">**Nhân viên**</mark>](danh-muc/doi-tuong/nhan-vien.md): Thêm thông tin nhân viên (nếu có nhu cầu).
 * [<mark style="color:$primary;">**Quy tắc kết chuyển**</mark>](danh-muc/tai-chinh-ke-toan/quy-tac-ket-chuyen.md): Khai báo quy tắc kết chuyển kế toán (nếu có nhu cầu).
 

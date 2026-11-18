@@ -34,16 +34,16 @@ Có 2 cách để vào màn hình nhập mới chứng từ.
 
 {% tabs %}
 {% tab title="Cách 1" %}
-Ở màn hình **Tổng quan**, bấm nút **Chứng từ mới** (<mark style="color:red;">**Phím N**</mark>).
+Ở màn hình **Tổng quan**, bấm nút **Chứng từ mới** (<mark style="color:red;">**Phím tắt N**</mark>).
 
 Ngoài ra có một số loại chứng từ được cấu hình và định khoản sẵn theo các nghiệp vụ cơ bản:
 
-* Phiếu thu (<mark style="color:red;">**Phím F1**</mark>)
-* Phiếu chi (<mark style="color:red;">**Phím F2**</mark>)
-* Mua hàng & dịch vụ (<mark style="color:red;">**Phím F3**</mark>)
-* Bán hàng & hóa đơn (<mark style="color:red;">**Phím F4**</mark>)
-* Phiếu kế toán (<mark style="color:red;">**Phím F5**</mark>)
-* Nhập/Xuất kho (<mark style="color:red;">**Phím F6**</mark>)
+* Phiếu thu (<mark style="color:red;">**Phím tắt F1**</mark>)
+* Phiếu chi (<mark style="color:red;">**Phím tắt F2**</mark>)
+* Mua hàng & dịch vụ (<mark style="color:red;">**Phím tắt F3**</mark>)
+* Bán hàng & hóa đơn (<mark style="color:red;">**Phím tắt F4**</mark>)
+* Phiếu kế toán (<mark style="color:red;">**Phím tắt F5**</mark>)
+* Nhập/Xuất kho (<mark style="color:red;">**Phím tắt F6**</mark>)
 
 <figure><img src="../../.gitbook/assets/chức năng nhập mới chứng từ 1 (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
