@@ -20,14 +20,13 @@ description: (Danh mục hệ thống tài khoản)
 
 Doanh nghiệp mua hàng hóa và thanh toán bằng tiền mặt:
 
-Nợ **TK 156** – Hàng hóa: 10.000.000\
-Có **TK 111** – Tiền mặt: 10.000.000
+* Nợ **TK 156** – Hàng hóa: 10.000.000
+* Có **TK 111** – Tiền mặt: 10.000.000
 
 **Trong đó:**
 
-TK 156 dùng để phản ánh giá trị hàng hóa của doanh nghiệp.
-
-TK 111 dùng để phản ánh tiền mặt tại quỹ.
+* TK 156 dùng để phản ánh giá trị hàng hóa của doanh nghiệp.
+* TK 111 dùng để phản ánh tiền mặt tại quỹ.
 
 Tổng số tiền TK Nợ = TK Có, đảm bảo nguyên tắc cân đối của định khoản.
 

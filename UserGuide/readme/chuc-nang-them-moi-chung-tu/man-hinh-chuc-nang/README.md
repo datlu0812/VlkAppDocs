@@ -22,7 +22,7 @@ description: (Giới thiệu màn hình chức năng)
 * **Ghi sổ khi lưu** (<mark style="color:red;">**Phím tắt Alt + G**</mark>): Hệ thống sẽ xác nhận rằng chứng từ vừa nhập đủ điều kiện và thực hiện ghi nhận các thông tin của chứng từ vào dữ liệu kế toán bằng cách tự động và chứng từ khi lưu sẽ có trạng thái **"Đã ghi sổ"**. Nếu không chọn chức năng, thì chứng từ khi được lưu lại sẽ ở trạng thái "**Nháp**" trong màn hình **Chứng từ.**
 
 {% hint style="danger" %}
-<mark style="color:$danger;">**Lưu ý:**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">Chức năng ghi sổ khi lưu là một chức năng cần được kích hoạt trong mục</mark> [<mark style="color:blue;">**cấu hình chứng từ**</mark> ](../../../cai-dat/chung-tu.md)<mark style="color:$danger;">trong phần cài đặt của hệ thống, khi kích hoạt thì trong khi nhập chứng từ sẽ tự động tick chọn ghi sổ khi lưu, nếu không kích hoạt chức năng sẽ không tự động tick chọn ghi sổ khi lưu, sẽ phải tick chọn thủ công nếu cần sử dụng chức năng này.</mark>
+<mark style="color:$danger;">**Lưu ý:**</mark> <mark style="color:$danger;"></mark><mark style="color:$danger;">Chức năng ghi sổ khi lưu là một chức năng cần được kích hoạt trong mục</mark> [<mark style="color:blue;">**cấu hình chứng từ**</mark> ](../../../cai-dat-dang-cap-nhat/chung-tu.md)<mark style="color:$danger;">trong phần cài đặt của hệ thống, khi kích hoạt thì trong khi nhập chứng từ sẽ tự động tick chọn ghi sổ khi lưu, nếu không kích hoạt chức năng sẽ không tự động tick chọn ghi sổ khi lưu, sẽ phải tick chọn thủ công nếu cần sử dụng chức năng này.</mark>
 {% endhint %}
 
 * **Mẹo** (<mark style="color:red;">**Phím tắt F12**</mark>): Icon hình bóng đèn, dùng để mở bảng gợi ý phím tắt cho các chức năng.

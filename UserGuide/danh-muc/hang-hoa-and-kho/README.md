@@ -32,4 +32,4 @@ description: (Nhóm danh mục hàng hóa & kho)
 | [**Vật tư, hàng hóa, thành phẩm**](vat-tu-hang-hoa-thanh-pham.md) | Quản lý thông tin chi tiết của từng loại vật tư, hàng hóa, thành phẩm như mã hàng, tên hàng, nhóm hàng và đơn vị tính.                                 |
 | [**Nhóm vật tư, hàng hóa**](nhom-vat-tu-hang-hoa.md)              | Phân loại vật tư, hàng hóa, thành phẩm theo từng nhóm, giúp thuận tiện cho việc tìm kiếm, quản lý và tổng hợp báo cáo.                                 |
 | [**Kho**](kho.md)                                                 | Khai báo và quản lý các địa điểm lưu trữ vật tư, hàng hóa, thành phẩm, phục vụ việc lập phiếu nhập kho, xuất kho và theo dõi tồn kho tại từng kho.     |
-| [**Đơn vị tính**](don-vi-tinh.md)                                 | Quản lý các đơn vị đo lường của hàng hóa như cái, chiếc, bộ, kg, mét, lít…, phục vụ việc ghi nhận số lượng trong các nghiệp vụ mua bán và quản lý kho. |
+| [**Đơn vị tính**](don-vi-tinh-dang-cap-nhat.md)                   | Quản lý các đơn vị đo lường của hàng hóa như cái, chiếc, bộ, kg, mét, lít…, phục vụ việc ghi nhận số lượng trong các nghiệp vụ mua bán và quản lý kho. |
