@@ -1,15 +1,15 @@
 ---
-description: (Danh mục chức năng chứng từ tổng hợp)
+description: (Giới thiệu chức năng chứng từ tổng hợp)
 icon: pen-to-square
 ---
 
 # Chức năng Chứng từ
 
-## <mark style="color:$primary;">Menu các chức năng trong thanh công cụ</mark>
+## <mark style="color:$primary;">Màn hình chức năng</mark>
 
 <figure><img src=".gitbook/assets/màn hình chính chứng từ tổng hợp.png" alt=""><figcaption></figcaption></figure>
 
-\- Thoát về màn hình chính (Tổng quan) (<mark style="color:red;">**Phím tắt**</mark> <mark style="color:red;">**ESC**</mark>)
+\- Thoát về màn hình chính (**Tổng quan**) (<mark style="color:red;">**Phím tắt**</mark> <mark style="color:red;">**ESC**</mark>)
 
 \- Hiển thị danh sách chứng từ, và các chức năng chính:
 
