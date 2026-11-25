@@ -37,7 +37,7 @@ icon: house-blank
 
 <figure><img src="../.gitbook/assets/sắp xếp tồn kho.png" alt=""><figcaption></figcaption></figure>
 
-\+ Lọc (Phím tắt Alt +L): Cho phép lọc và hiển thị các dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
+\+ Lọc (<mark style="color:red;">**Phím tắt Alt + L**</mark>): Cho phép lọc và hiển thị các dữ liệu đáp ứng một hoặc nhiều điều kiện lọc, giúp nhanh chóng tra cứu thông tin cần thiết trên danh sách.
 
 <figure><img src="../.gitbook/assets/Lọc (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -59,9 +59,9 @@ icon: house-blank
 
 \+ Chuyển kho: Chuyển đến màn hình tạo mới chứng từ và lập phiếu hạch toán chứng từ chuyển kho.
 
-\+ Tồn khi đầu kỳ: mở chức năng tồn kho đầu kỳ, hiển thị màn hình chức năng tồn kho đầu kỳ.
+\+ Tồn khi đầu kỳ **(**<mark style="color:red;">**Phím tắt Alt + O**</mark>**)**: mở chức năng tồn kho đầu kỳ, hiển thị màn hình chức năng tồn kho đầu kỳ.
 
-\+ Kiểm kê: mở chức năng kiểm kê kho, hiển thị màn hình chức năng kiểm kê kho.
+\+ Kiểm kê **(**<mark style="color:red;">**Phím tắt Alt + M**</mark>**)**: mở chức năng kiểm kê kho, hiển thị màn hình chức năng kiểm kê kho.
 
 #### Nhóm chức năng Kết xuất: (<mark style="color:red;">**Phím tắt Ctrl + P**</mark>)
 

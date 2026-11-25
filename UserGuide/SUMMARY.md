@@ -20,7 +20,7 @@
   * [Chức năng chạy sổ](readme/chuc-nang-chay-so.md)
 * [Hóa đơn (Đang cập nhật)](hoa-don-dang-cap-nhat.md)
 * [Kho tồn](kho-ton/README.md)
-  * [Tồn kho đầu kỳ (Đang cập nhật)](kho-ton/ton-kho-dau-ky-dang-cap-nhat.md)
+  * [Tồn kho đầu kỳ](kho-ton/ton-kho-dau-ky.md)
   * [Kiểm kê (Đang cập nhật)](kho-ton/kiem-ke-dang-cap-nhat.md)
 * [Danh mục](danh-muc/README.md)
   * [Tài chính - kế toán](danh-muc/tai-chinh-ke-toan/README.md)
