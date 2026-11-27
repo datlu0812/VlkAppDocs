@@ -60,17 +60,7 @@ Bước 2: Chọn chức năng tồn kho đầu kỳ **(**<mark style="color:red
 
 &#x20;\- Đây là khu vực trực tiếp khai báo số lượng và giá trị tồn kho ban đầu cho từng mặt hàng.
 
-| **Tên cột**                | **Ý nghĩa**                                                                                                          |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **STT**                    | Số thứ tự của mặt hàng trong danh sách, được hệ thống tự động đánh số.                                               |
-| **Mã hàng**                | Mã định danh của vật tư, hàng hóa hoặc thành phẩm. lựa chọn mã hàng từ danh mục đã khai báo.                         |
-| **Tên mặt hàng**           | Tên của mặt hàng tương ứng với mã hàng được lựa chọn.                                                                |
-| **ĐVT**                    | Đơn vị tính của mặt hàng, được hệ thống hiển thị theo thông tin trong danh mục hàng hóa.                             |
-| **TK kho**                 | Tài khoản kế toán dùng để theo dõi giá trị hàng tồn kho. lựa chọn tài khoản phù hợp với mặt hàng.                    |
-| **Số lượng**               | Số lượng hàng hóa thực tế còn tồn tại tại thời điểm nhận tồn đầu kỳ.                                                 |
-| **Giá trị**                | Tổng giá trị tồn kho đầu kỳ của mặt hàng được khai báo.                                                              |
-| **Đơn giá**                | Giá trị tính trên một đơn vị hàng hóa tồn kho đầu kỳ.                                                                |
-| **Xóa (Phím tắt Alt + X)** | Sử dụng mũi tên lên xuống để chọn loại hàng cần xóa sau đó Xóa dòng mặt hàng khỏi danh sách khai báo tồn kho đầu kỳ. |
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Tên cột</strong></td><td><strong>Ý nghĩa</strong></td></tr><tr><td><strong>STT</strong></td><td>Số thứ tự của mặt hàng trong danh sách, được hệ thống tự động đánh số.</td></tr><tr><td><strong>Mã hàng</strong></td><td>Mã định danh của vật tư, hàng hóa hoặc thành phẩm. lựa chọn mã hàng từ danh mục đã khai báo.</td></tr><tr><td><strong>Tên mặt hàng</strong></td><td>Tên của mặt hàng tương ứng với mã hàng được lựa chọn.</td></tr><tr><td><strong>ĐVT</strong></td><td>Đơn vị tính của mặt hàng, được hệ thống hiển thị theo thông tin trong danh mục hàng hóa.</td></tr><tr><td><strong>TK kho</strong></td><td>Tài khoản kế toán dùng để theo dõi giá trị hàng tồn kho. lựa chọn tài khoản phù hợp với mặt hàng.</td></tr><tr><td><strong>Số lượng</strong></td><td>Số lượng hàng hóa thực tế còn tồn tại tại thời điểm nhận tồn đầu kỳ.</td></tr><tr><td><strong>Giá trị</strong></td><td>Tổng giá trị tồn kho đầu kỳ của mặt hàng được khai báo.</td></tr><tr><td><strong>Đơn giá</strong></td><td>Giá trị tính trên một đơn vị hàng hóa tồn kho đầu kỳ.</td></tr><tr><td><strong>Xóa (Phím tắt Alt + X)</strong></td><td>Sử dụng mũi tên lên xuống để chọn loại hàng cần xóa sau đó Xóa dòng mặt hàng khỏi danh sách khai báo tồn kho đầu kỳ.</td></tr></tbody></table>
 
 ## <mark style="color:$primary;">Hướng dẫn sử dụng chức năng</mark>
 
@@ -119,15 +109,7 @@ Bước 2: Chọn chức năng tồn kho đầu kỳ **(**<mark style="color:red
 
 Một doanh nghiệp bắt đầu sử dụng phần mềm từ tháng 01/2026, có mặt hàng Gương nhôm 4 ly tồn kho tại kho KH001 với thông tin:
 
-| **Thông tin**    | **Giá trị**                 |
-| ---------------- | --------------------------- |
-| **Mã hàng**      | GN0041                      |
-| **Tên mặt hàng** | Gương nhôm 4ly (1.25\*2.14) |
-| **ĐVT**          | m2                          |
-| **TK kho**       | 156                         |
-| **Số lượng**     | 150                         |
-| **Giá trị**      | 150.000.000 đồng            |
-| **Đơn giá**      | 1.000.000 đồng              |
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Thông tin</strong></td><td><strong>Giá trị</strong></td></tr><tr><td><strong>Mã hàng</strong></td><td>GN0041</td></tr><tr><td><strong>Tên mặt hàng</strong></td><td>Gương nhôm 4ly (1.25*2.14)</td></tr><tr><td><strong>ĐVT</strong></td><td>m2</td></tr><tr><td><strong>TK kho</strong></td><td>156</td></tr><tr><td><strong>Số lượng</strong></td><td>150</td></tr><tr><td><strong>Giá trị</strong></td><td>150.000.000 đồng</td></tr><tr><td><strong>Đơn giá</strong></td><td>1.000.000 đồng</td></tr></tbody></table>
 
 &#x20;⇒ Sau khi khai báo và lưu, hệ thống ghi nhận số liệu tồn kho ban đầu để tiếp tục theo dõi các nghiệp vụ nhập, xuất và tồn kho phát sinh từ kỳ kế toán 01/2026.
 

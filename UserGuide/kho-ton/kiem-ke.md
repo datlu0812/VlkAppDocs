@@ -1,4 +1,8 @@
-# Kiểm kê (Đang cập nhật)
+---
+description: (Giới thiệu chức năng kiểm kê)
+---
+
+# Kiểm kê
 
 ## <mark style="color:$primary;">Màn hình chức năng</mark>
 
@@ -45,14 +49,7 @@
 
 **Bảng danh sách phiên kiểm kê**
 
-| Tên cột       | Ý nghĩa                                                                                                  |
-| ------------- | -------------------------------------------------------------------------------------------------------- |
-| Kho           | Kho được thực hiện kiểm kê.                                                                              |
-| Ngày kiểm kê  | Ngày thực hiện phiên kiểm kê.                                                                            |
-| Trạng thái    | Tình trạng xử lý của phiên kiểm kê, bao gồm Nháp và Đã chốt.                                             |
-| Tiến độ       | Thể hiện số lượng mặt hàng đã kiểm đếm trên tổng số mặt hàng trong phiên hoặc thông báo kết quả kiểm kê. |
-| Người kiểm kê | Tên người thực hiện phiên kiểm kê.                                                                       |
-| Lập lúc       | Thời điểm phiên kiểm kê được tạo trên hệ thống.                                                          |
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Tên cột</td><td>Ý nghĩa</td></tr><tr><td>Kho</td><td>Kho được thực hiện kiểm kê.</td></tr><tr><td>Ngày kiểm kê</td><td>Ngày thực hiện phiên kiểm kê.</td></tr><tr><td>Trạng thái</td><td>Tình trạng xử lý của phiên kiểm kê, bao gồm Nháp và Đã chốt.</td></tr><tr><td>Tiến độ</td><td>Thể hiện số lượng mặt hàng đã kiểm đếm trên tổng số mặt hàng trong phiên hoặc thông báo kết quả kiểm kê.</td></tr><tr><td>Người kiểm kê</td><td>Tên người thực hiện phiên kiểm kê.</td></tr><tr><td>Lập lúc</td><td>Thời điểm phiên kiểm kê được tạo trên hệ thống.</td></tr></tbody></table>
 
 **Các trạng thái của sổ kiểm kê**
 
@@ -90,20 +87,7 @@
 
 **Các thông tin trên bảng kiểm kê**
 
-| **Tên cột**            | **Ý nghĩa**                                                                                           |
-| ---------------------- | ----------------------------------------------------------------------------------------------------- |
-| **STT**                | Số thứ tự của mặt hàng trong danh sách kiểm kê.                                                       |
-| **Mã hàng**            | Mã định danh của vật tư, hàng hóa hoặc thành phẩm được đưa vào phiên kiểm kê.                         |
-| **Tên mặt hàng**       | Tên của mặt hàng tương ứng với mã hàng.                                                               |
-| **ĐVT**                | Đơn vị tính của mặt hàng.                                                                             |
-| **Đơn giá**            | Đơn giá được sử dụng để tính giá trị hàng tồn kho và xác định giá trị chênh lệch.                     |
-| **Số lượng sổ**        | Số lượng tồn kho được ghi nhận trên sổ kế toán tại ngày kiểm kê.                                      |
-| **Giá trị sổ**         | Tổng giá trị hàng tồn kho theo số liệu trên sổ kế toán.                                               |
-| **Thực đếm**           | Số lượng hàng hóa thực tế được kiểm đếm tại kho.  nhập thông tin này sau khi kiểm kê.                 |
-| **Giá trị thực tế**    | Tổng giá trị hàng hóa được tính theo số lượng thực đếm và đơn giá tương ứng.                          |
-| **Chênh lệch**         | Số lượng chênh lệch giữa thực tế kiểm đếm và số lượng trên sổ kế toán.                                |
-| **Giá trị chênh lệch** | Giá trị tiền tương ứng với phần hàng hóa chênh lệch.                                                  |
-| **Trạng thái**         | Kết quả đối chiếu giữa số lượng thực tế và số lượng trên sổ, bao gồm Khớp, Thừa, Thiếu hoặc Chưa đếm. |
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Tên cột</strong></td><td><strong>Ý nghĩa</strong></td></tr><tr><td><strong>STT</strong></td><td>Số thứ tự của mặt hàng trong danh sách kiểm kê.</td></tr><tr><td><strong>Mã hàng</strong></td><td>Mã định danh của vật tư, hàng hóa hoặc thành phẩm được đưa vào phiên kiểm kê.</td></tr><tr><td><strong>Tên mặt hàng</strong></td><td>Tên của mặt hàng tương ứng với mã hàng.</td></tr><tr><td><strong>ĐVT</strong></td><td>Đơn vị tính của mặt hàng.</td></tr><tr><td><strong>Đơn giá</strong></td><td>Đơn giá được sử dụng để tính giá trị hàng tồn kho và xác định giá trị chênh lệch.</td></tr><tr><td><strong>Số lượng sổ</strong></td><td>Số lượng tồn kho được ghi nhận trên sổ kế toán tại ngày kiểm kê.</td></tr><tr><td><strong>Giá trị sổ</strong></td><td>Tổng giá trị hàng tồn kho theo số liệu trên sổ kế toán.</td></tr><tr><td><strong>Thực đếm</strong></td><td>Số lượng hàng hóa thực tế được kiểm đếm tại kho.  nhập thông tin này sau khi kiểm kê.</td></tr><tr><td><strong>Giá trị thực tế</strong></td><td>Tổng giá trị hàng hóa được tính theo số lượng thực đếm và đơn giá tương ứng.</td></tr><tr><td><strong>Chênh lệch</strong></td><td>Số lượng chênh lệch giữa thực tế kiểm đếm và số lượng trên sổ kế toán.</td></tr><tr><td><strong>Giá trị chênh lệch</strong></td><td>Giá trị tiền tương ứng với phần hàng hóa chênh lệch.</td></tr><tr><td><strong>Trạng thái</strong></td><td>Kết quả đối chiếu giữa số lượng thực tế và số lượng trên sổ, bao gồm Khớp, Thừa, Thiếu hoặc Chưa đếm.</td></tr></tbody></table>
 
 **Nguyên tắc xác định chênh lệch:**
 
@@ -125,9 +109,9 @@
 {% step %}
 #### Bước 1. Tạo phiên kiểm kê mới
 
-\- Tại màn hình Kho chọn chức năng Kiểm kê (<mark style="color:red;">**Phím tắt Alt +**</mark> ) và thực hiện:
+\- Tại màn hình Kho mục xử lý kho (<mark style="color:red;">**Phím tắt F2**</mark>) chọn chức năng Kiểm kê và thực hiện:
 
-1. Chọn kho cần kiểm kê tại trường Kho (<mark style="color:red;">**Phím tắt Alt +**</mark> ).
+1. Chọn kho cần kiểm kê tại trường Kho (<mark style="color:red;">**Phím tắt Alt + O**</mark>).
 2. Chọn ngày thực hiện kiểm kê tại trường ngày kiểm kê (<mark style="color:red;">**Phím tắt Alt + T**</mark>)
 3. Nhập tên người thực hiện tại trường dữ liệu Người kiểm kê (Mạc định sẽ lấy theo tên tài khoản đăng nhập)
 4. Nhấn Lấy số sổ để tạo phiên kiểm kê mới.
@@ -136,7 +120,7 @@
 {% endstep %}
 
 {% step %}
-#### Nhập số lượng kiểm đếm thực tế
+#### Bước 2. Nhập số lượng kiểm đếm thực tế
 
 \- Tại màn hình chi tiết phiên kiểm kê:
 
